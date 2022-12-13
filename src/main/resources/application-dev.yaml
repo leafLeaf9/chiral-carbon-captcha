@@ -1,0 +1,7 @@
+server:
+  port: 9998
+logging:
+  app:
+    name: chiral-carbon-captcha-prod
+  file:
+    path: /logs/dev
