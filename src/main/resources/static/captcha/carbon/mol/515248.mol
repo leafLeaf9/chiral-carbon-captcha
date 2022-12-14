@@ -1,0 +1,152 @@
+515248
+  -OEChem-10302200282D
+ 33 35  0     1  0  0  0  0  0999 V2000
+    3.4026   -1.3296    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6844   -3.0874    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7523   -2.4116    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783    0.4327    0.0000 N   0  0  3  0  0  0  0  0  0  0  0  0
+    4.6783    2.0422    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.7374    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    3.2374    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9889   -0.5178    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.4026   -1.3278    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.9405   -0.8252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9917   -2.1358    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.9422   -1.8252    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.2619    1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.7375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.7374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    2.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.7375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4266   -0.0786    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1220   -1.8807    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5572   -0.8889    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0684   -0.2185    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4309   -2.5735    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8463   -2.4377    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7227    0.8227    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7227    1.6522    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8709    2.6315    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0935   -1.8670    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1000   -3.5474    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3182   -2.1584    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    0.4275    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    3.5474    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    3.5474    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+ 10  1  1  6  0  0  0
+  1 28  1  0  0  0  0
+ 12  2  1  6  0  0  0
+  2 29  1  0  0  0  0
+ 13  3  1  6  0  0  0
+  3 30  1  0  0  0  0
+  9  4  1  1  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 27  1  0  0  0  0
+  6 15  2  0  0  0  0
+  6 18  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  2  0  0  0  0
+  8 17  1  0  0  0  0
+  8 32  1  0  0  0  0
+  8 33  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 18 31  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+515248
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+320
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+8
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+5
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzsAAAAAAAAAAAAAAAAAAAAeIAAAAsAAAAAAAAAFgBgAAAHgAQCAAACDzhkgYF8JfIEgCgAAZhZACAgCkREKABUKAoVBCDWAJAyEAURAgPAALRACDwMAIAAAAAAAAAAAAAAAAAAAAAAAUAACgAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(1S,2S,3R,4S)-4-(6-amino-7,8-dihydropurin-9-yl)cyclopentane-1,2,3-triol
+> <PUBCHEM_IUPAC_CAS_NAME>
+(1S,2S,3R,4S)-4-(6-amino-7,8-dihydropurin-9-yl)cyclopentane-1,2,3-triol
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(1<I>S</I>,2<I>S</I>,3<I>R</I>,4<I>S</I>)-4-(6-amino-7,8-dihydropurin-9-yl)cyclopentane-1,2,3-triol
+> <PUBCHEM_IUPAC_NAME>
+(1S,2S,3R,4S)-4-(6-amino-7,8-dihydropurin-9-yl)cyclopentane-1,2,3-triol
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(1S,2S,3R,4S)-4-(6-azanyl-7,8-dihydropurin-9-yl)cyclopentane-1,2,3-triol
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(1S,2S,3R,4S)-4-(6-amino-7,8-dihydropurin-9-yl)cyclopentane-1,2,3-triol
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H15N5O3/c11-9-6-10(13-2-12-9)15(3-14-6)4-1-5(16)8(18)7(4)17/h2,4-5,7-8,14,16-18H,1,3H2,(H2,11,12,13)/t4-,5-,7+,8-/m0/s1
+> <PUBCHEM_IUPAC_INCHIKEY>
+KXBCMCHCVNRZKJ-MGVQOFIGSA-N
+> <PUBCHEM_XLOGP3_AA>
+-1.5
+> <PUBCHEM_EXACT_MASS>
+253.11748936
+> <PUBCHEM_MOLECULAR_FORMULA>
+C10H15N5O3
+> <PUBCHEM_MOLECULAR_WEIGHT>
+253.26
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1C(C(C(C1O)O)O)N2CNC3=C(N=CN=C32)N
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1[C@@H]([C@H]([C@H]([C@H]1O)O)O)N2CNC3=C(N=CN=C32)N
+> <PUBCHEM_CACTVS_TPSA>
+128
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+253.11748936
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+4
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+10  1  6
+15  16  8
+16  17  8
+12  2  6
+13  3  6
+9  4  5
+6  15  8
+6  18  8
+7  17  8
+7  18  8
+$$$$

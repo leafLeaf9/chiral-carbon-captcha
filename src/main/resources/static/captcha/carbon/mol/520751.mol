@@ -1,0 +1,146 @@
+520751
+  -OEChem-10302200292D
+ 33 34  0     1  0  0  0  0  0999 V2000
+    7.2713    2.8605    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.0445    3.8417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0445    2.2322    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8567    1.0369    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7387    5.6062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8407    5.0784    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.8567    4.0369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7228    3.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6328    4.0438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6408    5.0854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9907    3.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7228    2.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9689    5.5684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9907    2.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8567    2.0369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4609    3.0369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7228    0.5369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8347    5.6984    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8373    3.4585    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2444    4.1452    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2508    4.9746    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8543    5.6674    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7363    6.2262    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2597    2.2269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2727    6.1089    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4284    5.8722    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6651    5.0279    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.4517    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.6222    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4128    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2597    0.2269    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0328    1.0739    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2713    2.8605    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 33  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 16 28  1  0  0  0  0
+ 16 29  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+520751
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+261
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByMAAEAAAAAAAAAAAAAAAAASAAAAA8QAAAAAAAAEixAAAAHgAQAAAADCzBmAcyDoLABACAAiBCAACCCAAgIAAAiIAOjIgdJyKEsRukMCpn0BWOqAew8L8OoAABCAAYQABAAAIQADCAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-methoxy-9-methyl-6,7,8,9-tetrahydro-[1,3]dioxolo[4,5-h]isoquinoline;hydrochloride
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-methoxy-9-methyl-6,7,8,9-tetrahydro-[1,3]dioxolo[4,5-h]isoquinoline;hydrochloride
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+4-methoxy-9-methyl-6,7,8,9-tetrahydro-[1,3]dioxolo[4,5-h]isoquinoline;hydrochloride
+> <PUBCHEM_IUPAC_NAME>
+4-methoxy-9-methyl-6,7,8,9-tetrahydro-[1,3]dioxolo[4,5-h]isoquinoline;hydrochloride
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-methoxy-9-methyl-6,7,8,9-tetrahydro-[1,3]dioxolo[4,5-h]isoquinoline;hydrochloride
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-methoxy-9-methyl-6,7,8,9-tetrahydro-[1,3]dioxol[4,5-h]isoquinoline;hydrochloride
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H15NO3.ClH/c1-7-10-8(3-4-13-7)5-9(14-2)11-12(10)16-6-15-11;/h5,7,13H,3-4,6H2,1-2H3;1H
+> <PUBCHEM_IUPAC_INCHIKEY>
+DFANWSGIEPXIJR-UHFFFAOYSA-N
+> <PUBCHEM_EXACT_MASS>
+257.0818711
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H16ClNO3
+> <PUBCHEM_MOLECULAR_WEIGHT>
+257.71
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1C2=C3C(=C(C=C2CCN1)OC)OCO3.Cl
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1C2=C3C(=C(C=C2CCN1)OC)OCO3.Cl
+> <PUBCHEM_CACTVS_TPSA>
+39.7
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+257.0818711
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+2
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+11  14  8
+12  15  8
+14  15  8
+6  13  3
+7  11  8
+7  8  8
+8  12  8
+$$$$

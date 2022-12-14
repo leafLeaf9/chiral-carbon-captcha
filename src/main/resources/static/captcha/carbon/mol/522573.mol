@@ -1,0 +1,133 @@
+522573
+  -OEChem-10302200292D
+ 29 29  0     1  0  0  0  0  0999 V2000
+    5.0032   -1.2262    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2633    0.0339    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4154   -2.0352    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5032    0.3126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6942   -0.2751    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.0910    1.1217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9154    1.1217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7431    0.0339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3122   -0.2751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0032   -1.2262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6843    2.0352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9209    1.0171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.6353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5972    0.3372    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5217    0.6757    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6050    1.4684    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4727    1.3935    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7445    1.7176    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0342    0.5813    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2546    0.4156    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2507    2.2874    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4321    2.6016    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1179    1.7830    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8561    1.6337    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043    0.9523    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9857    0.4005    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5851   -0.1745    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5392   -1.0501    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4149   -1.0960    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3 10  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+522573
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+228
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwMAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAGgAAAAAADwCAgAACCAAABAAIAACQCAAAAAAAAAAAAAEAAAAAABIAAAACAAAEAAAAAAGLAAAPgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3,3,4-triethyltetrahydrofuran-2,5-dione
+> <PUBCHEM_IUPAC_CAS_NAME>
+3,3,4-triethyloxolane-2,5-dione
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+3,3,4-triethyloxolane-2,5-dione
+> <PUBCHEM_IUPAC_NAME>
+3,3,4-triethyloxolane-2,5-dione
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3,3,4-triethyloxolane-2,5-dione
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3,3,4-triethyltetrahydrofuran-2,5-quinone
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H16O3/c1-4-7-8(11)13-9(12)10(7,5-2)6-3/h7H,4-6H2,1-3H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+VKQGABOHCZRGOR-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+2.1
+> <PUBCHEM_EXACT_MASS>
+184.109944368
+> <PUBCHEM_MOLECULAR_FORMULA>
+C10H16O3
+> <PUBCHEM_MOLECULAR_WEIGHT>
+184.23
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCC1C(=O)OC(=O)C1(CC)CC
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCC1C(=O)OC(=O)C1(CC)CC
+> <PUBCHEM_CACTVS_TPSA>
+43.4
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+184.109944368
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+13
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+5  8  3
+$$$$

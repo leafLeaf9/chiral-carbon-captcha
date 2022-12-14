@@ -1,0 +1,154 @@
+526441
+  -OEChem-10302200292D
+ 33 35  0     1  0  0  0  0  0999 V2000
+    4.6660    1.5119    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321    0.0119    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660   -1.4881    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3030    0.6183    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.2583    0.3962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6826   -0.4881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2583   -1.3723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3030   -1.5944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321   -0.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0857    1.5944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660    0.5119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000    0.0119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000   -0.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061    0.5466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061   -1.5227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.0328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.0089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7190    0.8266    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8630    0.5328    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2602    1.0162    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1676   -0.8744    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1676   -0.1017    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2602   -1.9923    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8630   -1.5089    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8205   -1.9838    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5747   -2.1517    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6909    1.7291    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9510    2.1996    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4805    1.4597    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9132    1.1666    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9132   -2.1427    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643    0.3448    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643   -1.3209    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  9  2  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 19  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 25  1  0  0  0  0
+  8 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 10 29  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 32  1  0  0  0  0
+ 17 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+526441
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+350
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzIAAAAAAAAAAAAAAAAAAAAAAAAAAwQAAABYAAAACBAAAAHgAAAAAADCjBmAQzwIMAAACoAidydACCAAEkAgAJiAE4ZMgIIDqA3ZGEIYhghgCIyccYiACOAAAAAAACAAAAAAAAAAQAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+10-methyl-7,8,9,10-tetrahydro-6H-azepino[2,1-b]quinazolin-12-one
+> <PUBCHEM_IUPAC_CAS_NAME>
+10-methyl-7,8,9,10-tetrahydro-6H-azepino[2,1-b]quinazolin-12-one
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+10-methyl-7,8,9,10-tetrahydro-6<I>H</I>-azepino[2,1-b]quinazolin-12-one
+> <PUBCHEM_IUPAC_NAME>
+10-methyl-7,8,9,10-tetrahydro-6H-azepino[2,1-b]quinazolin-12-one
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+10-methyl-7,8,9,10-tetrahydro-6H-azepino[2,1-b]quinazolin-12-one
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+10-methyl-7,8,9,10-tetrahydro-6H-azepino[2,1-b]quinazolin-12-one
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H16N2O/c1-10-6-2-5-9-13-15-12-8-4-3-7-11(12)14(17)16(10)13/h3-4,7-8,10H,2,5-6,9H2,1H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+SXCZYKXWTKWHAM-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+2.1
+> <PUBCHEM_EXACT_MASS>
+228.126263138
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H16N2O
+> <PUBCHEM_MOLECULAR_WEIGHT>
+228.29
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1CCCCC2=NC3=CC=CC=C3C(=O)N12
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1CCCCC2=NC3=CC=CC=C3C(=O)N12
+> <PUBCHEM_CACTVS_TPSA>
+32.7
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+228.126263138
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+11  12  8
+12  13  8
+12  14  8
+13  15  8
+14  16  8
+15  17  8
+16  17  8
+2  11  8
+2  9  8
+3  13  8
+3  9  8
+4  10  3
+$$$$

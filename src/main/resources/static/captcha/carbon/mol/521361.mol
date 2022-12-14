@@ -1,0 +1,151 @@
+521361
+  -OEChem-10302200292D
+ 35 35  0     1  0  0  0  0  0999 V2000
+    3.7320    1.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.5000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.8660    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6540    0.5826    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2554   -0.1077    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8101    1.4174    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2087    2.1077    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2554    2.1077    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6540    1.4174    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2881   -0.5369    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9081    0.5369    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2181    3.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    3.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9781    3.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4860    3.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    3.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2460    3.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -1.1900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.1900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -2.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -2.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 16  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 18  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 20  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+  6 23  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8 25  1  0  0  0  0
+  8 26  1  0  0  0  0
+  8 27  1  0  0  0  0
+  9 28  1  0  0  0  0
+  9 29  1  0  0  0  0
+  9 30  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 31  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 32  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 33  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 34  1  0  0  0  0
+ 14 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+521361
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+134
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHAAAAAAADCjBGAQyAIMAAACAAiBCAAACAAAgAAAIiAAIAIgIICKAkRGEIAAggACIiAcQgIAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+N,N-diethyl-1-phenyl-propan-2-amine
+> <PUBCHEM_IUPAC_CAS_NAME>
+N,N-diethyl-1-phenyl-2-propanamine
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+<I>N</I>,<I>N</I>-diethyl-1-phenylpropan-2-amine
+> <PUBCHEM_IUPAC_NAME>
+N,N-diethyl-1-phenylpropan-2-amine
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+N,N-diethyl-1-phenyl-propan-2-amine
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+diethyl-(1-methyl-2-phenyl-ethyl)amine
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H21N/c1-4-14(5-2)12(3)11-13-9-7-6-8-10-13/h6-10,12H,4-5,11H2,1-3H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+WZQLSNAODWITCK-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+3.4
+> <PUBCHEM_EXACT_MASS>
+191.167399674
+> <PUBCHEM_MOLECULAR_FORMULA>
+C13H21N
+> <PUBCHEM_MOLECULAR_WEIGHT>
+191.31
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCN(CC)C(C)CC1=CC=CC=C1
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCN(CC)C(C)CC1=CC=CC=C1
+> <PUBCHEM_CACTVS_TPSA>
+3.2
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+191.167399674
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+14
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+10  12  8
+11  13  8
+12  14  8
+13  14  8
+2  6  3
+7  10  8
+7  11  8
+$$$$

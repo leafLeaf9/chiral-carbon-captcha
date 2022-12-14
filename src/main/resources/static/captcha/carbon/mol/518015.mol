@@ -1,0 +1,153 @@
+518015
+  -OEChem-10302200292D
+ 36 36  0     1  0  0  0  0  0999 V2000
+    3.7320   -2.3100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.3100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.8100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    3.6900    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    3.6900    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.8100    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.8660   -3.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -4.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    3.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.1900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0781   -4.3926    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4766   -3.7023    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -1.7731    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -2.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -2.8469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -3.7731    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -4.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -4.8469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2881   -3.3469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -3.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9081   -2.2731    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.3800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951    0.3800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    2.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951    2.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    4.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    3.3800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    4.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 34  1  0  0  0  0
+  4 35  1  0  0  0  0
+  5 17  2  0  0  0  0
+  5 36  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 10 29  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+518015
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+268
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzgAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHAAYAAAADCjBGAQzwIJAAACiAiZiYACCAACgAgAYiAAoZJgIIKKAkZGEIABggAAIyAcQgAAOCAAAAAAAAAAQAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-[methyl(sec-butyl)amino]azobenzamidine
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-[butan-2-yl(methyl)amino]azobenzenecarboximidamide
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+4-[[butan-2-yl(methyl)amino]diazenyl]benzenecarboximidamide
+> <PUBCHEM_IUPAC_NAME>
+4-[[butan-2-yl(methyl)amino]diazenyl]benzenecarboximidamide
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-[[butan-2-yl(methyl)amino]diazenyl]benzenecarboximidamide
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-[methyl(sec-butyl)amino]azobenzamidine
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H19N5/c1-4-9(2)17(3)16-15-11-7-5-10(6-8-11)12(13)14/h5-9H,4H2,1-3H3,(H3,13,14)
+> <PUBCHEM_IUPAC_INCHIKEY>
+CCDBNVSARXPIFY-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3>
+2.6
+> <PUBCHEM_EXACT_MASS>
+233.16404563
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H19N5
+> <PUBCHEM_MOLECULAR_WEIGHT>
+233.31
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCC(C)N(C)N=NC1=CC=C(C=C1)C(=N)N
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCC(C)N(C)N=NC1=CC=C(C=C1)C(=N)N
+> <PUBCHEM_CACTVS_TPSA>
+77.8
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+233.16404563
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+11  13  8
+11  14  8
+12  15  8
+12  16  8
+13  15  8
+14  16  8
+6  8  3
+$$$$

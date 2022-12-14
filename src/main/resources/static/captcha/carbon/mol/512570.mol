@@ -1,0 +1,151 @@
+512570
+  -OEChem-10302200282D
+ 32 34  0     1  0  0  0  0  0999 V2000
+    5.9055    1.3682    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8680    3.0443    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5474   -2.6340    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6760    0.0787    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3825    2.2671    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8360    0.5851    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.5965    0.4171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7057    1.5572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4055   -0.1706    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9055    1.3682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2146    0.4171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.0365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3597    2.1831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4984   -1.2081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1726    0.0082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4467   -1.6391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2894   -1.0269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4594   -3.0443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8479   -0.0347    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3639    2.0745    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1251    1.3396    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6171   -0.5385    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6598    0.5548    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4816   -0.3037    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3402   -0.4819    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1631    2.8469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9927   -1.5667    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6699    0.3784    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8568   -1.2768    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2050   -3.6097    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0248   -3.2986    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7138   -2.4789    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3 16  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 26  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  6  0  0  0
+  6 19  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 18 32  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+512570
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+339
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzMABAAAAAAAAAAAAAAAAAASAAAAAwAAAABYAAAEix8AAAHgQQAAAADCzB2AYyx8LABAiMAiVSUACDCIAlKBBIiJ0OTMgMZjrk9ZuUMaxk1hHo6Ue4yLCOAIABAAAEAAABAAIAAAgAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2R)-9-methoxy-2-methyl-1,2,3,4-tetrahydrobenzothiopheno[3,2-e][1,4]diazepin-5-one
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2R)-9-methoxy-2-methyl-1,2,3,4-tetrahydro-[1]benzothiolo[3,2-e][1,4]diazepin-5-one
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(2<I>R</I>)-9-methoxy-2-methyl-1,2,3,4-tetrahydro-[1]benzothiolo[3,2-e][1,4]diazepin-5-one
+> <PUBCHEM_IUPAC_NAME>
+(2R)-9-methoxy-2-methyl-1,2,3,4-tetrahydro-[1]benzothiolo[3,2-e][1,4]diazepin-5-one
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2R)-9-methoxy-2-methyl-1,2,3,4-tetrahydro-[1]benzothiolo[3,2-e][1,4]diazepin-5-one
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2R)-9-methoxy-2-methyl-1,2,3,4-tetrahydrobenzothiopheno[3,2-e][1,4]diazepin-5-one
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H14N2O2S/c1-7-6-14-13(16)12-11(15-7)9-5-8(17-2)3-4-10(9)18-12/h3-5,7,15H,6H2,1-2H3,(H,14,16)/t7-/m1/s1
+> <PUBCHEM_IUPAC_INCHIKEY>
+SAOBRONRQPLGDZ-SSDOTTSWSA-N
+> <PUBCHEM_XLOGP3_AA>
+2.7
+> <PUBCHEM_EXACT_MASS>
+262.07759887
+> <PUBCHEM_MOLECULAR_FORMULA>
+C13H14N2O2S
+> <PUBCHEM_MOLECULAR_WEIGHT>
+262.33
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1CNC(=O)C2=C(N1)C3=C(S2)C=CC(=C3)OC
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C[C@@H]1CNC(=O)C2=C(N1)C3=C(S2)C=CC(=C3)OC
+> <PUBCHEM_CACTVS_TPSA>
+78.6
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+262.07759887
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+1
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+1  10  8
+1  11  8
+11  15  8
+14  16  8
+15  17  8
+16  17  8
+6  12  6
+7  10  8
+7  9  8
+9  11  8
+9  14  8
+$$$$

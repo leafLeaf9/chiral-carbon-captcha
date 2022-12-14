@@ -1,0 +1,143 @@
+517397
+  -OEChem-10302200292D
+ 32 31  0     1  0  0  0  0  0999 V2000
+    0.0000    1.3100    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4641    1.3100    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0496    8.4300    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
+    4.3301    4.8100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4641    3.3100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7320    0.3100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5981    5.8100    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.5981    4.8100    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    1.7320    4.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7320    3.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4641    4.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5981    2.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8660    2.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8660    1.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5981    1.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7320    1.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1962    4.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0622    4.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    5.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5200    4.8926    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1215    4.2023    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5981    6.4300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2181    5.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9781    5.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    3.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3291    3.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7976    3.8350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5947    3.8350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3722    4.2731    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5991    5.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7522    5.3469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1951    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6 16  1  0  0  0  0
+  6 32  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 22  1  0  0  0  0
+  7 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 27  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 18 29  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 18 31  1  0  0  0  0
+M  CHG  2   3  -1   7   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+517397
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+253
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByMAAEAwAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHgAwCAAADCzjmAYyDoBABgCIAiDSCAACAAAgIAAAiIGECIgKJjKCkRODcAAk0BEImAeYyKCOIAAAAAAAAABAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+[2-ethoxy-1-[(4-hydroxy-3,5-diiodo-phenyl)methyl]-2-oxo-ethyl]ammonium;chloride
+> <PUBCHEM_IUPAC_CAS_NAME>
+[1-ethoxy-3-(4-hydroxy-3,5-diiodophenyl)-1-oxopropan-2-yl]ammonium;chloride
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+[1-ethoxy-3-(4-hydroxy-3,5-diiodophenyl)-1-oxopropan-2-yl]azanium;chloride
+> <PUBCHEM_IUPAC_NAME>
+[1-ethoxy-3-(4-hydroxy-3,5-diiodophenyl)-1-oxopropan-2-yl]azanium;chloride
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+[3-[3,5-bis(iodanyl)-4-oxidanyl-phenyl]-1-ethoxy-1-oxidanylidene-propan-2-yl]azanium;chloride
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+[2-ethoxy-1-(4-hydroxy-3,5-diiodo-benzyl)-2-keto-ethyl]ammonium;chloride
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H13I2NO3.ClH/c1-2-17-11(16)9(14)5-6-3-7(12)10(15)8(13)4-6;/h3-4,9,15H,2,5,14H2,1H3;1H
+> <PUBCHEM_IUPAC_INCHIKEY>
+ILBBOCVXEPIPBR-UHFFFAOYSA-N
+> <PUBCHEM_EXACT_MASS>
+496.87517
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H14ClI2NO3
+> <PUBCHEM_MOLECULAR_WEIGHT>
+497.49
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCOC(=O)C(CC1=CC(=C(C(=C1)I)O)I)[NH3+].[Cl-]
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCOC(=O)C(CC1=CC(=C(C(=C1)I)O)I)[NH3+].[Cl-]
+> <PUBCHEM_CACTVS_TPSA>
+74.2
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+496.87517
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+2
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+10  12  8
+10  13  8
+12  15  8
+13  14  8
+14  16  8
+15  16  8
+8  7  3
+$$$$

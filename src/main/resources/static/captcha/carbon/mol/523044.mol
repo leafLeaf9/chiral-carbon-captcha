@@ -1,0 +1,159 @@
+523044
+  -OEChem-10302200292D
+ 35 37  0     1  0  0  0  0  0999 V2000
+    4.6783   -2.4959    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8385    1.7134    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321    1.3503    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3709    0.0652    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783   -0.8864    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.7320   -1.1912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2619   -1.6912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6730   -0.7836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.1912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.6912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2594   -1.5936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0813    0.1292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.6912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.1912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.1912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5805    1.0430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2541   -1.4908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0760    0.2320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6624   -0.5780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0481    2.6912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7227   -2.1059    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7227   -1.2764    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7647    0.1951    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.0712    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0062   -2.1596    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7177    0.6314    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.3112    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.8812    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -2.5012    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6176   -1.9931    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3292    0.7980    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2791   -0.5143    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6544    2.5612    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1781    3.2974    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4419    2.8211    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2 16  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3 16  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 23  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  2  0  0  0  0
+  7 21  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 18  2  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 30  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 19 32  1  0  0  0  0
+ 20 33  1  0  0  0  0
+ 20 34  1  0  0  0  0
+ 20 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+523044
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+354
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB6MAAAAAAAAAAAAAAAAAAAASAAAAAwYAAAAAAAAEgBQAAAHgAQAAAADIyhmAIyDoLABACIAiBCGACCCAAgIAAIiAAGDIkOJiKEsRuHOCjm1BEYqAeQwOAOgAAAAAAIAAAAAAAAABAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+methyl N-(3-phenyl-2H-benzofuran-3-yl)carbamate
+> <PUBCHEM_IUPAC_CAS_NAME>
+N-(3-phenyl-2H-benzofuran-3-yl)carbamic acid methyl ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+methyl <I>N</I>-(3-phenyl-2<I>H</I>-1-benzofuran-3-yl)carbamate
+> <PUBCHEM_IUPAC_NAME>
+methyl N-(3-phenyl-2H-1-benzofuran-3-yl)carbamate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+methyl N-(3-phenyl-2H-1-benzofuran-3-yl)carbamate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+N-(3-phenylcoumaran-3-yl)carbamic acid methyl ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H15NO3/c1-19-15(18)17-16(12-7-3-2-4-8-12)11-20-14-10-6-5-9-13(14)16/h2-10H,11H2,1H3,(H,17,18)
+> <PUBCHEM_IUPAC_INCHIKEY>
+CSHJGAJOYHKUIL-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+2.7
+> <PUBCHEM_EXACT_MASS>
+269.10519334
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H15NO3
+> <PUBCHEM_MOLECULAR_WEIGHT>
+269.29
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+COC(=O)NC1(COC2=CC=CC=C21)C3=CC=CC=C3
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+COC(=O)NC1(COC2=CC=CC=C21)C3=CC=CC=C3
+> <PUBCHEM_CACTVS_TPSA>
+47.6
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+269.10519334
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+10  14  8
+11  17  8
+12  18  8
+13  15  8
+14  15  8
+17  19  8
+18  19  8
+5  8  3
+6  10  8
+6  9  8
+8  11  8
+8  12  8
+9  13  8
+$$$$

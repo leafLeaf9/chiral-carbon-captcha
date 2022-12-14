@@ -1,0 +1,153 @@
+503701
+  -OEChem-10302200282D
+ 35 37  0     1  0  0  0  0  0999 V2000
+    6.3301   -0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7404   -0.4453    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7404   -2.0547    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.7500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.7500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.2500    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.4641    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7942   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7942   -1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622   -1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282   -2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3241   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0611    1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0747    0.6423    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6762    1.3326    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2181    2.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9781    2.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    0.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5252   -2.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282   -2.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7849   -1.6647    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7849   -0.8353    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100    0.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    0.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -0.7869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7 10  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 29  1  0  0  0  0
+ 19 30  1  0  0  0  0
+ 20 31  1  0  0  0  0
+ 20 32  1  0  0  0  0
+ 21 33  1  0  0  0  0
+ 21 34  1  0  0  0  0
+ 21 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+503701
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+476
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzOAAAAAAAAAAAAAAAAAAAASAAAAAwQAAAAAAAAEgBAAAAHgAAAAAADCzBmAczDoIABACoAiDyLAACCAEkIAAIiAE2iMgdJjKENRqiMSImwBEOqYfK7DzOIAABAAAAQABAAAIAAACAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2-methoxy-4-methyl-4,5-dihydropyrimidin-6-yl) 1,3-benzodioxole-5-carboxylate
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,3-benzodioxole-5-carboxylic acid (2-methoxy-4-methyl-4,5-dihydropyrimidin-6-yl) ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(2-methoxy-4-methyl-4,5-dihydropyrimidin-6-yl) 1,3-benzodioxole-5-carboxylate
+> <PUBCHEM_IUPAC_NAME>
+(2-methoxy-4-methyl-4,5-dihydropyrimidin-6-yl) 1,3-benzodioxole-5-carboxylate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2-methoxy-4-methyl-4,5-dihydropyrimidin-6-yl) 1,3-benzodioxole-5-carboxylate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+piperonylic acid (2-methoxy-4-methyl-4,5-dihydropyrimidin-6-yl) ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H14N2O5/c1-8-5-12(16-14(15-8)18-2)21-13(17)9-3-4-10-11(6-9)20-7-19-10/h3-4,6,8H,5,7H2,1-2H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+SUXGSBHVXPLPRO-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+1.6
+> <PUBCHEM_EXACT_MASS>
+290.09027155
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H14N2O5
+> <PUBCHEM_MOLECULAR_WEIGHT>
+290.27
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1CC(=NC(=N1)OC)OC(=O)C2=CC3=C(C=C2)OCO3
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1CC(=NC(=N1)OC)OC(=O)C2=CC3=C(C=C2)OCO3
+> <PUBCHEM_CACTVS_TPSA>
+78.7
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+290.09027155
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+21
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+12  16  8
+12  17  8
+13  14  8
+13  16  8
+14  19  8
+17  19  8
+8  11  3
+$$$$

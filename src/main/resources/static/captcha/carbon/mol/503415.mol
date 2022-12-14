@@ -1,0 +1,158 @@
+503415
+  -OEChem-10302200282D
+ 36 38  0     1  0  0  0  0  0999 V2000
+    7.1835   -0.5251    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6431   -1.0168    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9161   -2.7811    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9022   -1.7118    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6135    3.2432    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9276    0.7391    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9356    2.3485    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1979    0.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7947    1.5594    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2335   -0.2130    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.6430   -1.0201    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.2282   -1.8310    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.1803   -1.5251    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.9874   -2.1155    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9829    1.0485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9878    2.0485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5152    1.5409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2091    2.6759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2331    2.4582    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.2241    0.6563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6733    0.2240    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3598   -1.5716    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6652   -2.2708    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7336   -1.2454    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5400   -2.5448    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3324   -2.6306    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1352    1.5378    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3313   -1.5528    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3294   -3.2432    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6958    3.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9429    3.2358    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3329   -0.1762    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6167    2.3919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4026   -2.0778    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8352    0.1735    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    3.1538    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 13  1  0  0  0  0
+ 11  2  1  6  0  0  0
+  2 28  1  0  0  0  0
+ 12  3  1  6  0  0  0
+  3 29  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 34  1  0  0  0  0
+ 19  5  1  1  0  0  0
+  5 36  1  0  0  0  0
+ 10  6  1  1  0  0  0
+  6 15  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  2  0  0  0  0
+  8 15  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 32  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 14  1  1  0  0  0
+ 13 24  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 27  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 19 33  1  0  0  0  0
+ 20 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+503415
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+384
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+7
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+5
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzuAAAAAAAAAAAAAAAAAAAAWJAAAAAAAAABAAAAACBgAAAHgAQCAAACBzhlgYFsBfMFgCgAQZhZAAAgC0xEKABUIA4UAiDeAJAyAEeQAAPQAPTQCDwMAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2S,3S,4R,5S)-2-[(7S)-7-hydroxy-7,8-dihydro-4H-imidazo[4,5-d][1,3]diazepin-3-yl]-5-(hydroxymethyl)tetrahydrofuran-3,4-diol
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2S,3S,4R,5S)-2-[(7S)-7-hydroxy-7,8-dihydro-4H-imidazo[4,5-d][1,3]diazepin-3-yl]-5-(hydroxymethyl)oxolane-3,4-diol
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(2<I>S</I>,3<I>S</I>,4<I>R</I>,5<I>S</I>)-2-[(7<I>S</I>)-7-hydroxy-7,8-dihydro-4<I>H</I>-imidazo[4,5-d][1,3]diazepin-3-yl]-5-(hydroxymethyl)oxolane-3,4-diol
+> <PUBCHEM_IUPAC_NAME>
+(2S,3S,4R,5S)-2-[(7S)-7-hydroxy-7,8-dihydro-4H-imidazo[4,5-d][1,3]diazepin-3-yl]-5-(hydroxymethyl)oxolane-3,4-diol
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2S,3R,4S,5S)-2-(hydroxymethyl)-5-[(7S)-7-oxidanyl-7,8-dihydro-4H-imidazo[4,5-d][1,3]diazepin-3-yl]oxolane-3,4-diol
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2S,3S,4R,5S)-2-[(7S)-7-hydroxy-7,8-dihydro-4H-imidazo[4,5-d][1,3]diazepin-3-yl]-5-methylol-tetrahydrofuran-3,4-diol
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H16N4O5/c16-2-6-8(18)9(19)11(20-6)15-4-14-5-1-7(17)12-3-13-10(5)15/h3-4,6-9,11,16-19H,1-2H2,(H,12,13)/t6-,7-,8-,9-,11-/m0/s1
+> <PUBCHEM_IUPAC_INCHIKEY>
+KINKUHCNMYKMHT-BESMBUEOSA-N
+> <PUBCHEM_XLOGP3_AA>
+-2.6
+> <PUBCHEM_EXACT_MASS>
+284.11206962
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H16N4O5
+> <PUBCHEM_MOLECULAR_WEIGHT>
+284.27
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1C(N=CNC2=C1N=CN2C3C(C(C(O3)CO)O)O)O
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1[C@@H](N=CNC2=C1N=CN2[C@@H]3[C@H]([C@H]([C@@H](O3)CO)O)O)O
+> <PUBCHEM_CACTVS_TPSA>
+132
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+284.11206962
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+5
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+13  14  5
+15  16  8
+11  2  6
+12  3  6
+19  5  5
+10  6  5
+6  15  8
+6  17  8
+7  16  8
+7  17  8
+$$$$

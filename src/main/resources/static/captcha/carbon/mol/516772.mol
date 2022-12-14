@@ -1,0 +1,146 @@
+516772
+  -OEChem-10302200292D
+ 33 35  0     1  0  0  0  0  0999 V2000
+    3.2760   -1.3758    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0046   -1.2652    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5053    1.6818    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.0445    0.1764    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.0670    1.2548    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.4493    0.1989    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.0494   -0.3920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9885    0.8954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7864    1.8840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1158   -0.2654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9882    1.0976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5723    0.4236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1084   -0.8215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7817    2.2368    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1143    0.6366    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9426   -0.1584    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5759   -0.7923    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4047   -0.9001    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9917    1.5154    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3472    0.3896    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0613    2.4397    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2908    2.2566    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6303    1.6627    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4673    0.8477    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8428   -0.8221    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6537   -0.5738    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5544    1.3503    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9107    1.7128    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0561    0.0358    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0022    0.8703    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0441   -1.8840    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5206   -0.9216    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  2  0  0  0  0
+  2 14  1  0  0  0  0
+  2 32  1  0  0  0  0
+  2 33  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 13 31  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+516772
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+276
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByIAAAAAAAAAAAAAAAAAAAAAAAAAAwYMAAAAAYAAAAAAAAHgAQAAAADwCBgAAAAABAAAAIAAEQEAAAAAAAAAAAAAEAAAAAABIAgAAAAAAAAAAAAAEYiMCPgAAAAAAAAACAAAQAACAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+tricyclo[5.3.1.03,8]undecane-3-carboxamide
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-tricyclo[5.3.1.03,8]undecanecarboxamide
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+tricyclo[5.3.1.0<SUP>3,8</SUP>]undecane-3-carboxamide
+> <PUBCHEM_IUPAC_NAME>
+tricyclo[5.3.1.03,8]undecane-3-carboxamide
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+tricyclo[5.3.1.03,8]undecane-3-carboxamide
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+tricyclo[5.3.1.03,8]undecane-3-carboxamide
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H19NO/c13-11(14)12-5-1-2-9-6-8(7-12)3-4-10(9)12/h8-10H,1-7H2,(H2,13,14)
+> <PUBCHEM_IUPAC_INCHIKEY>
+OAXXKHFZMFHVTI-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+2.4
+> <PUBCHEM_EXACT_MASS>
+193.146664230
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H19NO
+> <PUBCHEM_MOLECULAR_WEIGHT>
+193.28
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CC2CC3CCC2C(C1)(C3)C(=O)N
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CC2CC3CCC2C(C1)(C3)C(=O)N
+> <PUBCHEM_CACTVS_TPSA>
+43.1
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+193.146664230
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+14
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+4
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+3  9  3
+4  14  3
+5  12  3
+6  10  3
+$$$$

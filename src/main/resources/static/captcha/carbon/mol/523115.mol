@@ -1,0 +1,150 @@
+523115
+  -OEChem-10302200292D
+ 36 36  0     1  0  0  0  0  0999 V2000
+    5.4641    1.2500    0.0000 S   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5981    0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.7500    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5981   -0.2500    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.7320   -1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.7500    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.4641   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1215   -1.6423    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5200   -2.3326    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -2.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0747   -0.8577    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6762   -0.1674    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1996   -2.7250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9966   -2.7250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0201   -2.7869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671   -2.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6401   -1.7131    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -0.2131    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -1.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -1.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4860    0.7500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2460    0.7500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0841    2.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    2.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8441    2.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1 14  1  0  0  0  0
+  2  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 12 30  1  0  0  0  0
+ 13 31  1  0  0  0  0
+ 13 32  1  0  0  0  0
+ 13 33  1  0  0  0  0
+ 14 34  1  0  0  0  0
+ 14 35  1  0  0  0  0
+ 14 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+523115
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+204
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwMABAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAGgQAAAAADRSggAKCAAAAAAIAAAAAAGAAAAAAAAAAAAAAAAAAAAIAAAAAAAAEAAAAAAGAwPAOgAAAAAAAAACAAAIAABAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2-isopropyl-5-methyl-cyclohexyl) methanesulfinate
+> <PUBCHEM_IUPAC_CAS_NAME>
+methanesulfinic acid (5-methyl-2-propan-2-ylcyclohexyl) ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(5-methyl-2-propan-2-ylcyclohexyl) methanesulfinate
+> <PUBCHEM_IUPAC_NAME>
+(5-methyl-2-propan-2-ylcyclohexyl) methanesulfinate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(5-methyl-2-propan-2-yl-cyclohexyl) methanesulfinate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+methanesulfinic acid (2-isopropyl-5-methyl-cyclohexyl) ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H22O2S/c1-8(2)10-6-5-9(3)7-11(10)13-14(4)12/h8-11H,5-7H2,1-4H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+BLHQYXSQYFQSGP-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+3.3
+> <PUBCHEM_EXACT_MASS>
+218.13405111
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H22O2S
+> <PUBCHEM_MOLECULAR_WEIGHT>
+218.36
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1CCC(C(C1)OS(=O)C)C(C)C
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1CCC(C(C1)OS(=O)C)C(C)C
+> <PUBCHEM_CACTVS_TPSA>
+45.5
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+218.13405111
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+14
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+4
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+1  14  3
+5  2  3
+4  10  3
+7  11  3
+$$$$

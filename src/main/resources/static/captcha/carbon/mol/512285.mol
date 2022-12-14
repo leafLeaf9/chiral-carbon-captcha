@@ -1,0 +1,154 @@
+512285
+  -OEChem-10302200282D
+ 32 34  0     1  0  0  0  0  0999 V2000
+    6.7485    0.4010    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7523    2.5766    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6844    3.2525    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783   -0.2677    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783   -1.8772    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.5724    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.0724    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9889    0.6828    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.9405    0.9902    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.4026    1.4929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9422    1.9902    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.9917    2.3009    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.7320   -0.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2619   -1.0724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.0724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.0724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4266    0.2437    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4934    1.2707    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9425    1.9085    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9411    1.0788    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8463    2.6027    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4309    2.7385    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3154    0.6522    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8819   -1.0724    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6886    3.1933    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0781    3.3824    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.5476    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.2624    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -3.3824    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -3.3824    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  9  1  1  1  0  0  0
+  1 25  1  0  0  0  0
+ 11  2  1  1  0  0  0
+  2 27  1  0  0  0  0
+ 12  3  1  6  0  0  0
+  3 28  1  0  0  0  0
+  8  4  1  6  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5 14  2  0  0  0  0
+  5 15  1  0  0  0  0
+  6 17  2  0  0  0  0
+  6 18  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 31  1  0  0  0  0
+  7 32  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 29  1  0  0  0  0
+ 18 30  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+512285
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+319
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzsAAAAAAAAAAAAAAAAAAAAeIAAAAsAAAAAAAAAFgB+AAAHgAQCAAACDzhlgY98LdMEgCgATZnZACCgC0xEqAJ2CA4dJiLeOLA2NGUZAhvgALZyCbwMAIAAAAAAAAAAAAAAAAAAAAAAAUAACgAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(1S,2R,3S,4R)-4-(4-aminoimidazo[4,5-c]pyridin-1-yl)cyclopentane-1,2,3-triol
+> <PUBCHEM_IUPAC_CAS_NAME>
+(1S,2R,3S,4R)-4-(4-amino-1-imidazo[4,5-c]pyridinyl)cyclopentane-1,2,3-triol
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(1<I>S</I>,2<I>R</I>,3<I>S</I>,4<I>R</I>)-4-(4-aminoimidazo[4,5-c]pyridin-1-yl)cyclopentane-1,2,3-triol
+> <PUBCHEM_IUPAC_NAME>
+(1S,2R,3S,4R)-4-(4-aminoimidazo[4,5-c]pyridin-1-yl)cyclopentane-1,2,3-triol
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(1S,2R,3S,4R)-4-(4-azanylimidazo[4,5-c]pyridin-1-yl)cyclopentane-1,2,3-triol
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(1S,2R,3S,4R)-4-(4-aminoimidazo[4,5-c]pyridin-1-yl)cyclopentane-1,2,3-triol
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H14N4O3/c12-11-8-5(1-2-13-11)15(4-14-8)6-3-7(16)10(18)9(6)17/h1-2,4,6-7,9-10,16-18H,3H2,(H2,12,13)/t6-,7+,9+,10-/m1/s1
+> <PUBCHEM_IUPAC_INCHIKEY>
+HZZPYFOOVRPCIF-GOZTYBTRSA-N
+> <PUBCHEM_XLOGP3_AA>
+-1.7
+> <PUBCHEM_EXACT_MASS>
+250.10659032
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H14N4O3
+> <PUBCHEM_MOLECULAR_WEIGHT>
+250.25
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1C(C(C(C1O)O)O)N2C=NC3=C2C=CN=C3N
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1[C@H]([C@@H]([C@@H]([C@H]1O)O)O)N2C=NC3=C2C=CN=C3N
+> <PUBCHEM_CACTVS_TPSA>
+117
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+250.10659032
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+4
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+9  1  5
+13  15  8
+13  16  8
+15  17  8
+16  18  8
+11  2  5
+12  3  6
+4  13  8
+4  14  8
+8  4  6
+5  14  8
+5  15  8
+6  17  8
+6  18  8
+$$$$

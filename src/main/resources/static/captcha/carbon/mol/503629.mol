@@ -1,0 +1,156 @@
+503629
+  -OEChem-10302200282D
+ 36 37  0     1  0  0  0  0  0999 V2000
+    7.2583   -2.0241    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9904   -2.0308    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7263   -1.0375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8660    0.4658    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    2.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.5000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.8660    2.5000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.0000   -3.0000    0.0000 N   0  5  0  0  0  0  0  0  0  0  0  0
+    2.0000    3.0000    0.0000 N   0  5  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4920   -1.0347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4920    1.0347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3981   -0.5208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3981    0.5208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2622   -1.0241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1301   -0.5275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9942   -1.0308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8622   -0.5342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2554   -0.3923    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6540   -1.0826    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6540    1.0826    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2554    0.3923    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    1.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4848   -1.6546    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4848    1.6546    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9338    0.8329    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5305   -0.0541    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7334   -0.0510    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2644   -0.7296    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 21  2  0  0  0  0
+  2 23  2  0  0  0  0
+  3 24  1  0  0  0  0
+  3 36  1  0  0  0  0
+  4 24  2  0  0  0  0
+  5  7  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 31  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 32  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 33  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 34  1  0  0  0  0
+ 22 35  1  0  0  0  0
+ 23 24  1  0  0  0  0
+M  CHG  4   7   1   8   1   9  -1  10  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+503629
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+637
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+8
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzuAAAAAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAAADBAAAAHgAICAAADCzBmAQwCIAAAgCKAqDSCAKCAAAkAAAIiAFABMgIIDKIlRGAYQBkgAAIiYebyfCewAACAAAQAACAAQSAACQAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-(1,4-diazidotetralin-6-yl)-2,4-dioxo-butanoic acid
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-(5,8-diazido-5,6,7,8-tetrahydronaphthalen-2-yl)-2,4-dioxobutanoic acid
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+4-(5,8-diazido-5,6,7,8-tetrahydronaphthalen-2-yl)-2,4-dioxobutanoic acid
+> <PUBCHEM_IUPAC_NAME>
+4-(5,8-diazido-5,6,7,8-tetrahydronaphthalen-2-yl)-2,4-dioxobutanoic acid
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-(5,8-diazido-5,6,7,8-tetrahydronaphthalen-2-yl)-2,4-bis(oxidanylidene)butanoic acid
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-(1,4-diazidotetralin-6-yl)-2,4-diketo-butyric acid
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H12N6O4/c15-19-17-10-3-4-11(18-20-16)9-5-7(1-2-8(9)10)12(21)6-13(22)14(23)24/h1-2,5,10-11H,3-4,6H2,(H,23,24)
+> <PUBCHEM_IUPAC_INCHIKEY>
+ANELOJBUGMHPPW-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+3.5
+> <PUBCHEM_EXACT_MASS>
+328.09200289
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H12N6O4
+> <PUBCHEM_MOLECULAR_WEIGHT>
+328.28
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CC(C2=C(C1N=[N+]=[N-])C=CC(=C2)C(=O)CC(=O)C(=O)O)N=[N+]=[N-]
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CC(C2=C(C1N=[N+]=[N-])C=CC(=C2)C(=O)CC(=O)C(=O)O)N=[N+]=[N-]
+> <PUBCHEM_CACTVS_TPSA>
+100
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+328.09200289
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+24
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+15  16  8
+15  17  8
+16  18  8
+17  19  8
+18  20  8
+19  20  8
+11  5  3
+14  6  3
+$$$$

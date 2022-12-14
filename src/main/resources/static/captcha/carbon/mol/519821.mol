@@ -1,0 +1,144 @@
+519821
+  -OEChem-10302200292D
+ 35 34  0     1  0  0  0  0  0999 V2000
+    6.3301   -0.2990    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.2010    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8301    0.5670    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9641    0.0670    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8301   -1.1651    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.7990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.2990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.7990    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.9641   -1.6651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622   -0.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    1.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    0.2010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8301    2.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.7990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4272   -1.9751    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2741   -2.2020    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5010   -1.3551    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3441    0.0670    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6636   -0.7740    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4607   -0.7740    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8051    1.0345    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8051    1.8315    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4675   -1.7740    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2646   -1.7740    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2382   -0.3360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651    0.5110    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6182    0.7379    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3671    2.6090    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5201    2.8360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2932    1.9890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -0.2621    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.4890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -1.3360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 20  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 16 34  1  0  0  0  0
+ 16 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+519821
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+269
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+8
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwOAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGggACCAACASggAICCAAABxAIQACQCIIAAAAAAAAAAAFAAAABAAAAAAACAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+ethyl 2-diethoxyphosphoryl-2-hydroxy-propanoate
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-diethoxyphosphoryl-2-hydroxypropanoic acid ethyl ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+ethyl 2-diethoxyphosphoryl-2-hydroxypropanoate
+> <PUBCHEM_IUPAC_NAME>
+ethyl 2-diethoxyphosphoryl-2-hydroxypropanoate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+ethyl 2-diethoxyphosphoryl-2-oxidanyl-propanoate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-diethoxyphosphoryl-2-hydroxy-propionic acid ethyl ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C9H19O6P/c1-5-13-8(10)9(4,11)16(12,14-6-2)15-7-3/h11H,5-7H2,1-4H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+JLLYCECFPBUIFU-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+0.1
+> <PUBCHEM_EXACT_MASS>
+254.09192532
+> <PUBCHEM_MOLECULAR_FORMULA>
+C9H19O6P
+> <PUBCHEM_MOLECULAR_WEIGHT>
+254.22
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCOC(=O)C(C)(O)P(=O)(OCC)OCC
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCOC(=O)C(C)(O)P(=O)(OCC)OCC
+> <PUBCHEM_CACTVS_TPSA>
+82.1
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+254.09192532
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+16
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+8  4  3
+$$$$

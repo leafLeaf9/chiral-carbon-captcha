@@ -1,0 +1,161 @@
+511583
+  -OEChem-10302200282D
+ 34 36  0     1  0  0  0  0  0999 V2000
+    5.5116    1.0423    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    2.1356    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2320    3.6744    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.3644    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.1356    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.8660    0.6356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.6356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.3644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5411    2.7234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7026   -0.3589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9230    2.7234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.8644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.8644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6808   -0.5669    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320    3.6744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.8644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.8644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1808    0.2992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.3644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951    1.4456    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6540    1.2182    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2554    0.5279    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1307    2.5318    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2419   -0.7738    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3334    2.5318    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.5544    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.5544    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9329   -1.1332    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5965    4.1760    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -2.1744    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -2.1744    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7974    0.3640    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -3.6744    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -3.6744    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  2  0  0  0  0
+  3 15  1  0  0  0  0
+  4 19  1  0  0  0  0
+  4 33  1  0  0  0  0
+  4 34  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 12  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 15  2  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 16 30  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 18 32  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+511583
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+279
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzAABAAAAAAAAAAAAAAAAAAWJAAAAwAAAAAAAAAAAB8AAAHAQQAAAADCjFWgS90ZdMEAikAjRnZACDgK0xGrBJyBgYdIiIaCKgmZGUIAhokAKoyCcQgMAOCAAAAAAAAAAQAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-[2-imidazol-1-yl-2-(2-thienyl)ethyl]aniline
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-[2-(1-imidazolyl)-2-thiophen-2-ylethyl]aniline
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+4-(2-imidazol-1-yl-2-thiophen-2-ylethyl)aniline
+> <PUBCHEM_IUPAC_NAME>
+4-(2-imidazol-1-yl-2-thiophen-2-ylethyl)aniline
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-(2-imidazol-1-yl-2-thiophen-2-yl-ethyl)aniline
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+[4-[2-imidazol-1-yl-2-(2-thienyl)ethyl]phenyl]amine
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H15N3S/c16-13-5-3-12(4-6-13)10-14(15-2-1-9-19-15)18-8-7-17-11-18/h1-9,11,14H,10,16H2
+> <PUBCHEM_IUPAC_INCHIKEY>
+ALRBSESIZAFSRP-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+2.6
+> <PUBCHEM_EXACT_MASS>
+269.09866866
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H15N3S
+> <PUBCHEM_MOLECULAR_WEIGHT>
+269.4
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CSC(=C1)C(CC2=CC=C(C=C2)N)N3C=CN=C3
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CSC(=C1)C(CC2=CC=C(C=C2)N)N3C=CN=C3
+> <PUBCHEM_CACTVS_TPSA>
+72.1
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+269.09866866
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+1  18  8
+1  7  8
+10  14  8
+12  16  8
+13  17  8
+14  18  8
+16  19  8
+17  19  8
+2  11  8
+2  9  8
+3  11  8
+3  15  8
+5  6  3
+7  10  8
+8  12  8
+8  13  8
+9  15  8
+$$$$

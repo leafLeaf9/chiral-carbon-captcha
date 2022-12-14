@@ -1,0 +1,147 @@
+512766
+  -OEChem-10302200282D
+ 32 33  0     1  0  0  0  0  0999 V2000
+    2.4608   -0.9325    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9019   -3.9151    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9019    3.6077    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3031    2.5896    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2208    0.3463    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4118    0.9341    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7208    1.8851    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7208   -2.1926    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.2208   -0.6537    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.0298   -1.2415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4118   -1.2415    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.7208   -2.1926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3086   -3.0016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0298    0.9341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7208    1.8851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3086    2.6942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4897    4.4167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4394   -2.7450    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6684   -0.3722    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5962   -1.4937    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3398   -0.7046    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9734   -1.6799    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1144   -2.3215    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7856   -2.8092    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8226   -3.3483    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7393   -2.5556    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.3473    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6195    0.7425    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2663   -4.4167    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9912    4.0523    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8541    4.9183    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9881    4.7811    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+ 11  1  1  1  0  0  0
+  1 27  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 29  1  0  0  0  0
+  3 16  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4 16  2  0  0  0  0
+  5  6  1  0  0  0  0
+  9  5  1  6  0  0  0
+  5 14  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  1  6  0  0  0
+  8 18  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+512766
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+289
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzOAAAAAAAAAAAAAAAAAAAAeIAAAAAAAAAAAAAAAABgAAAHgAICAAADTzhlgYuiBIIBgCqART3TAQABAQXkgAQUAG4eEACVApAoAgVQIAGAADQIMHwcAcOAAAAAAAAAAAAAAAAAAAAAKAAAAgAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+methyl 1-[(1R,2R,4S)-2-hydroxy-4-(hydroxymethyl)cyclopentyl]triazole-4-carboxylate
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-[(1R,2R,4S)-2-hydroxy-4-(hydroxymethyl)cyclopentyl]-4-triazolecarboxylic acid methyl ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+methyl 1-[(1<I>R</I>,2<I>R</I>,4<I>S</I>)-2-hydroxy-4-(hydroxymethyl)cyclopentyl]triazole-4-carboxylate
+> <PUBCHEM_IUPAC_NAME>
+methyl 1-[(1R,2R,4S)-2-hydroxy-4-(hydroxymethyl)cyclopentyl]triazole-4-carboxylate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+methyl 1-[(1R,2R,4S)-4-(hydroxymethyl)-2-oxidanyl-cyclopentyl]-1,2,3-triazole-4-carboxylate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-[(1R,2R,4S)-2-hydroxy-4-methylol-cyclopentyl]triazole-4-carboxylic acid methyl ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H15N3O4/c1-17-10(16)7-4-13(12-11-7)8-2-6(5-14)3-9(8)15/h4,6,8-9,14-15H,2-3,5H2,1H3/t6-,8+,9+/m0/s1
+> <PUBCHEM_IUPAC_INCHIKEY>
+IIOHAMHXVVNXLW-NBEYISGCSA-N
+> <PUBCHEM_XLOGP3_AA>
+-0.7
+> <PUBCHEM_EXACT_MASS>
+241.10625597
+> <PUBCHEM_MOLECULAR_FORMULA>
+C10H15N3O4
+> <PUBCHEM_MOLECULAR_WEIGHT>
+241.24
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+COC(=O)C1=CN(N=N1)C2CC(CC2O)CO
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+COC(=O)C1=CN(N=N1)[C@@H]2C[C@@H](C[C@H]2O)CO
+> <PUBCHEM_CACTVS_TPSA>
+97.5
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+241.10625597
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+3
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+11  1  5
+14  15  8
+5  14  8
+5  6  8
+9  5  6
+6  7  8
+7  15  8
+8  13  6
+$$$$

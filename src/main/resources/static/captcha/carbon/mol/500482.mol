@@ -1,0 +1,159 @@
+500482
+  -OEChem-10302200282D
+ 35 37  0     1  0  0  0  0  0999 V2000
+    6.8950   -0.9259    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369    0.6087    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    2.1087    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8010   -0.4121    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.8010    0.6296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8950    1.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.6087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.3913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6651   -0.9154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.1087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.8913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.6087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6613   -1.9154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5331   -0.4188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.3913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5254   -2.4187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3972   -0.9221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    1.1087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3933   -1.9221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7975   -1.0321    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4119    0.5235    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0101    1.2132    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2886    1.6224    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4904    1.6132    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.7287    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.5113    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1232   -2.2233    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5355    0.2012    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.7013    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5230   -3.0387    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9353   -0.6142    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9291   -2.2342    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.9187    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -0.0113    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    2.4187    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2 18  1  0  0  0  0
+  2 33  1  0  0  0  0
+  2 34  1  0  0  0  0
+  3 18  2  0  0  0  0
+  3 35  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 23  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 13  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 16 30  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 19 32  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+500482
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+325
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB7IAAAAAAAAAAAAAAAAAAAAAAAAAA0YIAAAAAAAACRQAAAHgAQAAAADBShmAIxBoBABACgAiJiIACCCACgIAAIiAAmDJgMJqKEsRuCOCDkwBEIqAeQ0OAOIAACAAAIAABAAAQAABAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-phenylchromane-6-carboxamidine
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-phenyl-3,4-dihydro-2H-1-benzopyran-6-carboximidamide
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-phenyl-3,4-dihydro-2<I>H</I>-chromene-6-carboximidamide
+> <PUBCHEM_IUPAC_NAME>
+2-phenyl-3,4-dihydro-2H-chromene-6-carboximidamide
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-phenyl-3,4-dihydro-2H-chromene-6-carboximidamide
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-phenylchroman-6-carboxamidine
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H16N2O/c17-16(18)13-7-9-15-12(10-13)6-8-14(19-15)11-4-2-1-3-5-11/h1-5,7,9-10,14H,6,8H2,(H3,17,18)
+> <PUBCHEM_IUPAC_INCHIKEY>
+VYSFXZAAONZWMZ-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+2.8
+> <PUBCHEM_EXACT_MASS>
+252.126263138
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H16N2O
+> <PUBCHEM_MOLECULAR_WEIGHT>
+252.31
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CC2=C(C=CC(=C2)C(=N)N)OC1C3=CC=CC=C3
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CC2=C(C=CC(=C2)C(=N)N)OC1C3=CC=CC=C3
+> <PUBCHEM_CACTVS_TPSA>
+59.1
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+252.126263138
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+10  12  8
+11  15  8
+12  15  8
+13  16  8
+14  17  8
+16  19  8
+17  19  8
+4  9  3
+7  10  8
+7  8  8
+8  11  8
+9  13  8
+9  14  8
+$$$$

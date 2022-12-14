@@ -1,0 +1,132 @@
+522962
+  -OEChem-10302200292D
+ 26 26  0     1  0  0  0  0  0999 V2000
+    1.8360    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.1350    6.1200    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    6.6200    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.2690    6.6200    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.7690    7.4860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    6.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    5.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    4.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    4.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    3.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    3.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    3.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4294    6.0211    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7074    7.0584    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2439    7.8846    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2940    7.8846    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1909    6.7026    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7924    6.0123    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6720    6.4300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1350    5.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8059    4.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8059    3.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    2.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8360    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 26  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 19  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+522962
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+127
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByAAAEAAAAAAAAAAAAGAAAAAAAAAAwAAAAAAAAAAABAAAAHAAQAAAADSjBGAQwAIBAAACAAiBCAAACAAAgAAAIiIAAAIgIICKAkRCAIAAgkAAIiAcQgMAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-benzylcyclopropanamine;hydrochloride
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(phenylmethyl)-1-cyclopropanamine;hydrochloride
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-benzylcyclopropan-1-amine;hydrochloride
+> <PUBCHEM_IUPAC_NAME>
+2-benzylcyclopropan-1-amine;hydrochloride
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-(phenylmethyl)cyclopropan-1-amine;hydrochloride
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2-benzylcyclopropyl)amine;hydrochloride
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H13N.ClH/c11-10-7-9(10)6-8-4-2-1-3-5-8;/h1-5,9-10H,6-7,11H2;1H
+> <PUBCHEM_IUPAC_INCHIKEY>
+JJKACBNAIHGYOG-UHFFFAOYSA-N
+> <PUBCHEM_EXACT_MASS>
+183.0814771
+> <PUBCHEM_MOLECULAR_FORMULA>
+C10H14ClN
+> <PUBCHEM_MOLECULAR_WEIGHT>
+183.68
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1C(C1N)CC2=CC=CC=C2.Cl
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1C(C1N)CC2=CC=CC=C2.Cl
+> <PUBCHEM_CACTVS_TPSA>
+26
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+183.0814771
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+2
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+10  12  8
+11  12  8
+4  2  3
+3  6  3
+7  8  8
+7  9  8
+8  10  8
+9  11  8
+$$$$

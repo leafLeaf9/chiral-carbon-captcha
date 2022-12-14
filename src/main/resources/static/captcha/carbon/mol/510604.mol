@@ -1,0 +1,157 @@
+510604
+  -OEChem-10302200282D
+ 34 36  0     1  0  0  0  0  0999 V2000
+    8.1240    0.5529    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783   -1.4127    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4883   -1.9991    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3709   -2.3643    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2619   -0.6079    0.0000 N   0  0  3  0  0  0  0  0  0  0  0  0
+    4.6783    0.1968    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.7320   -0.1079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.1079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4883    0.7832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3709    1.1484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2619   -0.6079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.3921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.6079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4011    0.3749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3855    1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.1079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.1079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2112    0.9612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1955    2.3643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1084    1.9560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9609    1.3390    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1803    1.7384    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7809    0.9578    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2619   -1.2279    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8819   -0.6079    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2619    0.0121    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.0121    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.2279    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4649   -0.2419    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8195    2.0310    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    0.2021    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -1.4179    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1318    2.9810    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6106    2.3195    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8 13  2  0  0  0  0
+  9 14  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 19  2  0  0  0  0
+ 15 30  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 33  1  0  0  0  0
+ 20 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+510604
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+475
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByMABEAAAAAAAAAAAAAAAAAWAAAAAwYAAAAAAAAFgBQAAAHAYAQAAADIqBWCQyAYIAAAKAAiBCAHDCABAgBQAIiBgIBogIICKBkxGEIAhggAAIiAcQgMAOgAAAIAAEAAAAAABAAAgAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3-(3-chlorophenyl)-2,3-dimethyl-1,2-benzothiazole 1,1-dioxide
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-(3-chlorophenyl)-2,3-dimethyl-1,2-benzothiazole 1,1-dioxide
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+3-(3-chlorophenyl)-2,3-dimethyl-1,2-benzothiazole 1,1-dioxide
+> <PUBCHEM_IUPAC_NAME>
+3-(3-chlorophenyl)-2,3-dimethyl-1,2-benzothiazole 1,1-dioxide
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-(3-chlorophenyl)-2,3-dimethyl-1,2-benzothiazole 1,1-dioxide
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-(3-chlorophenyl)-2,3-dimethyl-1,2-benzothiazole 1,1-dioxide
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H14ClNO2S/c1-15(11-6-5-7-12(16)10-11)13-8-3-4-9-14(13)20(18,19)17(15)2/h3-10H,1-2H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+FSUWGWTXGVTLBX-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+3.2
+> <PUBCHEM_EXACT_MASS>
+307.0433776
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H14ClNO2S
+> <PUBCHEM_MOLECULAR_WEIGHT>
+307.8
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1(C2=CC=CC=C2S(=O)(=O)N1C)C3=CC(=CC=C3)Cl
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1(C2=CC=CC=C2S(=O)(=O)N1C)C3=CC(=CC=C3)Cl
+> <PUBCHEM_CACTVS_TPSA>
+45.8
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+307.0433776
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+12  16  8
+13  17  8
+14  18  8
+15  19  8
+16  17  8
+18  20  8
+19  20  8
+6  10  3
+7  12  8
+7  8  8
+8  13  8
+9  14  8
+9  15  8
+$$$$

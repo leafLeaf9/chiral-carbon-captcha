@@ -1,0 +1,191 @@
+512693
+  -OEChem-10302200282D
+ 50 52  0     1  0  0  0  0  0999 V2000
+    5.3548   -1.1481    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4026    1.3535    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7485    2.4454    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7523    0.2698    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7735   -5.4868    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0586   -4.3256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783    3.1141    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    2.9188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    4.4188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    5.9188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4327   -4.0028    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9405    1.8562    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.9422    0.8562    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.9889    2.1635    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.9917    0.5455    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6844   -0.4061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    3.4188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2619    3.9188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    4.4188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6783    4.7235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0474   -2.0997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7178   -2.8416    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    4.9188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4104   -3.7932    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.0000    3.4188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0809   -4.5352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4439   -6.2288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4934    1.5756    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4942    1.1386    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4266    2.6027    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3795    0.4475    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1364   -0.1160    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3035   -0.8953    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3154    2.1942    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3182    0.5229    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8819    3.9188    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8709    5.3128    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4995   -1.8095    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6665   -2.5889    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2658   -3.1318    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0987   -2.3524    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9948   -3.3332    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    3.1088    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    6.2288    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    6.2288    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2421   -4.5928    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0170   -3.5428    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9839   -6.6444    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8596   -6.6888    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9039   -5.8131    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+ 12  3  1  6  0  0  0
+  3 34  1  0  0  0  0
+ 13  4  1  6  0  0  0
+  4 35  1  0  0  0  0
+  5 26  1  0  0  0  0
+  5 27  1  0  0  0  0
+  6 26  2  0  0  0  0
+ 14  7  1  1  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 17  2  0  0  0  0
+  8 25  1  0  0  0  0
+  9 23  1  0  0  0  0
+  9 25  2  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 44  1  0  0  0  0
+ 10 45  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 46  1  0  0  0  0
+ 11 47  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 15 16  1  1  0  0  0
+ 15 31  1  0  0  0  0
+ 16 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 36  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 23  2  0  0  0  0
+ 20 37  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 38  1  0  0  0  0
+ 21 39  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 22 40  1  0  0  0  0
+ 22 41  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 24 42  1  0  0  0  0
+ 25 43  1  0  0  0  0
+ 27 48  1  0  0  0  0
+ 27 49  1  0  0  0  0
+ 27 50  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+512693
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+518
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+10
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+8
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB7uABAAAAAAAAAAAAAAAAAAWJAAAAsAAAAAAAAAFgB+AAAHgQQCAAADDzl2wa/uN9MFgioAjL3bACCgCkxArAJ2KG4ZJiLONJgyMEPRAhPEALzQCCwAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+methyl 2-amino-4-[[(2S,3S,4R,5R)-5-(4-aminopyrrolo[2,3-d]pyrimidin-7-yl)-3,4-dihydroxy-tetrahydrofuran-2-yl]methylsulfanyl]butanoate
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-amino-4-[[(2S,3S,4R,5R)-5-(4-amino-7-pyrrolo[2,3-d]pyrimidinyl)-3,4-dihydroxy-2-oxolanyl]methylthio]butanoic acid methyl ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+methyl 2-amino-4-[[(2<I>S</I>,3<I>S</I>,4<I>R</I>,5<I>R</I>)-5-(4-aminopyrrolo[2,3-d]pyrimidin-7-yl)-3,4-dihydroxyoxolan-2-yl]methylsulfanyl]butanoate
+> <PUBCHEM_IUPAC_NAME>
+methyl 2-amino-4-[[(2S,3S,4R,5R)-5-(4-aminopyrrolo[2,3-d]pyrimidin-7-yl)-3,4-dihydroxyoxolan-2-yl]methylsulfanyl]butanoate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+methyl 2-azanyl-4-[[(2S,3S,4R,5R)-5-(4-azanylpyrrolo[2,3-d]pyrimidin-7-yl)-3,4-bis(oxidanyl)oxolan-2-yl]methylsulfanyl]butanoate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-amino-4-[[(2S,3S,4R,5R)-5-(4-aminopyrrolo[2,3-d]pyrimidin-7-yl)-3,4-dihydroxy-tetrahydrofuran-2-yl]methylthio]butyric acid methyl ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H23N5O5S/c1-25-16(24)9(17)3-5-27-6-10-11(22)12(23)15(26-10)21-4-2-8-13(18)19-7-20-14(8)21/h2,4,7,9-12,15,22-23H,3,5-6,17H2,1H3,(H2,18,19,20)/t9?,10-,11-,12-,15-/m1/s1
+> <PUBCHEM_IUPAC_INCHIKEY>
+YCOVPXDZYIFYBB-GVZMZIMISA-N
+> <PUBCHEM_XLOGP3_AA>
+-1.2
+> <PUBCHEM_EXACT_MASS>
+397.14199002
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H23N5O5S
+> <PUBCHEM_MOLECULAR_WEIGHT>
+397.5
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+COC(=O)C(CCSCC1C(C(C(O1)N2C=CC3=C(N=CN=C32)N)O)O)N
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+COC(=O)C(CCSC[C@@H]1[C@H]([C@H]([C@@H](O1)N2C=CC3=C(N=CN=C32)N)O)O)N
+> <PUBCHEM_CACTVS_TPSA>
+184
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+397.14199002
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+27
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+4
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+24  11  3
+15  16  5
+17  19  8
+18  20  8
+19  20  8
+19  23  8
+12  3  6
+13  4  6
+14  7  5
+7  17  8
+7  18  8
+8  17  8
+8  25  8
+9  23  8
+9  25  8
+$$$$

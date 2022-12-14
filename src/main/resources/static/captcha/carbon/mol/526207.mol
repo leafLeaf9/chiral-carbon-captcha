@@ -1,0 +1,155 @@
+526207
+  -OEChem-10302200292D
+ 37 37  0     1  0  0  0  0  0999 V2000
+    2.5369    0.1830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -1.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    1.1830    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.2690    0.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -0.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671   -2.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5010   -2.6830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5010   -0.9510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.6830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    1.6830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    2.6830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    1.8030    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6720   -0.0070    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5571   -2.8539    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4040   -2.6270    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1771   -1.7800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9641   -2.3730    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1910   -3.2200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0380   -2.9930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0380   -1.2610    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8110   -0.4140    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9641   -0.6410    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3471    1.1004    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7456    1.7907    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -2.4370    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7130    2.2200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.9930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0930    1.1461    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.6270    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7550    2.6830    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    3.3030    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5150    2.6830    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.1270    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 37  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  2  0  0  0  0
+  6 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 29  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 13 31  1  0  0  0  0
+ 13 32  1  0  0  0  0
+ 14 33  1  0  0  0  0
+ 15 34  1  0  0  0  0
+ 15 35  1  0  0  0  0
+ 15 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+526207
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+192
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwIAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAGgAACAAADwSAmAAyBoAAAgCAAiBCAAACAAAgIAAIiAAGCIgIJiKCERKAcAAkwBEImAeAwPAPoAACAAAIAABAAAQAABAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-tert-butyl-2-sec-butyl-phenol
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-butan-2-yl-4-tert-butylphenol
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-butan-2-yl-4-<I>tert</I>-butylphenol
+> <PUBCHEM_IUPAC_NAME>
+2-butan-2-yl-4-tert-butylphenol
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-butan-2-yl-4-tert-butyl-phenol
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-tert-butyl-2-sec-butyl-phenol
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H22O/c1-6-10(2)12-9-11(14(3,4)5)7-8-13(12)15/h7-10,15H,6H2,1-5H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+JKFZLMPBXBMSPD-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+4.9
+> <PUBCHEM_EXACT_MASS>
+206.167065321
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H22O
+> <PUBCHEM_MOLECULAR_WEIGHT>
+206.32
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCC(C)C1=C(C=CC(=C1)C(C)(C)C)O
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCC(C)C1=C(C=CC(=C1)C(C)(C)C)O
+> <PUBCHEM_CACTVS_TPSA>
+20.2
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+206.167065321
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+11  14  8
+12  14  8
+3  11  8
+3  6  8
+4  13  3
+5  12  8
+5  6  8
+$$$$

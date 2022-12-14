@@ -1,0 +1,193 @@
+503402
+  -OEChem-10302200282D
+ 55 56  0     1  0  0  0  0  0999 V2000
+    3.7226   -1.9685    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5298   -5.0515    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1677   -1.6064    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1668    5.4640    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7079    1.8763    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5799   -0.7974    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3587   -2.1942    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7555   -2.4154    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9767   -1.0186    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6309    3.4640    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0181   -3.5508    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1121   -5.7560    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8989    3.4640    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7649    4.9640    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8989    6.4640    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3989    0.9252    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.8989    2.4640    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.3989    0.9252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9866    0.1162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0898    1.8763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0328    3.9640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7649    3.9640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0328    4.9640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8989    5.4640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4451   -1.7874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3487   -3.3289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6361   -2.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9365   -4.1380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9136   -2.5562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1176   -5.8605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.1495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7108   -6.7740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0112    1.0222    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3464    2.7455    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0344    0.4236    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5006   -0.2305    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4173    0.5622    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5002    2.0679    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4959    3.6540    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7918   -1.2734    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9991   -1.3567    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8347   -2.9822    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9180   -3.7749    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2894   -2.8892    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0821   -2.8059    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4505   -4.4846    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3672   -3.6920    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4358    6.7740    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3619    6.7740    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2522   -1.5831    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4336   -1.8973    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7478   -2.7159    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1444   -6.5219    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4587   -7.3404    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2772   -7.0262    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 27  1  0  0  0  0
+  1 29  1  0  0  0  0
+  2 28  1  0  0  0  0
+  2 30  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4 23  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 25  1  0  0  0  0
+  8 26  1  0  0  0  0
+ 10 22  2  0  0  0  0
+ 11 29  2  0  0  0  0
+ 12 30  2  0  0  0  0
+ 17 13  1  1  0  0  0
+ 13 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 14 24  2  0  0  0  0
+ 15 24  1  0  0  0  0
+ 15 48  1  0  0  0  0
+ 15 49  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 19  1  1  0  0  0
+ 16 33  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 17 34  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 35  1  0  0  0  0
+ 19 36  1  0  0  0  0
+ 19 37  1  0  0  0  0
+ 20 38  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 21 39  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 25 40  1  0  0  0  0
+ 25 41  1  0  0  0  0
+ 26 28  1  0  0  0  0
+ 26 42  1  0  0  0  0
+ 26 43  1  0  0  0  0
+ 27 44  1  0  0  0  0
+ 27 45  1  0  0  0  0
+ 28 46  1  0  0  0  0
+ 28 47  1  0  0  0  0
+ 29 31  1  0  0  0  0
+ 30 32  1  0  0  0  0
+ 31 50  1  0  0  0  0
+ 31 51  1  0  0  0  0
+ 31 52  1  0  0  0  0
+ 32 53  1  0  0  0  0
+ 32 54  1  0  0  0  0
+ 32 55  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+503402
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+843
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+11
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+14
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB7PQJgAAAAAAAAAAAAAAAAAQAAAAAgAAAAAAAAAAAAAAAAHwQQACAACBTlwAaDAANABRioQCJ2dICAAAEgABAICAAIABiBBAAAIQAKEAAARgIqIAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+S-[2-[2-acetylsulfanylethoxy-[[(2R,5S)-5-(4-amino-5-fluoro-2-oxo-pyrimidin-1-yl)-2,5-dihydrofuran-2-yl]methoxy]phosphoryl]oxyethyl] ethanethioate
+> <PUBCHEM_IUPAC_CAS_NAME>
+ethanethioic acid S-[2-[2-(acetylthio)ethoxy-[[(2R,5S)-5-(4-amino-5-fluoro-2-oxo-1-pyrimidinyl)-2,5-dihydrofuran-2-yl]methoxy]phosphoryl]oxyethyl] ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+<I>S</I>-[2-[2-acetylsulfanylethoxy-[[(2<I>R</I>,5<I>S</I>)-5-(4-amino-5-fluoro-2-oxopyrimidin-1-yl)-2,5-dihydrofuran-2-yl]methoxy]phosphoryl]oxyethyl] ethanethioate
+> <PUBCHEM_IUPAC_NAME>
+S-[2-[2-acetylsulfanylethoxy-[[(2R,5S)-5-(4-amino-5-fluoro-2-oxopyrimidin-1-yl)-2,5-dihydrofuran-2-yl]methoxy]phosphoryl]oxyethyl] ethanethioate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+S-[2-[[(2R,5S)-5-(4-azanyl-5-fluoranyl-2-oxidanylidene-pyrimidin-1-yl)-2,5-dihydrofuran-2-yl]methoxy-(2-ethanoylsulfanylethoxy)phosphoryl]oxyethyl] ethanethioate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+ethanethioic acid S-[2-[2-(acetylthio)ethoxy-[[(2R,5S)-5-(4-amino-5-fluoro-2-keto-pyrimidin-1-yl)-2,5-dihydrofuran-2-yl]methoxy]phosphoryl]oxyethyl] ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C17H23FN3O8PS2/c1-11(22)31-7-5-26-30(25,27-6-8-32-12(2)23)28-10-13-3-4-15(29-13)21-9-14(18)16(19)20-17(21)24/h3-4,9,13,15H,5-8,10H2,1-2H3,(H2,19,20,24)/t13-,15+/m1/s1
+> <PUBCHEM_IUPAC_INCHIKEY>
+URXWYRCBQOJMTA-HIFRSBDPSA-N
+> <PUBCHEM_XLOGP3_AA>
+-0.4
+> <PUBCHEM_EXACT_MASS>
+511.06482221
+> <PUBCHEM_MOLECULAR_FORMULA>
+C17H23FN3O8PS2
+> <PUBCHEM_MOLECULAR_WEIGHT>
+511.5
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(=O)SCCOP(=O)(OCCSC(=O)C)OCC1C=CC(O1)N2C=C(C(=NC2=O)N)F
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(=O)SCCOP(=O)(OCCSC(=O)C)OC[C@H]1C=C[C@H](O1)N2C=C(C(=NC2=O)N)F
+> <PUBCHEM_CACTVS_TPSA>
+197
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+511.06482221
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+32
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+17  13  5
+13  21  8
+13  22  8
+14  22  8
+14  24  8
+16  19  5
+21  23  8
+23  24  8
+$$$$

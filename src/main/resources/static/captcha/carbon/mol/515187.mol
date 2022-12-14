@@ -1,0 +1,157 @@
+515187
+  -OEChem-10302200282D
+ 34 36  0     1  0  0  0  0  0999 V2000
+    4.6660    0.5019    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660   -1.4981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0641    0.0294    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9243    1.5327    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3321    0.0227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1962    0.5261    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.5321    0.0019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4260    0.5366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321   -0.9981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3321   -1.0189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4260   -1.5327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1923    1.5261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000    0.0019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000   -0.9981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061    0.5366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061   -1.5327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.0227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.0189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9282    0.5327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7961    0.0361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7319    0.8381    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4188    1.1565    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8678   -1.3310    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4188   -2.1527    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8123    1.5284    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1899    2.1461    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5723    1.5237    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9132    1.1565    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9132   -2.1527    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643    0.3348    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643   -1.3310    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4882   -0.5020    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3343   -0.2718    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1041    0.5742    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4 19  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 21  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 22  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 29  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 30  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 32  1  0  0  0  0
+ 20 33  1  0  0  0  0
+ 20 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+515187
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+360
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB4MABAAAAAAAAAAAAAAAAAAAAAAAA0YIAAAAAAAACRQAAAGgQAAAAADBSg2AIyD4AABAiIAiDSCAACCAAgKBAIiBoGCIgMJiKkMRqCOCCkwBEoqAeA4KwOIAAAgAAAIABAAAEAAABAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-phenoxathiin-2-ylethyl acetate
+> <PUBCHEM_IUPAC_CAS_NAME>
+acetic acid 1-(2-phenoxathiinyl)ethyl ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1-phenoxathiin-2-ylethyl acetate
+> <PUBCHEM_IUPAC_NAME>
+1-phenoxathiin-2-ylethyl acetate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-phenoxathiin-2-ylethyl ethanoate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+acetic acid 1-phenoxathiin-2-ylethyl ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H14O3S/c1-10(18-11(2)17)12-7-8-14-16(9-12)20-15-6-4-3-5-13(15)19-14/h3-10H,1-2H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+SLFCTKKDJIGNBV-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+3.7
+> <PUBCHEM_EXACT_MASS>
+286.06636548
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H14O3S
+> <PUBCHEM_MOLECULAR_WEIGHT>
+286.3
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C1=CC2=C(C=C1)OC3=CC=CC=C3S2)OC(=O)C
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C1=CC2=C(C=C1)OC3=CC=CC=C3S2)OC(=O)C
+> <PUBCHEM_CACTVS_TPSA>
+60.8
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+286.06636548
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+10  11  8
+13  14  8
+13  15  8
+14  16  8
+15  17  8
+16  18  8
+17  18  8
+5  10  8
+5  8  8
+6  12  3
+7  8  8
+7  9  8
+9  11  8
+$$$$

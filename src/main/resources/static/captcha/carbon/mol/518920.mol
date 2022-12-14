@@ -1,0 +1,119 @@
+518920
+  -OEChem-10302200292D
+ 19 19  0     1  0  0  0  0  0999 V2000
+    2.0000    0.4400    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.5600    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.5600    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.9400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.4400    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.7320    0.4400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.9400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.5600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    2.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1760    2.4769    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    2.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5560    1.4031    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -1.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7 11  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 18  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+518920
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+153
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBwIAAGAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAGgIACAAADBagmCIyAIAAAgCAAiBCAAACAAAgBQAAikAACogINiKBExCAcAAkwAEImAeAwKAOBAAQIACBAAQIACBAAQIACAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-(2,4,5-trichlorophenyl)ethanol
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-(2,4,5-trichlorophenyl)ethanol
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1-(2,4,5-trichlorophenyl)ethanol
+> <PUBCHEM_IUPAC_NAME>
+1-(2,4,5-trichlorophenyl)ethanol
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-[2,4,5-tris(chloranyl)phenyl]ethanol
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-(2,4,5-trichlorophenyl)ethanol
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H7Cl3O/c1-4(12)5-2-7(10)8(11)3-6(5)9/h2-4,12H,1H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+CZTWWYRPCFIOMY-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+3.3
+> <PUBCHEM_EXACT_MASS>
+223.956248
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H7Cl3O
+> <PUBCHEM_MOLECULAR_WEIGHT>
+225.5
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C1=CC(=C(C=C1Cl)Cl)Cl)O
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C1=CC(=C(C=C1Cl)Cl)Cl)O
+> <PUBCHEM_CACTVS_TPSA>
+20.2
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+223.956248
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+10  12  8
+11  12  8
+5  4  3
+6  7  8
+6  8  8
+7  11  8
+8  10  8
+$$$$

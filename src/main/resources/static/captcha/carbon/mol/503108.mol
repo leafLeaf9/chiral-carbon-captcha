@@ -1,0 +1,153 @@
+503108
+  -OEChem-10302200282D
+ 34 35  0     1  0  0  0  0  0999 V2000
+    5.3128    1.2071    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6377   -1.8807    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2068   -1.5716    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5345   -3.6407    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -3.5362    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7147   -0.2929    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1788   -0.2929    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5807    3.2071    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3128    3.2071    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4467   -0.2929    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2558   -1.8807    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.9467   -2.8317    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.4467   -1.2929    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.9467   -2.8317    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.3590   -3.6407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5807    0.2071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3128    0.2071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5807    1.2071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4467    1.7071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4467    2.7071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5807    4.2071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6942   -2.3191    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5591   -2.7347    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8943   -1.0114    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3344   -2.7347    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1880   -4.2367    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9162   -3.9125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6676   -1.9865    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2823   -4.2071    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -4.0378    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0438    1.5171    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2007    4.2071    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5807    4.8271    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9607    4.2071    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 14  1  0  0  0  0
+ 11  3  1  6  0  0  0
+  3 28  1  0  0  0  0
+ 12  4  1  6  0  0  0
+  4 29  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 30  1  0  0  0  0
+  6 16  2  0  0  0  0
+  7 17  2  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 20  2  0  0  0  0
+ 13 10  1  6  0  0  0
+ 10 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 15  1  1  0  0  0
+ 14 25  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 31  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 21 32  1  0  0  0  0
+ 21 33  1  0  0  0  0
+ 21 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+503108
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+507
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+9
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByPABAAAAAAAAAAAAAAAAAASAAAAAgAAAAAAAAAAAAAAAAHgQACAAACBThwAYCCAMABgiIACHSGACAAABAABAACAAIAEADFAIAoAAOUAAHBiCTIYDwMAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+methyl 3-[(2S,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl]-2,4-dioxo-1,3-thiazine-6-carboxylate
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-[(2S,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)-2-oxolanyl]-2,4-dioxo-1,3-thiazine-6-carboxylic acid methyl ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+methyl 3-[(2<I>S</I>,3<I>R</I>,4<I>S</I>,5<I>R</I>)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-2,4-dioxo-1,3-thiazine-6-carboxylate
+> <PUBCHEM_IUPAC_NAME>
+methyl 3-[(2S,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-2,4-dioxo-1,3-thiazine-6-carboxylate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+methyl 3-[(2S,3R,4S,5R)-5-(hydroxymethyl)-3,4-bis(oxidanyl)oxolan-2-yl]-2,4-bis(oxidanylidene)-1,3-thiazine-6-carboxylate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-[(2S,3R,4S,5R)-3,4-dihydroxy-5-methylol-tetrahydrofuran-2-yl]-2,4-diketo-1,3-thiazine-6-carboxylic acid methyl ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H13NO8S/c1-19-10(17)5-2-6(14)12(11(18)21-5)9-8(16)7(15)4(3-13)20-9/h2,4,7-9,13,15-16H,3H2,1H3/t4-,7-,8-,9+/m1/s1
+> <PUBCHEM_IUPAC_INCHIKEY>
+SAXVYFPBDKWNTP-GXTPVXIHSA-N
+> <PUBCHEM_XLOGP3_AA>
+-1.1
+> <PUBCHEM_EXACT_MASS>
+319.03618755
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H13NO8S
+> <PUBCHEM_MOLECULAR_WEIGHT>
+319.29
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+COC(=O)C1=CC(=O)N(C(=O)S1)C2C(C(C(O2)CO)O)O
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+COC(=O)C1=CC(=O)N(C(=O)S1)[C@@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O
+> <PUBCHEM_CACTVS_TPSA>
+159
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+319.03618755
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+21
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+4
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+1  17  8
+1  19  8
+13  10  6
+10  16  8
+10  17  8
+14  15  5
+16  18  8
+18  19  8
+11  3  6
+12  4  6
+$$$$

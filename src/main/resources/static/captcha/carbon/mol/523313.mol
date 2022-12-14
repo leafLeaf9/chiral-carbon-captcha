@@ -1,0 +1,186 @@
+523313
+  -OEChem-10302200292D
+ 57 56  0     1  0  0  0  0  0999 V2000
+    3.7320    1.9330    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    2.4330    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.5670    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.4330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    1.9330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.0670    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    3.4330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.5670    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.9330    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.4641    0.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    2.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2320    2.7990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320    1.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    2.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5622    1.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5622    3.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -3.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660   -3.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -1.7010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    2.5530    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6762    0.3504    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0747    1.0407    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3860    1.0156    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9875    0.3254    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8101   -1.1496    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2087   -0.4593    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5560    1.9700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    1.1230    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1760    0.8961    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7690    3.1090    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9220    3.3360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6951    2.4890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6951    0.7570    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5420    0.5301    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7690    1.3770    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2382    2.3961    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651    3.2430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6182    3.4700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0252    1.2570    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8722    1.0300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0991    1.8770    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0991    3.6090    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2522    3.8360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0252    2.9890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -2.5300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -3.3770    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -3.6039    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8291   -3.7430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6760   -3.9700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9030   -3.1230    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9030   -1.3910    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0560   -1.1640    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8291   -2.0110    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 14  1  0  0  0  0
+  1 15  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 18  1  0  0  0  0
+  2 19  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 21  1  0  0  0  0
+  3 22  1  0  0  0  0
+  3 23  1  0  0  0  0
+  9  4  1  1  0  0  0
+  5 13  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8 17  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 12 30  1  0  0  0  0
+ 14 31  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 14 33  1  0  0  0  0
+ 15 34  1  0  0  0  0
+ 15 35  1  0  0  0  0
+ 15 36  1  0  0  0  0
+ 16 37  1  0  0  0  0
+ 16 38  1  0  0  0  0
+ 16 39  1  0  0  0  0
+ 18 40  1  0  0  0  0
+ 18 41  1  0  0  0  0
+ 18 42  1  0  0  0  0
+ 19 43  1  0  0  0  0
+ 19 44  1  0  0  0  0
+ 19 45  1  0  0  0  0
+ 20 46  1  0  0  0  0
+ 20 47  1  0  0  0  0
+ 20 48  1  0  0  0  0
+ 21 49  1  0  0  0  0
+ 21 50  1  0  0  0  0
+ 21 51  1  0  0  0  0
+ 22 52  1  0  0  0  0
+ 22 53  1  0  0  0  0
+ 22 54  1  0  0  0  0
+ 23 55  1  0  0  0  0
+ 23 56  1  0  0  0  0
+ 23 57  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+523313
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+405
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+11
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcfBwOAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhAAAEAACBSggAJCCAAAAAEIAACQCAIAAAAAAAAAAAFAAAABABIAAAAAAAAEAAAAAAGIbARAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+bis(trimethylsilyl) (2R)-2-trimethylsilyloxyhexanedioate
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2R)-2-trimethylsilyloxyhexanedioic acid bis(trimethylsilyl) ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+bis(trimethylsilyl) (2<I>R</I>)-2-trimethylsilyloxyhexanedioate
+> <PUBCHEM_IUPAC_NAME>
+bis(trimethylsilyl) (2R)-2-trimethylsilyloxyhexanedioate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+bis(trimethylsilyl) (2R)-2-trimethylsilyloxyhexanedioate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2R)-2-trimethylsilyloxyadipic acid bis(trimethylsilyl) ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H34O5Si3/c1-21(2,3)18-13(15(17)20-23(7,8)9)11-10-12-14(16)19-22(4,5)6/h13H,10-12H2,1-9H3/t13-/m1/s1
+> <PUBCHEM_IUPAC_INCHIKEY>
+SCMUEAPKCNESEW-CYBMUJFWSA-N
+> <PUBCHEM_EXACT_MASS>
+378.17140378
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H34O5Si3
+> <PUBCHEM_MOLECULAR_WEIGHT>
+378.68
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C[Si](C)(C)OC(CCCC(=O)O[Si](C)(C)C)C(=O)O[Si](C)(C)C
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C[Si](C)(C)O[C@H](CCCC(=O)O[Si](C)(C)C)C(=O)O[Si](C)(C)C
+> <PUBCHEM_CACTVS_TPSA>
+61.8
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+378.17140378
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+23
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+1
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+9  4  5
+$$$$

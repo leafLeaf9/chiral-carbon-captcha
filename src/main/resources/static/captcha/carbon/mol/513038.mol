@@ -1,0 +1,148 @@
+513038
+  -OEChem-10302200282D
+ 35 38  0     1  0  0  0  0  0999 V2000
+    5.6098   -0.4865    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8778   -0.4865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0118    0.0135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7438    0.0135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8778   -0.4865    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.3778   -1.3525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8778    1.5135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8778   -1.5135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0118    1.0135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.0022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7438    1.0135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7555   -1.0022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0039   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7438    0.0135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3918    0.0171    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3638    0.0171    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3162   -0.9249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9028   -1.7510    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8527   -1.7510    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8778    2.1335    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8778   -2.1335    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7997    1.5961    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4012    0.9059    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3904   -0.8891    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7842   -1.5835    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3544    0.9059    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9558    1.5961    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9713   -1.5835    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3651   -0.8891    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5290    0.3985    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5290   -0.3985    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1423    0.4885    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3453    0.4885    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1468   -0.1765    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6098   -1.1065    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  1 34  1  0  0  0  0
+  1 35  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 13 31  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 14 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+513038
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+242
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByAAAAAAAAAAAAAAAAGAAAAAAAAAAwYMGAAAAAAAAAAAAAHAAQAAAADwDBAAQAAABAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAIAgAAAAAAAEAAAAAEQgMAPgAAAAAAAAACAAAQAACAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+spiro[adamantane-2,2'-cyclopropane]-1'-ylmethanamine
+> <PUBCHEM_IUPAC_CAS_NAME>
+1'-spiro[adamantane-2,2'-cyclopropane]ylmethanamine
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+spiro[adamantane-2,2&apos;-cyclopropane]-1&apos;-ylmethanamine
+> <PUBCHEM_IUPAC_NAME>
+spiro[adamantane-2,2'-cyclopropane]-1'-ylmethanamine
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+spiro[adamantane-2,2'-cyclopropane]-1'-ylmethanamine
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+spiro[adamantane-2,2'-cyclopropane]-1'-ylmethylamine
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H21N/c14-7-12-6-13(12)10-2-8-1-9(4-10)5-11(13)3-8/h8-12H,1-7,14H2
+> <PUBCHEM_IUPAC_INCHIKEY>
+JYMRKYUDQLOGIN-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+2.8
+> <PUBCHEM_EXACT_MASS>
+191.167399674
+> <PUBCHEM_MOLECULAR_FORMULA>
+C13H21N
+> <PUBCHEM_MOLECULAR_WEIGHT>
+191.31
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1C2CC3CC1CC(C2)C34CC4CN
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1C2CC3CC1CC(C2)C34CC4CN
+> <PUBCHEM_CACTVS_TPSA>
+26
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+191.167399674
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+14
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+5  14  3
+$$$$

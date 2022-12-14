@@ -1,0 +1,163 @@
+519469
+  -OEChem-10302200292D
+ 36 39  0     1  0  0  0  0  0999 V2000
+    5.6452   -1.6418    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2534    2.1820    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3222    0.6940    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.5810    1.6600    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    8.7211    0.1852    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9799    1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9495    0.1020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6074    1.0417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3444    2.5086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2104    3.0086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2923   -0.7062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5846    1.2384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2651   -0.5332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9089    0.4456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6253   -1.3017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6398   -1.1319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9709   -2.2401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.9004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3311   -3.0086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3456   -2.8387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7276    1.1631    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0367    2.0803    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5262   -0.4034    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3151    0.0074    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5739    0.9734    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1749    1.7397    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7479    2.6778    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4458    3.5822    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2987    0.5556    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2570   -1.7424    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6441    2.2967    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4255   -0.5501    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5819   -2.3454    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3890   -1.7951    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5454   -3.5904    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9490   -3.3152    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 30  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 31  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 23  1  0  0  0  0
+  5 24  1  0  0  0  0
+  6 25  1  0  0  0  0
+  6 26  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 12  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 32  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 33  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 34  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 35  1  0  0  0  0
+ 20 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+519469
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+385
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB4MAAAAAAAAAAAAAAAAAAAAAAAAAAwYMECAAAAAADBQAAAGgAACAAADQSAmAAwBoAAAgCAAiBCAAACAAAgIAAIiAAGCIgIJiKCERKAcAAkwBEImAfAwPAOwQADAAAYAACCAAYAADAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-phenyltricyclo[6.2.2.02,7]dodeca-2,4,6,9-tetraene-3,6-diol
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-phenyltricyclo[6.2.2.02,7]dodeca-2,4,6,9-tetraene-3,6-diol
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+4-phenyltricyclo[6.2.2.0<SUP>2,7</SUP>]dodeca-2,4,6,9-tetraene-3,6-diol
+> <PUBCHEM_IUPAC_NAME>
+4-phenyltricyclo[6.2.2.02,7]dodeca-2,4,6,9-tetraene-3,6-diol
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-phenyltricyclo[6.2.2.02,7]dodeca-2,4,6,9-tetraene-3,6-diol
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-phenyltricyclo[6.2.2.02,7]dodeca-2,4,6,9-tetraene-3,6-diol
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C18H16O2/c19-15-10-14(11-4-2-1-3-5-11)18(20)17-13-8-6-12(7-9-13)16(15)17/h1-6,8,10,12-13,19-20H,7,9H2
+> <PUBCHEM_IUPAC_INCHIKEY>
+IQJFMFDSYYMVHZ-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+4.4
+> <PUBCHEM_EXACT_MASS>
+264.115029749
+> <PUBCHEM_MOLECULAR_FORMULA>
+C18H16O2
+> <PUBCHEM_MOLECULAR_WEIGHT>
+264.3
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CC2C=CC1C3=C(C=C(C(=C23)O)C4=CC=CC=C4)O
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CC2C=CC1C3=C(C=C(C(=C23)O)C4=CC=CC=C4)O
+> <PUBCHEM_CACTVS_TPSA>
+40.5
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+264.115029749
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+11  13  8
+12  14  8
+13  14  8
+15  16  8
+15  17  8
+16  18  8
+17  19  8
+18  20  8
+19  20  8
+3  5  3
+4  6  3
+7  11  8
+7  8  8
+8  12  8
+$$$$

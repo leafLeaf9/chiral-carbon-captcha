@@ -1,0 +1,147 @@
+509505
+  -OEChem-10302200282D
+ 31 33  0     1  0  0  0  0  0999 V2000
+    6.0197    2.9966    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2463   -0.2282    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9666   -3.6166    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8936   -0.7635    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6064   -1.9224    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1537    1.4966    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.1537    0.4966    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.0202    0.9966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2026    0.1876    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.2026    1.8056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1537    2.4966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6148    0.9966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5628   -1.5066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9155   -0.9714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2537   -2.4576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2756   -2.6656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9229   -3.2008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4993   -0.2799    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4187    0.5216    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4187    1.4716    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5903    0.0906    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0110    2.3953    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9416    3.0792    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5431    2.3890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9948    0.9966    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0197    3.6166    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1692   -1.3777    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.0513    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4621   -3.6157    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3377   -3.6616    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3836   -2.7859    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2 14  2  0  0  0  0
+  3 16  2  0  0  0  0
+  9  4  1  1  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 28  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  1  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 18  1  1  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 27  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+509505
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+468
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzMAAAAAAAAAAAAAAAGAAAAQAAAAAgQAAAAAAAAAAAAAAAHgAQCAAADyjhgAYDAAPAAgCIAiFWUACAAAAgAAAICAEIAEiAEAIAgQAEQAAMxyIIAMOwUAMPgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-[(1S,2S,5R)-5-(hydroxymethyl)-2-bicyclo[3.1.0]hex-3-enyl]-5-methyl-pyrimidine-2,4-dione
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-[(1S,2S,5R)-5-(hydroxymethyl)-2-bicyclo[3.1.0]hex-3-enyl]-5-methylpyrimidine-2,4-dione
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1-[(1<I>S</I>,2<I>S</I>,5<I>R</I>)-5-(hydroxymethyl)-2-bicyclo[3.1.0]hex-3-enyl]-5-methylpyrimidine-2,4-dione
+> <PUBCHEM_IUPAC_NAME>
+1-[(1S,2S,5R)-5-(hydroxymethyl)-2-bicyclo[3.1.0]hex-3-enyl]-5-methylpyrimidine-2,4-dione
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-[(1S,2S,5R)-5-(hydroxymethyl)-2-bicyclo[3.1.0]hex-3-enyl]-5-methyl-pyrimidine-2,4-dione
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+5-methyl-1-[(1S,2S,5R)-5-methylol-2-bicyclo[3.1.0]hex-3-enyl]pyrimidine-2,4-quinone
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H14N2O3/c1-7-5-14(11(17)13-10(7)16)9-2-3-12(6-15)4-8(9)12/h2-3,5,8-9,15H,4,6H2,1H3,(H,13,16,17)/t8-,9+,12-/m1/s1
+> <PUBCHEM_IUPAC_INCHIKEY>
+QPYQVQQWMIJOQF-VDDIYKPWSA-N
+> <PUBCHEM_XLOGP3_AA>
+-0.2
+> <PUBCHEM_EXACT_MASS>
+234.10044231
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H14N2O3
+> <PUBCHEM_MOLECULAR_WEIGHT>
+234.25
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=CN(C(=O)NC1=O)C2C=CC3(C2C3)CO
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=CN(C(=O)NC1=O)[C@H]2C=C[C@]3([C@@H]2C3)CO
+> <PUBCHEM_CACTVS_TPSA>
+69.6
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+234.10044231
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+3
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+13  15  8
+15  16  8
+4  13  8
+4  14  8
+9  4  5
+5  14  8
+5  16  8
+6  11  5
+7  18  5
+$$$$

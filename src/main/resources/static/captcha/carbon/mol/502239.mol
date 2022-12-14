@@ -1,0 +1,146 @@
+502239
+  -OEChem-10302200282D
+ 31 32  0     1  0  0  0  0  0999 V2000
+    2.7147   -0.3725    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.4467   -3.3725    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6377    1.2153    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5345    2.9754    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    2.8709    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9467    2.1664    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.4467    0.6275    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.2558    1.2153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9467    2.1664    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.4467   -0.3725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3590    2.9754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3128   -0.8725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5807   -0.8725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3128   -1.8725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5807   -1.8725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4467   -2.3725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1788   -2.3725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6653    2.7188    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8943    0.3461    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5658    0.6784    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8222    1.4675    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3344    2.0694    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9162    3.2472    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1880    3.5714    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1511    2.9106    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8497   -0.5625    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0438   -2.1825    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    3.3725    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8688   -2.9094    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7157   -2.6825    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4888   -1.8355    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  6  4  1  1  0  0  0
+  4 25  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 28  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  6  0  0  0
+  7 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 11  1  6  0  0  0
+  9 22  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 27  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 17 31  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+502239
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+266
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwMQAEAAAAAAAAAAAAAAAAASAAAAAwAAAAAAAAAAABAAAAGwIACAAADBagmCoyAIAABgCAAiBCAAACAAAgBQAAiAAACogJNiKBMxiCcAAlwAELqAeA4PQOBAACAAABAAAIAAQAAAIAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2R,3S,5R)-5-(2-chloro-4-fluoro-5-methyl-phenyl)-2-(hydroxymethyl)tetrahydrofuran-3-ol
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2R,3S,5R)-5-(2-chloro-4-fluoro-5-methylphenyl)-2-(hydroxymethyl)-3-oxolanol
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(2<I>R</I>,3<I>S</I>,5<I>R</I>)-5-(2-chloro-4-fluoro-5-methylphenyl)-2-(hydroxymethyl)oxolan-3-ol
+> <PUBCHEM_IUPAC_NAME>
+(2R,3S,5R)-5-(2-chloro-4-fluoro-5-methylphenyl)-2-(hydroxymethyl)oxolan-3-ol
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2R,3S,5R)-5-(2-chloranyl-4-fluoranyl-5-methyl-phenyl)-2-(hydroxymethyl)oxolan-3-ol
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2R,3S,5R)-5-(2-chloro-4-fluoro-5-methyl-phenyl)-2-methylol-tetrahydrofuran-3-ol
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H14ClFO3/c1-6-2-7(8(13)3-9(6)14)11-4-10(16)12(5-15)17-11/h2-3,10-12,15-16H,4-5H2,1H3/t10-,11+,12+/m0/s1
+> <PUBCHEM_IUPAC_INCHIKEY>
+IFGYSXKOMBBXGR-QJPTWQEYSA-N
+> <PUBCHEM_XLOGP3_AA>
+2.1
+> <PUBCHEM_EXACT_MASS>
+260.0615502
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H14ClFO3
+> <PUBCHEM_MOLECULAR_WEIGHT>
+260.69
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=CC(=C(C=C1F)Cl)C2CC(C(O2)CO)O
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=CC(=C(C=C1F)Cl)[C@H]2C[C@@H]([C@H](O2)CO)O
+> <PUBCHEM_CACTVS_TPSA>
+49.7
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+260.0615502
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+3
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+10  12  8
+10  13  8
+12  14  8
+13  15  8
+14  16  8
+15  16  8
+6  4  5
+7  10  6
+9  11  6
+$$$$

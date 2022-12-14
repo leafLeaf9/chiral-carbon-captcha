@@ -1,0 +1,115 @@
+509190
+  -OEChem-10302200282D
+ 19 19  0     1  0  0  0  0  0999 V2000
+    5.6454    1.3362    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4699    1.3362    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5896   -1.7110    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5576   -1.0116    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7486   -0.4239    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.0576    0.5272    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.0576    0.5272    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.3667   -0.4239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7976   -0.7329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6516   -1.0362    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4453    0.4302    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7762    1.0796    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6767   -0.9608    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9331   -0.1717    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5576   -1.6316    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7113   -0.1189    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1779   -0.7112    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7220    1.9026    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.9026    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  7  1  1  6  0  0  0
+  6  2  1  1  0  0  0
+  2 18  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  6  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+509190
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+101
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBiMQAAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAAAAAAAHwAQCAAACDzhgAYAAALAAgAAAAAAAAAAAAAAAAAAAIAIAAACEAIAgAAEQAAHEACQAACQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2R,3R,4R)-4-fluoro-2-(hydroxymethyl)pyrrolidin-3-ol
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2R,3R,4R)-4-fluoro-2-(hydroxymethyl)-3-pyrrolidinol
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(2<I>R</I>,3<I>R</I>,4<I>R</I>)-4-fluoro-2-(hydroxymethyl)pyrrolidin-3-ol
+> <PUBCHEM_IUPAC_NAME>
+(2R,3R,4R)-4-fluoro-2-(hydroxymethyl)pyrrolidin-3-ol
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2R,3R,4R)-4-fluoranyl-2-(hydroxymethyl)pyrrolidin-3-ol
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2R,3R,4R)-4-fluoro-2-methylol-pyrrolidin-3-ol
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C5H10FNO2/c6-3-1-7-4(2-8)5(3)9/h3-5,7-9H,1-2H2/t3-,4-,5+/m1/s1
+> <PUBCHEM_IUPAC_INCHIKEY>
+VWZLFARLEDEART-WDCZJNDASA-N
+> <PUBCHEM_XLOGP3_AA>
+-0.7
+> <PUBCHEM_EXACT_MASS>
+135.06955672
+> <PUBCHEM_MOLECULAR_FORMULA>
+C5H10FNO2
+> <PUBCHEM_MOLECULAR_WEIGHT>
+135.14
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1C(C(C(N1)CO)O)F
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1[C@H]([C@@H]([C@H](N1)CO)O)F
+> <PUBCHEM_CACTVS_TPSA>
+52.5
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+135.06955672
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+3
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+7  1  6
+6  2  5
+5  9  6
+$$$$

@@ -1,0 +1,147 @@
+517720
+  -OEChem-10302200292D
+ 36 35  0     1  0  0  0  0  0999 V2000
+    5.1350   -2.0796    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -1.5796    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671   -1.0796    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.5010   -2.4456    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5010   -0.7136    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -2.5796    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.4030   -2.0796    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.9030   -1.2136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.3476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -1.5796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9030    0.5185    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9030   -2.9456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    1.3845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9030    2.2505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    3.1165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4280   -0.8151    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4280   -1.6121    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8779   -0.7461    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8779    0.0510    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6675   -1.1047    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8705   -1.1047    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4280    0.9170    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4280    0.1199    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.8896    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2269   -2.0427    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8469   -3.1165    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660   -3.2556    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2130   -3.4826    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4399   -2.6356    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8779    0.9860    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8779    1.7830    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4280    2.6490    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4280    1.8520    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9399    2.8065    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7130    3.6535    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    3.4265    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 24  1  0  0  0  0
+  6 25  1  0  0  0  0
+  6 26  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 13 31  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 14 33  1  0  0  0  0
+ 15 34  1  0  0  0  0
+ 15 35  1  0  0  0  0
+ 15 36  1  0  0  0  0
+M  CHG  2   3  -1   6   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+517720
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+248
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+7
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByMABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAQQAAAADIiFQACCAABAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAIAgAAAAAAAEAAAAAEQgMAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-azaniumyl-2-methyl-1-sulfonatosulfanyl-octane
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-ammonio-2-methyl-1-(sulfonatothio)octane
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-azaniumyl-2-methyl-1-sulfonatosulfanyloctane
+> <PUBCHEM_IUPAC_NAME>
+2-azaniumyl-2-methyl-1-sulfonatosulfanyloctane
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-azaniumyl-2-methyl-1-sulfonatosulfanyl-octane
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-ammonio-2-methyl-1-(sulfonatothio)octane
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C9H21NO3S2/c1-3-4-5-6-7-9(2,10)8-14-15(11,12)13/h3-8,10H2,1-2H3,(H,11,12,13)
+> <PUBCHEM_IUPAC_INCHIKEY>
+OJYNSCSZMGARGK-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+-0.6
+> <PUBCHEM_EXACT_MASS>
+255.09628588
+> <PUBCHEM_MOLECULAR_FORMULA>
+C9H21NO3S2
+> <PUBCHEM_MOLECULAR_WEIGHT>
+255.4
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCCCCC(C)(CSS(=O)(=O)[O-])[NH3+]
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCCCCC(C)(CSS(=O)(=O)[O-])[NH3+]
+> <PUBCHEM_CACTVS_TPSA>
+119
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+255.09628588
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+7  6  3
+$$$$

@@ -1,0 +1,132 @@
+518309
+  -OEChem-10302200292D
+ 26 26  0     1  0  0  0  0  0999 V2000
+    2.1810   -0.3949    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2688   -2.7428    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4067    2.2412    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5878    0.5186    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.5823    0.6232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9890    1.5367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.3276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9836    1.6412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7688   -1.2039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7688   -1.2039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4598   -2.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0778   -2.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9712    0.4538    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5391    0.0047    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1839    0.4732    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0323    2.1552    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3875    1.6867    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4860    1.6743    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5693    0.8817    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0484    1.0246    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6002    1.7060    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9188    2.2578    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0423    2.7428    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1333   -0.7023    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8702   -2.3466    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6675   -2.3466    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+518309
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+119
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwIABgAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAABgAAAGgQACAAACACk0AKyAYAAAgiEACBCAAADAIAgCBBIiBgAAIgIMAIgAQAAQAAEAAAgAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(3-thienylsulfanyl)pentan-1-ol
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(3-thiophenylthio)-1-pentanol
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-thiophen-3-ylsulfanylpentan-1-ol
+> <PUBCHEM_IUPAC_NAME>
+2-thiophen-3-ylsulfanylpentan-1-ol
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-thiophen-3-ylsulfanylpentan-1-ol
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-(3-thienylthio)pentan-1-ol
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C9H14OS2/c1-2-3-8(6-10)12-9-4-5-11-7-9/h4-5,7-8,10H,2-3,6H2,1H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+BZZVHVLJDIGMDJ-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+2.7
+> <PUBCHEM_EXACT_MASS>
+202.04860741
+> <PUBCHEM_MOLECULAR_FORMULA>
+C9H14OS2
+> <PUBCHEM_MOLECULAR_WEIGHT>
+202.3
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCC(CO)SC1=CSC=C1
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCC(CO)SC1=CSC=C1
+> <PUBCHEM_CACTVS_TPSA>
+73.8
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+202.04860741
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+10  12  8
+2  11  8
+2  12  8
+4  5  3
+9  10  8
+9  11  8
+$$$$

@@ -2,3 +2,8 @@ spring:
   mvc:
     pathmatch:
       matching-strategy: ANT_PATH_MATCHER
+logging:
+  app:
+    name: chiral-carbon-captcha
+  file:
+    path: /logs

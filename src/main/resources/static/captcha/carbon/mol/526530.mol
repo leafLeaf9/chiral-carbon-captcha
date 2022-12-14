@@ -1,0 +1,150 @@
+526530
+  -OEChem-10302200292D
+ 36 37  0     1  0  0  0  0  0999 V2000
+    9.3424   -1.7384    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5743    0.2295    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9344    1.9237    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8126   -2.2384    0.0000 N   0  0  3  0  0  0  0  0  0  0  0  0
+    6.8126   -1.2384    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.7588   -0.9337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3424   -1.7384    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.7588   -2.5432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8615   -0.9294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8615   -2.5475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2737   -1.7384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5525    0.0216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2653    1.1806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2872    1.3885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6180    0.6454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9782    2.3396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    2.5475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8134   -0.6185    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2962   -0.6245    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5077   -0.3668    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6241   -2.2908    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5077   -3.1101    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2962   -2.8524    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3246   -2.8575    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1137   -3.1139    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6537   -1.7384    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1664    0.1079    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5741    0.6412    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6524   -2.2754    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1573    1.0602    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2032    0.1846    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0788    0.2305    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3930    2.8003    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1289    3.1539    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3936    2.6764    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8711    1.9410    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 29  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 13  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 19  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  3  0  0  0
+ 15 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 17 34  1  0  0  0  0
+ 17 35  1  0  0  0  0
+ 17 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+526530
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+373
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByMAAAAAAAAAAAAAAAAAAAAWIAAAAAAAAAAAAQAAAAAAAAHgAACAAADDzhgAYCCAMABgCIAiDSCACAAAAgAAAACAEIAEgCFAIAoQAGUAAGgACYIYOQYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(6-hydroxy-5,6,7,8-tetrahydro-3H-pyrrolizin-1-yl)methyl 2-methylbut-2-enoate
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-methyl-2-butenoic acid (6-hydroxy-5,6,7,8-tetrahydro-3H-pyrrolizin-1-yl)methyl ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(6-hydroxy-5,6,7,8-tetrahydro-3<I>H</I>-pyrrolizin-1-yl)methyl 2-methylbut-2-enoate
+> <PUBCHEM_IUPAC_NAME>
+(6-hydroxy-5,6,7,8-tetrahydro-3H-pyrrolizin-1-yl)methyl 2-methylbut-2-enoate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(6-oxidanyl-5,6,7,8-tetrahydro-3H-pyrrolizin-1-yl)methyl 2-methylbut-2-enoate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-methylbut-2-enoic acid (6-hydroxy-5,6,7,8-tetrahydro-3H-pyrrolizin-1-yl)methyl ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H19NO3/c1-3-9(2)13(16)17-8-10-4-5-14-7-11(15)6-12(10)14/h3-4,11-12,15H,5-8H2,1-2H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+INLNQFFMTZLCNW-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+0.5
+> <PUBCHEM_EXACT_MASS>
+237.13649347
+> <PUBCHEM_MOLECULAR_FORMULA>
+C13H19NO3
+> <PUBCHEM_MOLECULAR_WEIGHT>
+237.29
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC=C(C)C(=O)OCC1=CCN2C1CC(C2)O
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC=C(C)C(=O)OCC1=CCN2C1CC(C2)O
+> <PUBCHEM_CACTVS_TPSA>
+49.8
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+237.13649347
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+7  1  3
+14  16  1
+5  6  3
+$$$$

@@ -1,0 +1,148 @@
+519824
+  -OEChem-10302200292D
+ 34 36  0     1  0  0  0  0  0999 V2000
+    5.9796    1.3489    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7892   -1.1345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6552    0.1656    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0913   -0.1885    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2741    1.9250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6706    0.3979    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.4796   -0.1899    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.9796    1.3489    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.2886    0.3979    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.7833   -1.1337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2946    2.1337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9522    0.9343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7344   -1.4427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7833   -2.1337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.2397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2117    0.2623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5464   -0.2095    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9785   -0.5550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2361    1.9134    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7907    0.7617    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8246    2.4554    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0683    2.7109    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5428   -2.0323    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3240   -1.6343    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9260   -0.8530    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1633   -2.1337    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7833   -2.7537    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4033   -2.1337    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1893    1.8300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4096    1.4290    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8107    0.6493    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7950    0.7215    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7525   -0.1543    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6283   -0.1968    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 16 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 16 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+519824
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+301
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwOAAAAAAAAAAAAAAAAAAAASJAAAAkAAAAAAASAEgAAAAAGgAAAAAACBSwgAMCCAAABAAAAAAAAAAAAAAAAAAAAAAAAAARAAIAAAAiAAAFAAAGAADAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4,4,11,11-tetramethyl-3,5,7,10,12-pentaoxatricyclo[6.4.0.02,6]dodecane
+> <PUBCHEM_IUPAC_CAS_NAME>
+4,4,11,11-tetramethyl-3,5,7,10,12-pentaoxatricyclo[6.4.0.02,6]dodecane
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+4,4,11,11-tetramethyl-3,5,7,10,12-pentaoxatricyclo[6.4.0.0<SUP>2,6</SUP>]dodecane
+> <PUBCHEM_IUPAC_NAME>
+4,4,11,11-tetramethyl-3,5,7,10,12-pentaoxatricyclo[6.4.0.02,6]dodecane
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4,4,11,11-tetramethyl-3,5,7,10,12-pentaoxatricyclo[6.4.0.02,6]dodecane
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4,4,11,11-tetramethyl-3,5,7,10,12-pentaoxatricyclo[6.4.0.02,6]dodecane
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H18O5/c1-10(2)12-5-6-7(14-10)8-9(13-6)16-11(3,4)15-8/h6-9H,5H2,1-4H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+NKZDPBSWYPINNF-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+0.6
+> <PUBCHEM_EXACT_MASS>
+230.11542367
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H18O5
+> <PUBCHEM_MOLECULAR_WEIGHT>
+230.26
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1(OCC2C(O1)C3C(O2)OC(O3)(C)C)C
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1(OCC2C(O1)C3C(O2)OC(O3)(C)C)C
+> <PUBCHEM_CACTVS_TPSA>
+46.2
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+230.11542367
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+16
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+4
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+7  2  3
+6  3  3
+9  4  3
+8  11  3
+$$$$

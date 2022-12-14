@@ -1,0 +1,114 @@
+525103
+  -OEChem-10302200292D
+ 20 19  0     1  0  0  0  0  0999 V2000
+    3.2320    0.9330    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.0670    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.5670    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.9330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.0670    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.8660   -0.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320   -0.7990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4675   -0.9080    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2646   -0.9080    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6951   -1.1090    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5420   -1.3360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7690   -0.4890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7287    1.0419    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9316    1.0419    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8862   -0.4699    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331   -0.2430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5062    0.6039    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+525103
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+127
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBgMAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgIAAAAACAeAgEACCAAABAAIAACQCAAAAAAAAAAAAEEAAwAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(1,2-dichloro-1-methyl-ethyl) propanoate
+> <PUBCHEM_IUPAC_CAS_NAME>
+propanoic acid 1,2-dichloropropan-2-yl ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,2-dichloropropan-2-yl propanoate
+> <PUBCHEM_IUPAC_NAME>
+1,2-dichloropropan-2-yl propanoate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,2-bis(chloranyl)propan-2-yl propanoate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+propionic acid (1,2-dichloro-1-methyl-ethyl) ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C6H10Cl2O2/c1-3-5(9)10-6(2,8)4-7/h3-4H2,1-2H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+COGMNUVPPFECPW-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+2.1
+> <PUBCHEM_EXACT_MASS>
+184.0057849
+> <PUBCHEM_MOLECULAR_FORMULA>
+C6H10Cl2O2
+> <PUBCHEM_MOLECULAR_WEIGHT>
+185.05
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCC(=O)OC(C)(CCl)Cl
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCC(=O)OC(C)(CCl)Cl
+> <PUBCHEM_CACTVS_TPSA>
+26.3
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+184.0057849
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+5  1  3
+$$$$

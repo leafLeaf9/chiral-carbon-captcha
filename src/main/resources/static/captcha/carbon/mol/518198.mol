@@ -1,0 +1,156 @@
+518198
+  -OEChem-10302200292D
+ 34 36  0     1  0  0  0  0  0999 V2000
+    7.1722    0.9490    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2152    0.5366    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2152   -1.0729    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    0.7319    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -0.7681    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -2.2682    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -2.7682    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5259    1.4871    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.5044    1.6933    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.8580    2.2314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8150    2.6438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1687    3.1819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1472    3.3882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.2319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7988   -0.2681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.7681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -1.2682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369    0.2319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9192    1.3592    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3118    1.1040    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3111    2.5234    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4755    1.7435    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3620    2.3518    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1976    3.1317    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1481    3.8016    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5549    3.2693    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6736    3.7158    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9159    3.9634    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4188   -0.2681    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7789    1.0769    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.5419    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9399   -2.5782    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -3.3882    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.4582    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 30  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 15  2  0  0  0  0
+  3 16  1  0  0  0  0
+  4 14  2  0  0  0  0
+  4 18  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 32  1  0  0  0  0
+  7 33  1  0  0  0  0
+  7 34  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 18 31  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+518198
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+291
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzoAAAAAAAAAAAAAAAAAAAAWAAAAA8QAAAAAAAAFgB+AAAHgAYCAAACDzhlwYF8L9uEgCgAQZhZACAhC0REKIVcCAoVBCCWAJAyEAURAgMAALQACGQQAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(6-hydrazinopurin-9-yl)cyclohexanol
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(6-hydrazinyl-9-purinyl)-1-cyclohexanol
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-(6-hydrazinylpurin-9-yl)cyclohexan-1-ol
+> <PUBCHEM_IUPAC_NAME>
+2-(6-hydrazinylpurin-9-yl)cyclohexan-1-ol
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-(6-diazanylpurin-9-yl)cyclohexan-1-ol
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-(6-hydrazinopurin-9-yl)cyclohexanol
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H16N6O/c12-16-10-9-11(14-5-13-10)17(6-15-9)7-3-1-2-4-8(7)18/h5-8,18H,1-4,12H2,(H,13,14,16)
+> <PUBCHEM_IUPAC_INCHIKEY>
+ONORGJBBTBGRNG-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+0.2
+> <PUBCHEM_EXACT_MASS>
+248.13855916
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H16N6O
+> <PUBCHEM_MOLECULAR_WEIGHT>
+248.28
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CCC(C(C1)N2C=NC3=C(N=CN=C32)NN)O
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CCC(C(C1)N2C=NC3=C(N=CN=C32)NN)O
+> <PUBCHEM_CACTVS_TPSA>
+102
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+248.13855916
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+9  1  3
+14  16  8
+16  17  8
+2  14  8
+2  15  8
+8  2  3
+3  15  8
+3  16  8
+4  14  8
+4  18  8
+5  17  8
+5  18  8
+$$$$

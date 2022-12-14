@@ -1,0 +1,155 @@
+501166
+  -OEChem-10302200282D
+ 33 34  0     1  0  0  0  0  0999 V2000
+    3.7320    0.2500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    1.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.2500    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.7500    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.2500    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5981   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -3.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    3.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -1.4400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951   -3.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1760   -0.7131    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -0.9400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5560   -1.7869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -3.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -3.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.4400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    3.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    3.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    0.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    3.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 17  2  0  0  0  0
+  5 11  1  0  0  0  0
+  5 31  1  0  0  0  0
+  5 32  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 30  1  0  0  0  0
+ 19 33  1  0  0  0  0
+M  CHG  2   3  -1   4   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+501166
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+314
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzMABAAAAAAAAAAAAAAAAAAAAAAAA8QAAAAAAAAAABwAAAHgQUAAAADADF2gS+gZJYEAioAjF3VACC0CBxCjAo2Dk4ZJoIIPLglZGEIAhgkADoyAcYiICOgAAAAAAQAAAAAAAAACAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(o-tolyl)-2-(1-oxidopyridin-1-ium-2-yl)sulfanyl-acetamide
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(2-methylphenyl)-2-[(1-oxido-2-pyridin-1-iumyl)thio]acetamide
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-(2-methylphenyl)-2-(1-oxidopyridin-1-ium-2-yl)sulfanylacetamide
+> <PUBCHEM_IUPAC_NAME>
+2-(2-methylphenyl)-2-(1-oxidopyridin-1-ium-2-yl)sulfanylacetamide
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-(2-methylphenyl)-2-(1-oxidanidylpyridin-1-ium-2-yl)sulfanyl-ethanamide
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-(o-tolyl)-2-[(1-oxidopyridin-1-ium-2-yl)thio]acetamide
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H14N2O2S/c1-10-6-2-3-7-11(10)13(14(15)17)19-12-8-4-5-9-16(12)18/h2-9,13H,1H3,(H2,15,17)
+> <PUBCHEM_IUPAC_INCHIKEY>
+IDEXDTCLBDFYHG-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+1.7
+> <PUBCHEM_EXACT_MASS>
+274.07759887
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H14N2O2S
+> <PUBCHEM_MOLECULAR_WEIGHT>
+274.34
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=CC=CC=C1C(C(=O)N)SC2=CC=CC=[N+]2[O-]
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=CC=CC=C1C(C(=O)N)SC2=CC=CC=[N+]2[O-]
+> <PUBCHEM_CACTVS_TPSA>
+93.8
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+274.07759887
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+10  15  8
+13  15  8
+14  16  8
+16  18  8
+17  19  8
+18  19  8
+4  14  8
+4  17  8
+6  11  3
+7  8  8
+7  9  8
+8  10  8
+9  13  8
+$$$$

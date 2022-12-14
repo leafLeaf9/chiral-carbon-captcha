@@ -1,0 +1,115 @@
+504008
+  -OEChem-10302200282D
+ 20 20  0     1  0  0  0  0  0999 V2000
+    4.6261   -1.7071    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5691    0.3807    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.0716    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7601   -0.2071    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6723    2.1407    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2601    1.3317    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.2601    1.3317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9511    0.3807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7601   -1.2071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6261   -2.7071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6477    1.2347    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8665    1.4606    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1953    1.9483    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1495   -1.0995    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5480   -1.7897    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9245    2.7071    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0557    2.0759    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0061   -2.7071    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6261   -3.3271    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2461   -2.7071    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+504008
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+142
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBjMABAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAAAAAAAHgQUAAAACCjhgAaCAAJQAAgIAAEQEAAAAABAAAAgAIGIAAACQAQAAAAUAAACMgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-amino-2-(methylsulfanylmethyl)isoxazolidin-3-one
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-amino-2-[(methylthio)methyl]-3-isoxazolidinone
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+4-amino-2-(methylsulfanylmethyl)-1,2-oxazolidin-3-one
+> <PUBCHEM_IUPAC_NAME>
+4-amino-2-(methylsulfanylmethyl)-1,2-oxazolidin-3-one
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-azanyl-2-(methylsulfanylmethyl)-1,2-oxazolidin-3-one
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-amino-2-[(methylthio)methyl]isoxazolidin-3-one
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C5H10N2O2S/c1-10-3-7-5(8)4(6)2-9-7/h4H,2-3,6H2,1H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+BXZYFXTUIFGQTN-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+-0.6
+> <PUBCHEM_EXACT_MASS>
+162.04629874
+> <PUBCHEM_MOLECULAR_FORMULA>
+C5H10N2O2S
+> <PUBCHEM_MOLECULAR_WEIGHT>
+162.21
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CSCN1C(=O)C(CO1)N
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CSCN1C(=O)C(CO1)N
+> <PUBCHEM_CACTVS_TPSA>
+80.9
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+162.04629874
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+6  5  3
+$$$$

@@ -1,0 +1,152 @@
+506560
+  -OEChem-10302200282D
+ 35 36  0     1  0  0  0  0  0999 V2000
+    2.0000   -3.8965    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -4.8965    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320    0.6424    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4921   -0.6177    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6443    1.4514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2320    0.6424    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.0510    2.3649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4632    3.1739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9230   -0.3087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8699    4.0875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.8965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5411   -0.3087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.8965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2822    4.8965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.3965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.3965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.3965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -3.3965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -3.8965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1303    1.7981    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2136    1.0054    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5135    1.1948    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5650    2.0182    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4817    2.8109    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9492    3.5206    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0325    2.7279    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3334   -0.5003    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3840    3.7408    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3006    4.5335    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7838    5.2609    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9177    5.3981    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7806    4.5321    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -2.0865    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -2.0865    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -3.7065    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 20  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 23  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 25  1  0  0  0  0
+  8 26  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 27  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 10 29  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 30  1  0  0  0  0
+ 14 31  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 33  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 34  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+506560
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+354
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwMAAGAAAAAAAAAAAAAAAAAQAAAAAwAAAAAAAAAAABAAAAGgIAAAAADBagmCIyCIAABACIAiDSCAACAAAgBQAIikEAAsgIJDKBNxCCMAAkwAEIqYeIyKCOBAAAIAAAAAQIAABAAAAACAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-(3,4-dichlorophenyl)-2-pentyl-2H-furan-5-one
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-(3,4-dichlorophenyl)-2-pentyl-2H-furan-5-one
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+4-(3,4-dichlorophenyl)-2-pentyl-2<I>H</I>-furan-5-one
+> <PUBCHEM_IUPAC_NAME>
+4-(3,4-dichlorophenyl)-2-pentyl-2H-furan-5-one
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-(3,4-dichlorophenyl)-2-pentyl-2H-furan-5-one
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-amyl-4-(3,4-dichlorophenyl)-2H-furan-5-one
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H16Cl2O2/c1-2-3-4-5-11-9-12(15(18)19-11)10-6-7-13(16)14(17)8-10/h6-9,11H,2-5H2,1H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+NXACWGNMUFEAKU-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+5.5
+> <PUBCHEM_EXACT_MASS>
+298.0527351
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H16Cl2O2
+> <PUBCHEM_MOLECULAR_WEIGHT>
+299.2
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCCCC1C=C(C(=O)O1)C2=CC(=C(C=C2)Cl)Cl
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCCCC1C=C(C(=O)O1)C2=CC(=C(C=C2)Cl)Cl
+> <PUBCHEM_CACTVS_TPSA>
+26.3
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+298.0527351
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+13  15  8
+13  16  8
+15  17  8
+16  18  8
+17  19  8
+18  19  8
+6  5  3
+$$$$

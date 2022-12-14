@@ -1,0 +1,149 @@
+503257
+  -OEChem-10302200282D
+ 36 36  0     1  0  0  0  0  0999 V2000
+    8.2797    1.8626    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8785    2.8807    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3314   -1.8807    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5352   -0.7200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1974   -0.3807    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1096    1.9672    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6942    0.5672    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0634   -1.8807    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3884    0.2071    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.6974    1.1581    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.6974    1.1581    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.0064    0.2071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4374   -0.1019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2852    1.9672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1974   -1.3807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7431    0.2582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0634   -2.8807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.9273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2914   -0.4053    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9789    1.7106    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4159    1.7106    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3164   -0.3299    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5728    0.4593    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9488   -0.4836    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7284   -0.6494    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3618    2.5336    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4930    1.9024    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8231    1.1736    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6004   -1.5707    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6442    2.3642    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4434   -2.8807    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0634   -3.5007    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6834   -2.8807    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4149    1.3881    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5392    1.3422    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5851    0.4666    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  1 30  1  0  0  0  0
+  2 14  2  0  0  0  0
+  3 15  2  0  0  0  0
+  4 16  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 26  1  0  0  0  0
+  6 27  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 28  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 29  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+ 17 33  1  0  0  0  0
+ 18 34  1  0  0  0  0
+ 18 35  1  0  0  0  0
+ 18 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+503257
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+360
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzuAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAAAAAAAHgAQCAAADSjBgAQDCAPAAgAIAAGQGAAAAAAAAAAAAIEIAACAQBoAwAAUQAAOFgKAAAC8EQIMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+5-(acetamidomethyl)-4-amino-1-(methylcarbamoyl)pyrrolidine-3-carboxylic acid
+> <PUBCHEM_IUPAC_CAS_NAME>
+5-(acetamidomethyl)-4-amino-1-(methylcarbamoyl)-3-pyrrolidinecarboxylic acid
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+5-(acetamidomethyl)-4-amino-1-(methylcarbamoyl)pyrrolidine-3-carboxylic acid
+> <PUBCHEM_IUPAC_NAME>
+5-(acetamidomethyl)-4-amino-1-(methylcarbamoyl)pyrrolidine-3-carboxylic acid
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+5-(acetamidomethyl)-4-azanyl-1-(methylcarbamoyl)pyrrolidine-3-carboxylic acid
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+5-(acetamidomethyl)-4-amino-1-(methylcarbamoyl)pyrrolidine-3-carboxylic acid
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H18N4O4/c1-5(15)13-3-7-8(11)6(9(16)17)4-14(7)10(18)12-2/h6-8H,3-4,11H2,1-2H3,(H,12,18)(H,13,15)(H,16,17)
+> <PUBCHEM_IUPAC_INCHIKEY>
+KPGIWVHIPLSKAU-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+-4.4
+> <PUBCHEM_EXACT_MASS>
+258.13280507
+> <PUBCHEM_MOLECULAR_FORMULA>
+C10H18N4O4
+> <PUBCHEM_MOLECULAR_WEIGHT>
+258.27
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(=O)NCC1C(C(CN1C(=O)NC)C(=O)O)N
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(=O)NCC1C(C(CN1C(=O)NC)C(=O)O)N
+> <PUBCHEM_CACTVS_TPSA>
+125
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+258.13280507
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+3
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+11  14  3
+10  6  3
+9  13  3
+$$$$

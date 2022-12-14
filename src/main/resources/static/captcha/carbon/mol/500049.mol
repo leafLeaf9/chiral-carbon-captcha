@@ -1,0 +1,201 @@
+500049
+  -OEChem-10302200282D
+ 53 57  0     1  0  0  0  0  0999 V2000
+    8.3001   -1.2346    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9175    0.0487    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6538   -2.0387    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2793    1.9701    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9277   -0.6422    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5998    3.6722    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6161    0.6448    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.9581   -0.2949    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    9.5896    1.2631    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    9.3308    0.2971    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    8.8530    2.2457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5932    0.8415    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   10.9886    0.7542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7298   -0.2117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3010   -1.1030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2738   -0.9301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2621    1.7851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2849   -1.4082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6270   -2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9482    2.9137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6118   -2.5216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9842   -3.1140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9655    3.0987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9538   -3.4613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3262   -4.0537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3110   -4.2273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3139    2.3401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6343    4.0423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3311    2.5252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6516    4.2273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    3.4687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5809    1.2638    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9590    1.7610    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7923    0.7112    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1708    2.7780    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2399    2.3376    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9837    0.9550    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5385    1.0406    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0161   -0.7616    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6635   -1.0393    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2770   -1.5501    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8738    1.8857    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2692    2.4050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0103   -2.0466    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3736   -3.0063    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5644   -3.5689    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9277   -4.5286    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5231   -4.8099    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5192    1.7551    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0383    4.5126    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9271    2.0548    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4463    4.8123    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3907    3.5835    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 15  2  0  0  0  0
+  4 17  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6 20  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 32  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 33  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 34  1  0  0  0  0
+ 11 35  1  0  0  0  0
+ 11 36  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 37  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 38  1  0  0  0  0
+ 14 39  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 40  1  0  0  0  0
+ 16 41  1  0  0  0  0
+ 17 42  1  0  0  0  0
+ 17 43  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 19 22  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 21 24  1  0  0  0  0
+ 21 44  1  0  0  0  0
+ 22 25  2  0  0  0  0
+ 22 45  1  0  0  0  0
+ 23 27  2  0  0  0  0
+ 23 28  1  0  0  0  0
+ 24 26  2  0  0  0  0
+ 24 46  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 47  1  0  0  0  0
+ 26 48  1  0  0  0  0
+ 27 29  1  0  0  0  0
+ 27 49  1  0  0  0  0
+ 28 30  2  0  0  0  0
+ 28 50  1  0  0  0  0
+ 29 31  2  0  0  0  0
+ 29 51  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 30 52  1  0  0  0  0
+ 31 53  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+500049
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+747
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+7
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB4OAAAAAAAAAAAAAAAAAAAAYIAAAA0YIEAAAAAAEgBQAAAGgAAAAAADVSgmAIwCIAABACIAqDSCAICAAAkAAAIiAFACMgJJjKANRyCMQAlwAEKqYfKzPCOgAAAAAAAAAAAAAAAAAAAAYAADAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(7-benzoyloxy-6-oxo-4-oxatricyclo[6.2.1.02,7]undec-9-en-3-yl)methyl benzoate
+> <PUBCHEM_IUPAC_CAS_NAME>
+benzoic acid (7-benzoyloxy-6-oxo-4-oxatricyclo[6.2.1.02,7]undec-9-en-3-yl)methyl ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(7-benzoyloxy-6-oxo-4-oxatricyclo[6.2.1.0<SUP>2,7</SUP>]undec-9-en-3-yl)methyl benzoate
+> <PUBCHEM_IUPAC_NAME>
+(7-benzoyloxy-6-oxo-4-oxatricyclo[6.2.1.02,7]undec-9-en-3-yl)methyl benzoate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+[6-oxidanylidene-7-(phenylcarbonyloxy)-4-oxatricyclo[6.2.1.02,7]undec-9-en-3-yl]methyl benzoate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+benzoic acid (7-benzoyloxy-6-keto-4-oxatricyclo[6.2.1.02,7]undec-9-en-3-yl)methyl ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C25H22O6/c26-21-15-29-20(14-30-23(27)16-7-3-1-4-8-16)22-18-11-12-19(13-18)25(21,22)31-24(28)17-9-5-2-6-10-17/h1-12,18-20,22H,13-15H2
+> <PUBCHEM_IUPAC_INCHIKEY>
+BLJFIZOILJVLRR-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+3.9
+> <PUBCHEM_EXACT_MASS>
+418.14163842
+> <PUBCHEM_MOLECULAR_FORMULA>
+C25H22O6
+> <PUBCHEM_MOLECULAR_WEIGHT>
+418.4
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1C2C=CC1C3(C2C(OCC3=O)COC(=O)C4=CC=CC=C4)OC(=O)C5=CC=CC=C5
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1C2C=CC1C3(C2C(OCC3=O)COC(=O)C4=CC=CC=C4)OC(=O)C5=CC=CC=C5
+> <PUBCHEM_CACTVS_TPSA>
+78.9
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+418.14163842
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+31
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+5
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+8  1  3
+10  11  3
+12  17  3
+19  21  8
+19  22  8
+21  24  8
+22  25  8
+23  27  8
+23  28  8
+24  26  8
+25  26  8
+27  29  8
+28  30  8
+29  31  8
+30  31  8
+7  12  3
+9  11  3
+$$$$

@@ -1,0 +1,152 @@
+510272
+  -OEChem-10302200282D
+ 35 36  0     1  0  0  0  0  0999 V2000
+    2.5313   -2.9320    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7634    1.6069    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0234    0.3468    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    4.0339    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3973   -4.4320    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2634    0.0680    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5823    3.3294    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1294   -4.4320    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7634    1.6069    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.4543    0.6558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1756    2.4159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0724    0.6558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2634   -0.9320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3973   -1.4320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1294   -1.4320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3973   -2.4320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1294   -2.4320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2634   -2.9320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9945    4.1384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4013    5.0520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2634   -3.9320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0448    2.1593    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8879    0.9080    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1443    0.1189    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6616    2.7626    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7449    1.9699    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1989    3.3942    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8604   -1.1220    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6663   -1.1220    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6663   -2.7420    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9677    4.7998    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6534    5.6184    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8349    5.3042    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1294   -5.0520    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6663   -4.1220    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 12  2  0  0  0  0
+  4 19  2  0  0  0  0
+  5 21  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 27  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 34  1  0  0  0  0
+  8 35  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  6  0  0  0
+  9 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 30  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 31  1  0  0  0  0
+ 20 32  1  0  0  0  0
+ 20 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+510272
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+445
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzOQAAAAAAAAAAAAAAAAAAAWAAAAAwAAAAAAAAAAABAAAAHwAQAAAADBzhmA4yyIPABACIAiVSWACCAAAlAgAIiIEIZMgKIDLA1ZGNIQhglgDYyYcYiQCeCAAAAAAAAAAQAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-[(5S)-5-(acetamidomethyl)-2-oxo-oxazolidin-3-yl]-2-fluoro-benzamide
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-[(5S)-5-(acetamidomethyl)-2-oxo-3-oxazolidinyl]-2-fluorobenzamide
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+4-[(5<I>S</I>)-5-(acetamidomethyl)-2-oxo-1,3-oxazolidin-3-yl]-2-fluorobenzamide
+> <PUBCHEM_IUPAC_NAME>
+4-[(5S)-5-(acetamidomethyl)-2-oxo-1,3-oxazolidin-3-yl]-2-fluorobenzamide
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-[(5S)-5-(acetamidomethyl)-2-oxidanylidene-1,3-oxazolidin-3-yl]-2-fluoranyl-benzamide
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-[(5S)-5-(acetamidomethyl)-2-keto-oxazolidin-3-yl]-2-fluoro-benzamide
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C13H14FN3O4/c1-7(18)16-5-9-6-17(13(20)21-9)8-2-3-10(12(15)19)11(14)4-8/h2-4,9H,5-6H2,1H3,(H2,15,19)(H,16,18)/t9-/m0/s1
+> <PUBCHEM_IUPAC_INCHIKEY>
+QPPQJVDJANJELR-VIFPVBQESA-N
+> <PUBCHEM_XLOGP3_AA>
+-0.2
+> <PUBCHEM_EXACT_MASS>
+295.09683410
+> <PUBCHEM_MOLECULAR_FORMULA>
+C13H14FN3O4
+> <PUBCHEM_MOLECULAR_WEIGHT>
+295.27
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(=O)NCC1CN(C(=O)O1)C2=CC(=C(C=C2)C(=O)N)F
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(=O)NC[C@H]1CN(C(=O)O1)C2=CC(=C(C=C2)C(=O)N)F
+> <PUBCHEM_CACTVS_TPSA>
+102
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+295.09683410
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+21
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+1
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+13  14  8
+13  15  8
+14  16  8
+15  17  8
+16  18  8
+17  18  8
+9  11  6
+$$$$

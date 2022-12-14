@@ -1,0 +1,141 @@
+523822
+  -OEChem-10302200292D
+ 30 30  0     1  0  0  0  0  0999 V2000
+    2.8660   -3.7500    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.7500    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5981    2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    3.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    3.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    1.4400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8101    1.6674    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2087    2.3577    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3860    3.8326    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9875    3.1423    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1760    2.7869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    2.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5560    1.7131    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7741    3.2131    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    4.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1541    4.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.9400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.9400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -2.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -2.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 19  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  7 22  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  8 25  1  0  0  0  0
+  8 26  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 28  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 30  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+523822
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+198
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwMAAEAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAGgIAAAAADBagmCIyCIAABACIAiDSCAACAAAkBQAIiAEACsgIJjKBNxiCMQAkwAEIqYeIyCCOBAAAAAAAAAAIAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-methylbutyl 4-chlorobenzoate
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-chlorobenzoic acid pentan-2-yl ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+pentan-2-yl 4-chlorobenzoate
+> <PUBCHEM_IUPAC_NAME>
+pentan-2-yl 4-chlorobenzoate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+pentan-2-yl 4-chloranylbenzoate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-chlorobenzoic acid 1-methylbutyl ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H15ClO2/c1-3-4-9(2)15-12(14)10-5-7-11(13)8-6-10/h5-9H,3-4H2,1-2H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+YAOLJHAAVJEVSU-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+4.1
+> <PUBCHEM_EXACT_MASS>
+226.0760574
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H15ClO2
+> <PUBCHEM_MOLECULAR_WEIGHT>
+226.70
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCC(C)OC(=O)C1=CC=C(C=C1)Cl
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCC(C)OC(=O)C1=CC=C(C=C1)Cl
+> <PUBCHEM_CACTVS_TPSA>
+26.3
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+226.0760574
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+10  11  8
+10  12  8
+11  13  8
+12  14  8
+13  15  8
+14  15  8
+4  7  3
+$$$$

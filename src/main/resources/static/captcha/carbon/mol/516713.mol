@@ -1,0 +1,161 @@
+516713
+  -OEChem-10302200292D
+ 36 38  0     1  0  0  0  0  0999 V2000
+   10.7263   -2.5000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    7.2622   -0.5000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.5242    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.5241    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7622    0.3660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7622   -1.3660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5301   -1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5301    2.5000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.5301   -0.5000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.5301    1.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1282   -1.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.3961   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1282   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3961    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9942   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6641   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9942   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8602   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2622    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8602   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7702   -0.5347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7702    1.5347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8641   -0.0208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8641    1.0208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1282   -0.3800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5176   -1.8923    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9162   -2.5826    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9942    0.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9942   -3.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3972   -0.6900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5722    0.9631    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7991    1.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9522    2.0369    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7773   -1.1546    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7773    2.1546    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 21  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  2  0  0  0  0
+  2 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 24  1  0  0  0  0
+  4 25  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 19  2  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 22  2  0  0  0  0
+ 17 23  2  0  0  0  0
+ 18 21  2  0  0  0  0
+ 18 30  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 31  1  0  0  0  0
+ 20 32  1  0  0  0  0
+ 20 33  1  0  0  0  0
+ 20 34  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 22 35  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 23 36  1  0  0  0  0
+ 24 25  2  0  0  0  0
+M  CHG  2   8  -1   9   1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+516713
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+790
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+7
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzOYBEAAAAAAAAAAAAAAAAAAAAAAAwQIAAAAAAAACBAAAAHQYEAAAACAqFUAiywIIQAAqBACRCQnDKAABhAhAoiAAAdIoIYCLgkZGUIAhggIDIyAcQAAAAAAAAAAAAACAAAAAAAAAAQAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(4-chlorocyclohexa-2,4-dien-1-yl)sulfonyl-6,7-difluoro-3-methyl-4-oxido-quinoxalin-1-ium 1-oxide
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-[(4-chloro-1-cyclohexa-2,4-dienyl)sulfonyl]-6,7-difluoro-3-methyl-4-oxidoquinoxalin-1-ium 1-oxide
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-(4-chlorocyclohexa-2,4-dien-1-yl)sulfonyl-6,7-difluoro-3-methyl-4-oxidoquinoxalin-1-ium 1-oxide
+> <PUBCHEM_IUPAC_NAME>
+2-(4-chlorocyclohexa-2,4-dien-1-yl)sulfonyl-6,7-difluoro-3-methyl-4-oxidoquinoxalin-1-ium 1-oxide
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-(4-chloranylcyclohexa-2,4-dien-1-yl)sulfonyl-6,7-bis(fluoranyl)-3-methyl-4-oxidanidyl-quinoxalin-1-ium 1-oxide
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-(4-chlorocyclohexa-2,4-dien-1-yl)sulfonyl-6,7-difluoro-3-methyl-4-oxido-quinoxalin-1-ium 1-oxide
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H11ClF2N2O4S/c1-8-15(25(23,24)10-4-2-9(16)3-5-10)20(22)14-7-12(18)11(17)6-13(14)19(8)21/h2-4,6-7,10H,5H2,1H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+WLTIMFCRFCULQX-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+1.9
+> <PUBCHEM_EXACT_MASS>
+388.0096120
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H11ClF2N2O4S
+> <PUBCHEM_MOLECULAR_WEIGHT>
+388.8
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=C([N+](=O)C2=CC(=C(C=C2N1[O-])F)F)S(=O)(=O)C3CC=C(C=C3)Cl
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=C([N+](=O)C2=CC(=C(C=C2N1[O-])F)F)S(=O)(=O)C3CC=C(C=C3)Cl
+> <PUBCHEM_CACTVS_TPSA>
+88.9
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+388.0096120
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+25
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+10  14  8
+10  17  8
+12  14  8
+16  17  8
+16  22  8
+17  23  8
+11  2  3
+22  24  8
+23  25  8
+24  25  8
+9  12  8
+9  16  8
+$$$$

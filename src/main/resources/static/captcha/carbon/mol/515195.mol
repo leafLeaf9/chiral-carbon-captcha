@@ -1,0 +1,154 @@
+515195
+  -OEChem-10302200282D
+ 35 37  0     1  0  0  0  0  0999 V2000
+    7.2627   -0.5543    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7226   -1.5444    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7406   -2.9457    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3962   -1.0543    0.0000 N   0  0  3  0  0  0  0  0  0  0  0  0
+    6.3962   -0.0543    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.4451   -1.3634    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.4451    0.2547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8573   -0.5543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3962    0.9457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7541   -2.3144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6361   -1.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5302    1.4457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2622    1.4457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5302    2.4457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2622    2.4457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3962    2.9457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9136   -2.1322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.7254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6973    0.8211    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9082    0.5647    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3966   -0.1395    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3966   -0.9692    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1645   -2.5060    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9457   -2.9041    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3438   -2.1228    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9932    1.1357    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7991    1.1357    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9932    2.7557    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7991    2.7557    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3962    3.5657    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5668   -2.6462    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3595   -2.5629    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2522   -1.1590    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4336   -1.4733    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7478   -2.2918    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  6  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  1  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 30  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+ 18 33  1  0  0  0  0
+ 18 34  1  0  0  0  0
+ 18 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+515195
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+353
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByMAAAAAAAAAAAAAAAFgAAAWAAAAA8QAAAAAAAAAABAAAAHgAEAAAADIyhmAIyCIIQBACIAiDSCACCAAAgAAAoiAGADIgKJjKAkTGHMAhkwAGYiAe4/e3eAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+ethyl (2S,5S)-2-methyl-5-phenyl-6-oxa-1-azabicyclo[3.1.0]hexane-2-carboxylate
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2S,5S)-2-methyl-5-phenyl-6-oxa-1-azabicyclo[3.1.0]hexane-2-carboxylic acid ethyl ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+ethyl (2<I>S</I>,5<I>S</I>)-2-methyl-5-phenyl-6-oxa-1-azabicyclo[3.1.0]hexane-2-carboxylate
+> <PUBCHEM_IUPAC_NAME>
+ethyl (2S,5S)-2-methyl-5-phenyl-6-oxa-1-azabicyclo[3.1.0]hexane-2-carboxylate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+ethyl (2S,5S)-2-methyl-5-phenyl-6-oxa-1-azabicyclo[3.1.0]hexane-2-carboxylate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2S,5S)-2-methyl-5-phenyl-6-oxa-1-azabicyclo[3.1.0]hexane-2-carboxylic acid ethyl ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H17NO3/c1-3-17-12(16)13(2)9-10-14(15(13)18-14)11-7-5-4-6-8-11/h4-8H,3,9-10H2,1-2H3/t13-,14-,15?/m0/s1
+> <PUBCHEM_IUPAC_INCHIKEY>
+AVOITBHUDXJYIJ-ZYOSVBKOSA-N
+> <PUBCHEM_XLOGP3_AA>
+2.5
+> <PUBCHEM_EXACT_MASS>
+247.12084340
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H17NO3
+> <PUBCHEM_MOLECULAR_WEIGHT>
+247.29
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCOC(=O)C1(CCC2(N1O2)C3=CC=CC=C3)C
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCOC(=O)[C@@]1(CC[C@@]2(N1O2)C3=CC=CC=C3)C
+> <PUBCHEM_CACTVS_TPSA>
+41.8
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+247.12084340
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+12  14  8
+13  15  8
+14  16  8
+15  16  8
+5  9  6
+6  10  5
+9  12  8
+9  13  8
+$$$$

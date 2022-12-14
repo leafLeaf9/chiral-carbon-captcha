@@ -1,0 +1,159 @@
+511720
+  -OEChem-10302200282D
+ 34 36  0     1  0  0  0  0  0999 V2000
+    7.2622   -3.3642    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.3400    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -3.3883    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.7211    0.2236    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2902   -0.0854    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6179    1.9837    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8491    2.8972    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5301   -3.3642    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3391    0.2236    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.5301   -0.3642    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.0301    1.1747    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.0301    1.1747    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.5301   -1.3642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4423    1.9837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6641   -1.8642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3961   -1.8642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6641   -2.8642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7702   -1.3295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3961   -2.8642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7702   -3.3988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8641   -1.8434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8641   -2.8850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4361   -0.3887    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2875   -0.7501    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6425    1.0777    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4178    1.0777    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9283    2.3304    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0117    1.5377    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7510    0.3295    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2345    1.9189    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9331   -1.5542    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7773   -0.7095    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4846    3.3988    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7773   -4.0188    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 29  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 30  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 33  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 19  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 24  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 14  1  6  0  0  0
+ 12 26  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 14 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 16 19  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 18 21  1  0  0  0  0
+ 18 32  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 20 34  1  0  0  0  0
+ 21 22  2  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+511720
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+407
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByOAAGEAAAAAAAAAAAAAAAASAAAAA8QAAAAAAAAACx8AAAHgJACAABPB6hniIwwPIIFgCgAyRiRACCgCAhByQAmmAwbrgJNuLBs5mGcAhlwAHL6hfw8PcOhABAIAICAAQIAIBABAQACAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2S,5R)-2-(2-bromo-6,7-dichloro-4-quinolyl)-5-(hydroxymethyl)tetrahydrofuran-3,4-diol
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2S,5R)-2-(2-bromo-6,7-dichloro-4-quinolinyl)-5-(hydroxymethyl)oxolane-3,4-diol
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(2<I>S</I>,5<I>R</I>)-2-(2-bromo-6,7-dichloroquinolin-4-yl)-5-(hydroxymethyl)oxolane-3,4-diol
+> <PUBCHEM_IUPAC_NAME>
+(2S,5R)-2-(2-bromo-6,7-dichloroquinolin-4-yl)-5-(hydroxymethyl)oxolane-3,4-diol
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2S,5R)-2-[2-bromanyl-6,7-bis(chloranyl)quinolin-4-yl]-5-(hydroxymethyl)oxolane-3,4-diol
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2S,5R)-2-(2-bromo-6,7-dichloro-4-quinolyl)-5-methylol-tetrahydrofuran-3,4-diol
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H12BrCl2NO4/c15-11-2-6(14-13(21)12(20)10(4-19)22-14)5-1-7(16)8(17)3-9(5)18-11/h1-3,10,12-14,19-21H,4H2/t10-,12?,13?,14+/m1/s1
+> <PUBCHEM_IUPAC_INCHIKEY>
+USZSOZMLGLUAIH-OFVDZJKFSA-N
+> <PUBCHEM_XLOGP3_AA>
+2.6
+> <PUBCHEM_EXACT_MASS>
+406.93268
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H12BrCl2NO4
+> <PUBCHEM_MOLECULAR_WEIGHT>
+409.1
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=C(C2=CC(=C(C=C2N=C1Br)Cl)Cl)C3C(C(C(O3)CO)O)O
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=C(C2=CC(=C(C=C2N=C1Br)Cl)Cl)[C@H]3C(C([C@H](O3)CO)O)O
+> <PUBCHEM_CACTVS_TPSA>
+82.8
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+406.93268
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+2
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+10  24  5
+12  14  6
+13  15  8
+13  16  8
+15  17  8
+15  18  8
+16  19  8
+17  20  8
+18  21  8
+20  22  8
+21  22  8
+9  5  3
+11  6  3
+8  17  8
+8  19  8
+$$$$

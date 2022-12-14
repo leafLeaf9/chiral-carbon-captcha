@@ -1,0 +1,159 @@
+500483
+  -OEChem-10302200282D
+ 35 37  0     1  0  0  0  0  0999 V2000
+    4.6660    0.3877    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8622   -0.6123    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9962   -2.1123    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321    0.8877    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.5321    1.8877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660    2.3877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000    1.8877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3981    0.3877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000    0.8877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061    2.4223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2641    0.8877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3981   -0.6123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9061    0.3530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.9085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1301    0.3877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2641   -1.1123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.8669    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1301   -0.6123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9962   -1.1123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5321    0.2677    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1426    1.7800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7441    2.4703    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0646    2.8626    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2675    2.8626    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9132    3.0423    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2641    1.5077    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8612   -0.9223    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9132   -0.2670    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643    2.2205    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6671    0.6977    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2641   -1.7323    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4643    0.5548    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3991   -0.9223    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8622    0.0077    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5331   -2.4223    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2 19  1  0  0  0  0
+  2 33  1  0  0  0  0
+  2 34  1  0  0  0  0
+  3 19  2  0  0  0  0
+  3 35  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 21  1  0  0  0  0
+  5 22  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 23  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 11  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 15 30  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 17 32  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+500483
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+323
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB7IAAAAAAAAAAAAAAAAAAAAAAAAAA0YIAAAAAAAACRQAAAHgAQAAAADBShmAIxBoBABACgAiJiIACCCACgIAAIiAAmDJgMJqKEsRuCOCDkwBEIqAeQwPAOQAAAAAAIAACAAAAAABAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+4-chroman-2-ylbenzamidine
+> <PUBCHEM_IUPAC_CAS_NAME>
+4-(3,4-dihydro-2H-1-benzopyran-2-yl)benzenecarboximidamide
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+4-(3,4-dihydro-2<I>H</I>-chromen-2-yl)benzenecarboximidamide
+> <PUBCHEM_IUPAC_NAME>
+4-(3,4-dihydro-2H-chromen-2-yl)benzenecarboximidamide
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+4-(3,4-dihydro-2H-chromen-2-yl)benzenecarboximidamide
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+4-chroman-2-ylbenzamidine
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C16H16N2O/c17-16(18)13-7-5-12(6-8-13)15-10-9-11-3-1-2-4-14(11)19-15/h1-8,15H,9-10H2,(H3,17,18)
+> <PUBCHEM_IUPAC_INCHIKEY>
+KCEAMEUCFKIXKS-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+2.8
+> <PUBCHEM_EXACT_MASS>
+252.126263138
+> <PUBCHEM_MOLECULAR_FORMULA>
+C16H16N2O
+> <PUBCHEM_MOLECULAR_WEIGHT>
+252.31
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CC2=CC=CC=C2OC1C3=CC=C(C=C3)C(=N)N
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CC2=CC=CC=C2OC1C3=CC=C(C=C3)C(=N)N
+> <PUBCHEM_CACTVS_TPSA>
+59.1
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+252.126263138
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+10  14  8
+11  15  8
+12  16  8
+13  17  8
+14  17  8
+15  18  8
+16  18  8
+4  8  3
+7  10  8
+7  9  8
+8  11  8
+8  12  8
+9  13  8
+$$$$

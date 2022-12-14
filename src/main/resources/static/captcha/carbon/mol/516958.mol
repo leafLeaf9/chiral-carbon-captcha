@@ -1,0 +1,147 @@
+516958
+  -OEChem-10302200292D
+ 36 36  0     1  0  0  0  0  0999 V2000
+    5.4641   -0.0771    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.0771    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -3.0770    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.5770    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.5770    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.0771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320    0.7890    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.2320    0.7890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.5771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.5771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2320    0.7890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320    2.5210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.0770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2320    0.7890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    3.3870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5420    0.2520    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8147    1.0010    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1244    1.3996    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2571    2.0535    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2571    1.2565    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2320    0.1690    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8520    0.7890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2320    1.4090    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7070    2.1225    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7070    2.9196    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951   -2.3870    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.8870    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291   -1.8870    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2320    1.4090    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6120    0.7890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2320    0.1690    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    3.6970    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4220    3.9240    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951    3.0770    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1951   -3.3870    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0  0  0  0
+  2 11  2  0  0  0  0
+  3 14  1  0  0  0  0
+  3 36  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 28  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 29  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+ 16 34  1  0  0  0  0
+ 16 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+516958
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+273
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzMAAAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAAAHgAQCAAADwCBgAYDAALAAgAIAAEQEAAAAAAAAAAAAIEIAAGAEBoIwAAEAAAIAwIAAAEYiAAPgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+5-ethyl-2-hydroxy-5-(1-methylbutyl)hexahydropyrimidine-4,6-dione
+> <PUBCHEM_IUPAC_CAS_NAME>
+5-ethyl-2-hydroxy-5-pentan-2-yl-1,3-diazinane-4,6-dione
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+5-ethyl-2-hydroxy-5-pentan-2-yl-1,3-diazinane-4,6-dione
+> <PUBCHEM_IUPAC_NAME>
+5-ethyl-2-hydroxy-5-pentan-2-yl-1,3-diazinane-4,6-dione
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+5-ethyl-2-oxidanyl-5-pentan-2-yl-1,3-diazinane-4,6-dione
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+5-ethyl-2-hydroxy-5-(1-methylbutyl)hexahydropyrimidine-4,6-quinone
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H20N2O3/c1-4-6-7(3)11(5-2)8(14)12-10(16)13-9(11)15/h7,10,16H,4-6H2,1-3H3,(H,12,14)(H,13,15)
+> <PUBCHEM_IUPAC_INCHIKEY>
+CDKMGKFSYOQRAA-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3>
+1.6
+> <PUBCHEM_EXACT_MASS>
+228.14739250
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H20N2O3
+> <PUBCHEM_MOLECULAR_WEIGHT>
+228.29
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCC(C)C1(C(=O)NC(NC1=O)O)CC
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCC(C)C1(C(=O)NC(NC1=O)O)CC
+> <PUBCHEM_CACTVS_TPSA>
+78.4
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+228.14739250
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+16
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+7  12  3
+$$$$

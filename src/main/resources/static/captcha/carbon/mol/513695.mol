@@ -1,0 +1,159 @@
+513695
+  -OEChem-10302200282D
+ 35 37  0     1  0  0  0  0  0999 V2000
+    2.0000   -0.9529    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.9230    0.6349    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5981   -1.4529    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8198    2.3950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5411    0.6349    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8282    1.7939    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1884    0.0997    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.0471    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.7320   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2320    1.5860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320    1.5860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.4529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5192    0.8428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.4529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.4529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.4529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8064    2.0018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1665    0.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4755    1.2587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1154    2.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2845   -0.2343    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2969    2.2026    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6256    1.7149    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -2.7629    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -3.5729    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -2.4159    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -3.2629    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -3.4898    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5814   -0.1531    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0820    1.3876    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7050    2.7613    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3070    3.5425    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5257    3.1444    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 19  2  0  0  0  0
+  7 13  2  0  0  0  0
+  7 20  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 26  1  0  0  0  0
+ 17 27  1  0  0  0  0
+ 18 28  1  0  0  0  0
+ 18 29  1  0  0  0  0
+ 18 30  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 22  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 31  1  0  0  0  0
+ 21 32  1  0  0  0  0
+ 22 33  1  0  0  0  0
+ 22 34  1  0  0  0  0
+ 22 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+513695
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+430
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzIQBEAAAAAAAAAAAAAAAAAWAAAAA8QAAAAAAAAAABwAAAHwYAAAAADArF3iy/kJcIEAioAzV3dACCgClxBrAJ2CA4ZpiIKKLh29GEJAhohwLoyCcQgEAOAAACAAABAAAAAAQAAAIAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(2-chloro-6-fluoro-3-methyl-phenyl)-3-(4-methylpyrimidin-2-yl)thiazolidin-4-one
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(2-chloro-6-fluoro-3-methylphenyl)-3-(4-methyl-2-pyrimidinyl)-4-thiazolidinone
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-(2-chloro-6-fluoro-3-methylphenyl)-3-(4-methylpyrimidin-2-yl)-1,3-thiazolidin-4-one
+> <PUBCHEM_IUPAC_NAME>
+2-(2-chloro-6-fluoro-3-methylphenyl)-3-(4-methylpyrimidin-2-yl)-1,3-thiazolidin-4-one
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-(2-chloranyl-6-fluoranyl-3-methyl-phenyl)-3-(4-methylpyrimidin-2-yl)-1,3-thiazolidin-4-one
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-(2-chloro-6-fluoro-3-methyl-phenyl)-3-(4-methylpyrimidin-2-yl)thiazolidin-4-one
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H13ClFN3OS/c1-8-3-4-10(17)12(13(8)16)14-20(11(21)7-22-14)15-18-6-5-9(2)19-15/h3-6,14H,7H2,1-2H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+MUHWGFGWCTZGDM-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+3.5
+> <PUBCHEM_EXACT_MASS>
+337.0451891
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H13ClFN3OS
+> <PUBCHEM_MOLECULAR_WEIGHT>
+337.8
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=C(C(=C(C=C1)F)C2N(C(=O)CS2)C3=NC=CC(=N3)C)Cl
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=C(C(=C(C=C1)F)C2N(C(=O)CS2)C3=NC=CC(=N3)C)Cl
+> <PUBCHEM_CACTVS_TPSA>
+71.4
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+337.0451891
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+12  15  8
+14  16  8
+15  17  8
+16  17  8
+19  21  8
+20  21  8
+6  13  8
+6  19  8
+7  13  8
+7  20  8
+8  9  3
+9  12  8
+9  14  8
+$$$$

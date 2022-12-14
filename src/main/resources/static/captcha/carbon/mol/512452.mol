@@ -1,0 +1,156 @@
+512452
+  -OEChem-10302200282D
+ 34 36  0     1  0  0  0  0  0999 V2000
+    4.3797   -0.1113    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5969    3.0775    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8947   -2.5742    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4244    1.8793    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.9951    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.4244    0.1108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1506    0.4951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1506    1.4951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0166   -0.0049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8826    0.4951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3797    2.1014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.9951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0166    1.9951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8826    1.4951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0005   -1.0464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7926   -0.0118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8986   -1.5742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8007   -1.0534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7588   -3.0775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6698    1.5198    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8196   -0.0258    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4224   -0.5092    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0365    2.3630    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.6151    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3800    0.9951    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.3751    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0166    2.6151    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4196    1.8051    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4601   -1.3502    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3260    0.3044    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3388   -1.3613    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4468   -3.6133    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2946   -3.3896    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0709   -2.5418    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 17  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 23  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  1  0  0  0
+  5 20  1  0  0  0  0
+  6 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 29  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 30  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 19 32  1  0  0  0  0
+ 19 33  1  0  0  0  0
+ 19 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+512452
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+346
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+1
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccByMAAAAAAAAAAAAAAAAAAAAAAAAAAwYAAABYAAAADBUAAAHgAQAAAADCzhmAYyBsLABACIAiFSEACCCAAkIAAIiIEODMgOJjaEtRuHOWjm9hGYqYfYyPCO4AADAAAYAADAAAYAADAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(3R)-10-methoxy-3-methyl-3,4-dihydro-2H-benzo[i][1,4]benzoxazepin-5-one
+> <PUBCHEM_IUPAC_CAS_NAME>
+(3R)-10-methoxy-3-methyl-3,4-dihydro-2H-benzo[i][1,4]benzoxazepin-5-one
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(3<I>R</I>)-10-methoxy-3-methyl-3,4-dihydro-2<I>H</I>-benzo[i][1,4]benzoxazepin-5-one
+> <PUBCHEM_IUPAC_NAME>
+(3R)-10-methoxy-3-methyl-3,4-dihydro-2H-benzo[i][1,4]benzoxazepin-5-one
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(3R)-10-methoxy-3-methyl-3,4-dihydro-2H-benzo[i][1,4]benzoxazepin-5-one
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(3R)-10-methoxy-3-methyl-3,4-dihydro-2H-benzo[i][1,4]benzoxazepin-5-one
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C15H15NO3/c1-9-8-19-14-12(15(17)16-9)6-4-10-3-5-11(18-2)7-13(10)14/h3-7,9H,8H2,1-2H3,(H,16,17)/t9-/m1/s1
+> <PUBCHEM_IUPAC_INCHIKEY>
+KOKQTYJIFZYOEO-SECBINFHSA-N
+> <PUBCHEM_XLOGP3_AA>
+2.6
+> <PUBCHEM_EXACT_MASS>
+257.10519334
+> <PUBCHEM_MOLECULAR_FORMULA>
+C15H15NO3
+> <PUBCHEM_MOLECULAR_WEIGHT>
+257.28
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1COC2=C(C=CC3=C2C=C(C=C3)OC)C(=O)N1
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C[C@@H]1COC2=C(C=CC3=C2C=C(C=C3)OC)C(=O)N1
+> <PUBCHEM_CACTVS_TPSA>
+47.6
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+257.10519334
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+1
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+10  14  8
+10  16  8
+13  14  8
+15  17  8
+16  18  8
+17  18  8
+5  12  5
+7  8  8
+7  9  8
+8  13  8
+9  10  8
+9  15  8
+$$$$

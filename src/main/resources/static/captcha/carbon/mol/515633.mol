@@ -1,0 +1,139 @@
+515633
+  -OEChem-10302200282D
+ 32 32  0     1  0  0  0  0  0999 V2000
+    6.1888   -1.8803    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2208   -1.1809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7240   -0.2330    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4608   -0.9021    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0635    0.1782    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9045    1.4654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0298   -0.5931    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.7208    0.3580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7208    0.3580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4118   -0.5931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9809   -0.9021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6751   -0.5420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4182    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3693   -0.1819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1124    0.4872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1268   -1.2055    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3273    0.4869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6560    0.9746    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7856    0.9746    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1144    0.4869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3840   -1.0894    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1637   -0.9237    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7093    0.6746    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9297    0.5088    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5951    0.3735    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0782   -0.7293    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8579   -0.5636    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.4872    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3318   -1.5086    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5243    0.5931    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1924   -0.4282    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3653    1.8803    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 25  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 28  1  0  0  0  0
+  4 29  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 30  1  0  0  0  0
+  5 31  1  0  0  0  0
+  6 15  2  0  0  0  0
+  6 32  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+515633
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+286
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzoAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAHgAQAAAACCjBgAQBAALAAAAoAAMwNAAAAAGAAAAAAIG4AAAAQBIAgAAUAAAAFgCAAAAYAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+5-amino-N-(4-amino-4-imino-butyl)-3,4-dihydro-2H-pyrrole-2-carboxamide
+> <PUBCHEM_IUPAC_CAS_NAME>
+5-amino-N-(4-amino-4-iminobutyl)-3,4-dihydro-2H-pyrrole-2-carboxamide
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+5-amino-<I>N</I>-(4-amino-4-iminobutyl)-3,4-dihydro-2<I>H</I>-pyrrole-2-carboxamide
+> <PUBCHEM_IUPAC_NAME>
+5-amino-N-(4-amino-4-iminobutyl)-3,4-dihydro-2H-pyrrole-2-carboxamide
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+5-azanyl-N-(4-azanyl-4-azanylidene-butyl)-3,4-dihydro-2H-pyrrole-2-carboxamide
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+5-amino-N-(4-amino-4-imino-butyl)-1-pyrroline-2-carboxamide
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C9H17N5O/c10-7(11)2-1-5-13-9(15)6-3-4-8(12)14-6/h6H,1-5H2,(H3,10,11)(H2,12,14)(H,13,15)
+> <PUBCHEM_IUPAC_INCHIKEY>
+GEKCDDFXATYKHS-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+-2
+> <PUBCHEM_EXACT_MASS>
+211.14331018
+> <PUBCHEM_MOLECULAR_FORMULA>
+C9H17N5O
+> <PUBCHEM_MOLECULAR_WEIGHT>
+211.26
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CC(=NC1C(=O)NCCCC(=N)N)N
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CC(=NC1C(=O)NCCCC(=N)N)N
+> <PUBCHEM_CACTVS_TPSA>
+117
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+211.14331018
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+7  11  3
+$$$$

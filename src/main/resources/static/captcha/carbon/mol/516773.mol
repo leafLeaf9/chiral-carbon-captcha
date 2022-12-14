@@ -1,0 +1,192 @@
+516773
+  -OEChem-10302200292D
+ 56 58  0     1  0  0  0  0  0999 V2000
+    5.0046    1.3087    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2760    1.1982    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5053    4.2557    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.0445    2.7504    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.0670    3.8288    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.4493    2.7728    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.0494    2.1819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9885    3.4693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7864    4.4579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    3.7389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1158    2.3085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9882    3.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5723    2.9975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1084    1.7524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0684    0.3108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9646   -0.1329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0284   -1.1309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9246   -1.5746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9884   -2.5726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8846   -3.0162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9484   -4.0142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8446   -4.4579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7817    4.8107    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1143    3.2106    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9426    2.4155    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5759    1.7817    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4047    1.6738    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9917    4.0893    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3472    2.9636    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0613    5.0136    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2908    4.8305    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6303    4.2366    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4673    3.4217    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8428    1.7518    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6537    2.0002    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5544    3.9242    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9107    4.2867    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0561    2.6098    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0022    3.4443    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4522    0.3792    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8940   -0.2842    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5808   -0.2014    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1390    0.4620    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4122   -1.0624    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8540   -1.7259    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5408   -1.6431    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0990   -0.9796    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3722   -2.5041    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8140   -3.1675    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5008   -3.0847    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0590   -2.4213    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3322   -3.9457    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7740   -4.6092    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5695   -5.0135    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4002   -4.7330    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1197   -3.9023    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 14  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 24  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 25  1  0  0  0  0
+  7 26  1  0  0  0  0
+  7 27  1  0  0  0  0
+  8 28  1  0  0  0  0
+  8 29  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 30  1  0  0  0  0
+  9 31  1  0  0  0  0
+ 10 32  1  0  0  0  0
+ 10 33  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 34  1  0  0  0  0
+ 11 35  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 36  1  0  0  0  0
+ 12 37  1  0  0  0  0
+ 13 38  1  0  0  0  0
+ 13 39  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 40  1  0  0  0  0
+ 15 41  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 42  1  0  0  0  0
+ 16 43  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 44  1  0  0  0  0
+ 17 45  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 46  1  0  0  0  0
+ 18 47  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 48  1  0  0  0  0
+ 19 49  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 50  1  0  0  0  0
+ 20 51  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 52  1  0  0  0  0
+ 21 53  1  0  0  0  0
+ 22 54  1  0  0  0  0
+ 22 55  1  0  0  0  0
+ 22 56  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+516773
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+378
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+9
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcfB4MAAAAAAAAAAAAAAAAAAAAAAAAAAwYMAAAAAYAAAAAAAAGgAAAAAADwCggAICCAAABAAIAACQCAAAAAAAAAAAAAEAAAAAABIAAAACAAAEAAAAAAGIyOCPgAAAAAAAAACAAAQAACAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+octyl tricyclo[5.3.1.03,8]undecane-3-carboxylate
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-tricyclo[5.3.1.03,8]undecanecarboxylic acid octyl ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+octyl tricyclo[5.3.1.0<SUP>3,8</SUP>]undecane-3-carboxylate
+> <PUBCHEM_IUPAC_NAME>
+octyl tricyclo[5.3.1.03,8]undecane-3-carboxylate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+octyl tricyclo[5.3.1.03,8]undecane-3-carboxylate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+tricyclo[5.3.1.03,8]undecane-3-carboxylic acid octyl ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C20H34O2/c1-2-3-4-5-6-7-13-22-19(21)20-12-8-9-17-14-16(15-20)10-11-18(17)20/h16-18H,2-15H2,1H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+JMOPCGJYRNWZAE-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+6.8
+> <PUBCHEM_EXACT_MASS>
+306.255880323
+> <PUBCHEM_MOLECULAR_FORMULA>
+C20H34O2
+> <PUBCHEM_MOLECULAR_WEIGHT>
+306.5
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCCCCCCOC(=O)C12CCCC3C1CCC(C3)C2
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCCCCCCOC(=O)C12CCCC3C1CCC(C3)C2
+> <PUBCHEM_CACTVS_TPSA>
+26.3
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+306.255880323
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+4
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+3  9  3
+4  14  3
+5  12  3
+6  10  3
+$$$$

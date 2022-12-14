@@ -1,0 +1,179 @@
+528877
+  -OEChem-10302200292D
+ 49 49  0     1  0  0  0  0  0999 V2000
+    4.5981    4.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5981    4.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0622    2.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6962    0.8840    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6962    2.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3301   -0.7500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3301    0.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5981    6.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5981    5.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    5.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -4.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000   -4.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -6.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -5.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000   -5.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4641    1.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5981    0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660   -2.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4641    2.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1340   -2.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7320    2.7500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7320    1.7500    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.8660    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5981    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3301    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7320   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5981    3.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5981    4.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7320   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1962    1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3301    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8660   -1.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5981    5.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -3.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -4.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000   -5.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2690    2.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6540    1.8326    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2554    1.1423    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1951    3.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3301    1.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2690    0.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4631    0.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2690   -1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4631   -1.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 31  1  0  0  0  0
+  2 31  1  0  0  0  0
+  3 34  1  0  0  0  0
+  4 34  1  0  0  0  0
+  5 34  1  0  0  0  0
+  6 35  1  0  0  0  0
+  7 35  1  0  0  0  0
+  8 35  1  0  0  0  0
+  9 37  1  0  0  0  0
+ 10 37  1  0  0  0  0
+ 11 37  1  0  0  0  0
+ 12 39  1  0  0  0  0
+ 13 39  1  0  0  0  0
+ 14 40  1  0  0  0  0
+ 15 40  1  0  0  0  0
+ 16 40  1  0  0  0  0
+ 17 26  1  0  0  0  0
+ 17 27  1  0  0  0  0
+ 18 26  2  0  0  0  0
+ 19 36  1  0  0  0  0
+ 19 38  1  0  0  0  0
+ 20 30  2  0  0  0  0
+ 21 38  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 30  1  0  0  0  0
+ 22 44  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 26  1  0  0  0  0
+ 23 41  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 42  1  0  0  0  0
+ 24 43  1  0  0  0  0
+ 25 28  2  0  0  0  0
+ 25 29  1  0  0  0  0
+ 27 34  1  0  0  0  0
+ 27 35  1  0  0  0  0
+ 27 45  1  0  0  0  0
+ 28 32  1  0  0  0  0
+ 28 46  1  0  0  0  0
+ 29 33  2  0  0  0  0
+ 29 47  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 31 37  1  0  0  0  0
+ 32 36  2  0  0  0  0
+ 32 48  1  0  0  0  0
+ 33 36  1  0  0  0  0
+ 33 49  1  0  0  0  0
+ 38 39  1  0  0  0  0
+ 39 40  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+528877
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+901
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+21
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+10
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccB6OcAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHwAQAAAADDzhmBYwDoLABACIAiHSGAACCAAgIAAIiIGOCIgOJjKEsTuHOiCk1hGYqAeYyKCOIAAAAAAAAABAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+[4-[3-oxo-2-(2,2,3,3,3-pentafluoropropanoylamino)-3-[2,2,2-trifluoro-1-(trifluoromethyl)ethoxy]propyl]phenyl] 2,2,3,3,3-pentafluoropropanoate
+> <PUBCHEM_IUPAC_CAS_NAME>
+2,2,3,3,3-pentafluoropropanoic acid [4-[3-(1,1,1,3,3,3-hexafluoropropan-2-yloxy)-3-oxo-2-[(2,2,3,3,3-pentafluoro-1-oxopropyl)amino]propyl]phenyl] ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+[4-[3-(1,1,1,3,3,3-hexafluoropropan-2-yloxy)-3-oxo-2-(2,2,3,3,3-pentafluoropropanoylamino)propyl]phenyl] 2,2,3,3,3-pentafluoropropanoate
+> <PUBCHEM_IUPAC_NAME>
+[4-[3-(1,1,1,3,3,3-hexafluoropropan-2-yloxy)-3-oxo-2-(2,2,3,3,3-pentafluoropropanoylamino)propyl]phenyl] 2,2,3,3,3-pentafluoropropanoate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+[4-[3-[1,1,1,3,3,3-hexakis(fluoranyl)propan-2-yloxy]-3-oxidanylidene-2-[2,2,3,3,3-pentakis(fluoranyl)propanoylamino]propyl]phenyl] 2,2,3,3,3-pentakis(fluoranyl)propanoate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2,2,3,3,3-pentafluoropropionic acid [4-[3-keto-2-(2,2,3,3,3-pentafluoropropanoylamino)-3-[2,2,2-trifluoro-1-(trifluoromethyl)ethoxy]propyl]phenyl] ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C18H9F16NO5/c19-13(20,17(29,30)31)11(37)35-8(9(36)40-10(15(23,24)25)16(26,27)28)5-6-1-3-7(4-2-6)39-12(38)14(21,22)18(32,33)34/h1-4,8,10H,5H2,(H,35,37)
+> <PUBCHEM_IUPAC_INCHIKEY>
+YJHBADMGEIKSNX-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+7.1
+> <PUBCHEM_EXACT_MASS>
+623.0225230
+> <PUBCHEM_MOLECULAR_FORMULA>
+C18H9F16NO5
+> <PUBCHEM_MOLECULAR_WEIGHT>
+623.2
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC(=CC=C1CC(C(=O)OC(C(F)(F)F)C(F)(F)F)NC(=O)C(C(F)(F)F)(F)F)OC(=O)C(C(F)(F)F)(F)F
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC(=CC=C1CC(C(=O)OC(C(F)(F)F)C(F)(F)F)NC(=O)C(C(F)(F)F)(F)F)OC(=O)C(C(F)(F)F)(F)F
+> <PUBCHEM_CACTVS_TPSA>
+81.7
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+623.0225230
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+40
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+23  24  3
+25  28  8
+25  29  8
+28  32  8
+29  33  8
+32  36  8
+33  36  8
+$$$$

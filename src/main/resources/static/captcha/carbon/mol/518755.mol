@@ -1,0 +1,121 @@
+518755
+  -OEChem-10302200292D
+ 23 23  0     1  0  0  0  0  0999 V2000
+    5.8475    1.3044    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0064    0.0172    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4712   -1.6301    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5691   -1.0120    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090   -1.2908    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3090    0.2480    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3122   -0.3429    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.0000   -0.7030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6180   -0.7030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090    0.2480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1043    0.6352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2633   -0.6519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4411   -0.9494    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4336   -0.4509    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -1.2400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6980   -1.6185    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3738    0.8646    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7026    0.3769    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090   -1.9108    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7758    1.1610    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5295    0.4030    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7186    1.9108    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5961   -0.1744    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 22  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 23  1  0  0  0  0
+  3 12  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 11 21  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+518755
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+204
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBjMAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAHgAQCAAACCjhgAYBCALAAgAoAACQLAAAAAEAAAABAIGIAACCUAQACCAQQAAJMAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-(4,5-dihydro-1H-imidazol-2-ylamino)-3-hydroxy-propanoic acid
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-(4,5-dihydro-1H-imidazol-2-ylamino)-3-hydroxypropanoic acid
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-(4,5-dihydro-1<I>H</I>-imidazol-2-ylamino)-3-hydroxypropanoic acid
+> <PUBCHEM_IUPAC_NAME>
+2-(4,5-dihydro-1H-imidazol-2-ylamino)-3-hydroxypropanoic acid
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-(4,5-dihydro-1H-imidazol-2-ylamino)-3-oxidanyl-propanoic acid
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-hydroxy-2-(2-imidazolin-2-ylamino)propionic acid
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C6H11N3O3/c10-3-4(5(11)12)9-6-7-1-2-8-6/h4,10H,1-3H2,(H,11,12)(H2,7,8,9)
+> <PUBCHEM_IUPAC_INCHIKEY>
+PVKQQMOUDJKVSX-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+-2
+> <PUBCHEM_EXACT_MASS>
+173.08004122
+> <PUBCHEM_MOLECULAR_FORMULA>
+C6H11N3O3
+> <PUBCHEM_MOLECULAR_WEIGHT>
+173.17
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1CN=C(N1)NC(CO)C(=O)O
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1CN=C(N1)NC(CO)C(=O)O
+> <PUBCHEM_CACTVS_TPSA>
+94
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+173.08004122
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+7  11  3
+$$$$

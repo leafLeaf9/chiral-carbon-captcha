@@ -1,0 +1,142 @@
+524282
+  -OEChem-10302200292D
+ 34 35  0     1  0  0  0  0  0999 V2000
+    2.9659    1.3327    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    3.2247    0.3668    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4273   -0.7407    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1685   -1.7066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1907    0.1080    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.5674   -2.2154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7958   -2.2986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0567    0.6080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8262   -1.2495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4537   -1.3589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7071    2.2986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    1.0739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9318    1.5915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1866   -2.3263    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1097    0.7227    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3725   -2.8040    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1614   -2.3932    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2174   -2.5219    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0302   -2.8726    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6384    0.8225    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7935    1.1693    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4202   -1.4273    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0212   -0.6609    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2594   -0.7702    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8680   -1.5621    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3060    2.4591    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5466    2.8975    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1082    2.1382    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8395    1.6728    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4011    0.9134    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1605    0.4750    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0923    0.9926    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5307    1.7520    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7714    2.1904    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  1 12  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 11 27  1  0  0  0  0
+ 11 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 12 30  1  0  0  0  0
+ 12 31  1  0  0  0  0
+ 13 32  1  0  0  0  0
+ 13 33  1  0  0  0  0
+ 13 34  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+524282
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+182
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceByIAgAAAAAAAAAAAAAAAAAAAAAAAAsWLAAAAAAAAAAAAAAHhAAAEAADRThgAZCAAMAAAEAAAAAAAAAAAAAAAAAAAAIAAACAAIAgAAEAAAEAACQAAAwAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+trimethyl(quinuclidin-3-yloxy)silane
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-azabicyclo[2.2.2]octan-3-yloxy(trimethyl)silane
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1-azabicyclo[2.2.2]octan-3-yloxy(trimethyl)silane
+> <PUBCHEM_IUPAC_NAME>
+1-azabicyclo[2.2.2]octan-3-yloxy(trimethyl)silane
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-azabicyclo[2.2.2]octan-3-yloxy(trimethyl)silane
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+trimethyl(quinuclidin-3-yloxy)silane
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H21NOSi/c1-13(2,3)12-10-8-11-6-4-9(10)5-7-11/h9-10H,4-8H2,1-3H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+QYBKWHMRDRKMQN-UHFFFAOYSA-N
+> <PUBCHEM_EXACT_MASS>
+199.139240828
+> <PUBCHEM_MOLECULAR_FORMULA>
+C10H21NOSi
+> <PUBCHEM_MOLECULAR_WEIGHT>
+199.36
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C[Si](C)(C)OC1CN2CCC1CC2
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C[Si](C)(C)OC1CN2CCC1CC2
+> <PUBCHEM_CACTVS_TPSA>
+12.5
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+199.139240828
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+13
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+5  2  3
+$$$$

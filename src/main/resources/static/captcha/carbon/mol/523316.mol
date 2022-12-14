@@ -1,0 +1,129 @@
+523316
+  -OEChem-10302200292D
+ 28 28  0     1  0  0  0  0  0999 V2000
+    5.7281   -0.7981    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090    0.2103    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7770   -0.4891    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3122    1.1582    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6180    0.7981    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.3090    1.7492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090    1.7492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.7981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5691    0.4891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6791   -1.1071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4190   -1.7492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0371    0.1530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7150    0.1857    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9155    1.8780    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2442    2.3657    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3738    2.3657    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7026    1.8780    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4336    1.0503    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900    0.2612    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4875   -1.6968    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2688   -1.2987    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8707   -0.5175    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8294   -1.5576    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2274   -2.3388    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0087   -1.9407    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6267   -0.0386    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2287    0.7426    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4474    0.3446    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 12 28  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+523316
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+174
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwMAgAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAGhAAAEAACBSggAJCCAAABAEIAACQCAIAAAAAAAAAAAFAAAABABIAAAQCAAAEAAACAACIJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+trimethylsilyl tetrahydrofuran-2-carboxylate
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-oxolanecarboxylic acid trimethylsilyl ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+trimethylsilyl oxolane-2-carboxylate
+> <PUBCHEM_IUPAC_NAME>
+trimethylsilyl oxolane-2-carboxylate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+trimethylsilyl oxolane-2-carboxylate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+tetrahydrofuran-2-carboxylic acid trimethylsilyl ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H16O3Si/c1-12(2,3)11-8(9)7-5-4-6-10-7/h7H,4-6H2,1-3H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+OLBMHBZNXUPPKX-UHFFFAOYSA-N
+> <PUBCHEM_EXACT_MASS>
+188.08687090
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H16O3Si
+> <PUBCHEM_MOLECULAR_WEIGHT>
+188.30
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C[Si](C)(C)OC(=O)C1CCCO1
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C[Si](C)(C)OC(=O)C1CCCO1
+> <PUBCHEM_CACTVS_TPSA>
+35.5
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+188.08687090
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+5  9  3
+$$$$

@@ -1,0 +1,144 @@
+527868
+  -OEChem-10302200292D
+ 35 34  0     1  0  0  0  0  0999 V2000
+    9.7942   -0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    1.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622   -0.2500    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.7320    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6603    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9316   -0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7287   -0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8626    0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0656    0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5947    0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7976    0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1996   -0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9966   -0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5252   -0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1306    0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3335    0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4675   -0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2646   -0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4422   -1.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622   -1.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6822   -1.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100    0.7869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -0.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9703   -0.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1972    0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3503    0.7869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 16  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 18  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 20  1  0  0  0  0
+  6 21  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 23  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 25  1  0  0  0  0
+  9 26  1  0  0  0  0
+ 10 27  1  0  0  0  0
+ 10 28  1  0  0  0  0
+ 10 29  1  0  0  0  0
+ 12 30  1  0  0  0  0
+ 12 31  1  0  0  0  0
+ 12 32  1  0  0  0  0
+ 13 33  1  0  0  0  0
+ 13 34  1  0  0  0  0
+ 13 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+527868
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+132
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+8
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAAAAAADQCAgAICCAAABAAIAACQCAAAAAAAAAAAAAEAAAAAABIAAAAAAAAEAAAAAAGIyOCMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+methyl 2-methylnonanoate
+> <PUBCHEM_IUPAC_CAS_NAME>
+2-methylnonanoic acid methyl ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+methyl 2-methylnonanoate
+> <PUBCHEM_IUPAC_NAME>
+methyl 2-methylnonanoate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+methyl 2-methylnonanoate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2-methylpelargonic acid methyl ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H22O2/c1-4-5-6-7-8-9-10(2)11(12)13-3/h10H,4-9H2,1-3H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+WYNTWOMMHWJBMR-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+4.2
+> <PUBCHEM_EXACT_MASS>
+186.161979940
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H22O2
+> <PUBCHEM_MOLECULAR_WEIGHT>
+186.29
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCCCCCC(C)C(=O)OC
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCCCCCC(C)C(=O)OC
+> <PUBCHEM_CACTVS_TPSA>
+26.3
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+186.161979940
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+13
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+7  10  3
+$$$$

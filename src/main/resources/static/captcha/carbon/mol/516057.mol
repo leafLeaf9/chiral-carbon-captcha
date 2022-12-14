@@ -1,0 +1,157 @@
+516057
+  -OEChem-10302200282D
+ 33 35  0     1  0  0  0  0  0999 V2000
+    7.1279   -2.9850    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.9850    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -3.9850    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.2686   -0.4197    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6146   -1.5116    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6183    0.6640    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5443   -2.1803    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5443   -3.7898    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2208    2.0818    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9134    3.0334    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.6061    3.9850    0.0000 N   0  5  0  0  0  0  0  0  0  0  0  0
+    5.8550   -1.2298    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.8066   -0.9224    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.8083    0.0776    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.8578    0.3883    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.5504    1.3398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.4850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1279   -2.9850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -3.4850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.9850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -3.9850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.4850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -3.4850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2926   -1.6689    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3595   -0.6419    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7124    0.6901    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2456    0.4863    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1695    1.8291    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0025    1.0497    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1814   -1.2604    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1843    0.4108    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.3650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -4.6050    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 15  1  0  0  0  0
+ 13  5  1  1  0  0  0
+  5 30  1  0  0  0  0
+ 14  6  1  1  0  0  0
+  6 31  1  0  0  0  0
+ 12  7  1  6  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 18  2  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 16  1  6  0  0  0
+ 15 27  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 16 29  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 19 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 20 32  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 33  1  0  0  0  0
+ 22 23  2  0  0  0  0
+M  CHG  2  10   1  11  -1
+M  END
+> <PUBCHEM_COMPOUND_CID>
+516057
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+497
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzsAAGAAAAAAAAAAAAAAAAAWJAAAAwAAAAAAAAAFgB8AAAHgIICAAACB7hliYx0LcMFgCiASRiZACCgC0hF6AB2mA4dpiLeKLBmpGfYAhvgALbyCewEAAAAABAAAIAACQAAIAABAAASAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(2R,3S,4R,5R)-2-(azidomethyl)-5-(2,5,6-trichlorobenzimidazol-1-yl)tetrahydrofuran-3,4-diol
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2R,3S,4R,5R)-2-(azidomethyl)-5-(2,5,6-trichloro-1-benzimidazolyl)oxolane-3,4-diol
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+(2<I>R</I>,3<I>S</I>,4<I>R</I>,5<I>R</I>)-2-(azidomethyl)-5-(2,5,6-trichlorobenzimidazol-1-yl)oxolane-3,4-diol
+> <PUBCHEM_IUPAC_NAME>
+(2R,3S,4R,5R)-2-(azidomethyl)-5-(2,5,6-trichlorobenzimidazol-1-yl)oxolane-3,4-diol
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(2R,3S,4R,5R)-2-(azidomethyl)-5-[2,5,6-tris(chloranyl)benzimidazol-1-yl]oxolane-3,4-diol
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2R,3S,4R,5R)-2-(azidomethyl)-5-(2,5,6-trichlorobenzimidazol-1-yl)tetrahydrofuran-3,4-diol
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H10Cl3N5O3/c13-4-1-6-7(2-5(4)14)20(12(15)18-6)11-10(22)9(21)8(23-11)3-17-19-16/h1-2,8-11,21-22H,3H2/t8-,9-,10-,11-/m1/s1
+> <PUBCHEM_IUPAC_INCHIKEY>
+SROWZQCSLLTUQL-GWOFURMSSA-N
+> <PUBCHEM_XLOGP3_AA>
+3.1
+> <PUBCHEM_EXACT_MASS>
+376.984922
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H10Cl3N5O3
+> <PUBCHEM_MOLECULAR_WEIGHT>
+378.6
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=C2C(=CC(=C1Cl)Cl)N(C(=N2)Cl)C3C(C(C(O3)CN=[N+]=[N-])O)O
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=C2C(=CC(=C1Cl)Cl)N(C(=N2)Cl)[C@H]3[C@@H]([C@@H]([C@H](O3)CN=[N+]=[N-])O)O
+> <PUBCHEM_CACTVS_TPSA>
+81.9
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+376.984922
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+23
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+4
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+15  16  6
+17  19  8
+17  20  8
+19  21  8
+20  22  8
+21  23  8
+22  23  8
+13  5  5
+14  6  5
+12  7  6
+7  17  8
+7  18  8
+8  18  8
+8  19  8
+$$$$

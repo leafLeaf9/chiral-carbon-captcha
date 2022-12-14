@@ -1,0 +1,152 @@
+513132
+  -OEChem-10302200282D
+ 33 34  0     1  0  0  0  0  0999 V2000
+    2.0000   -0.8918    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.8918    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.8335    0.0696    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8299    2.3025    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4333    2.1769    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5443   -1.0871    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5443   -2.6966    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8550   -0.1366    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.1871    0.6077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.3918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -2.3918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1279   -1.8918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4978    1.5582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.8918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1441    1.0201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -2.8918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.3918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -2.3918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1226    1.2264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0476    0.4527    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6402    0.8997    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8046    0.1198    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7479   -1.8918    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0447    1.2662    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8803    2.0461    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.2718    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1236    1.6398    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5303    1.1075    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -3.5118    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1432    0.6067    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7364    1.1390    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0225    2.8918    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0400    2.3047    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 32  1  0  0  0  0
+  5 19  1  0  0  0  0
+  5 33  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 11 16  2  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 29  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 19 30  1  0  0  0  0
+ 19 31  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+513132
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+286
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+2
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzMAAGAAAAAAAAAAAAAAAAAWAAAAAwAAAAAAAAAFgB8AAAHgIACAAACArhliY10LcMFgCgASRjZACCgC0xF6AB2mA4dpiJeKLBmpGeYAhrgALLyCcQAAAAAABAAAIAACQAAIAABAAASAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3-(5,6-dichlorobenzimidazol-1-yl)-3-(2-hydroxyethoxy)propan-1-ol
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-(5,6-dichloro-1-benzimidazolyl)-3-(2-hydroxyethoxy)-1-propanol
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+3-(5,6-dichlorobenzimidazol-1-yl)-3-(2-hydroxyethoxy)propan-1-ol
+> <PUBCHEM_IUPAC_NAME>
+3-(5,6-dichlorobenzimidazol-1-yl)-3-(2-hydroxyethoxy)propan-1-ol
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-[5,6-bis(chloranyl)benzimidazol-1-yl]-3-(2-hydroxyethyloxy)propan-1-ol
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-(5,6-dichlorobenzimidazol-1-yl)-3-(2-hydroxyethoxy)propan-1-ol
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C12H14Cl2N2O3/c13-8-5-10-11(6-9(8)14)16(7-15-10)12(1-2-17)19-4-3-18/h5-7,12,17-18H,1-4H2
+> <PUBCHEM_IUPAC_INCHIKEY>
+FNPPKJTZTZCAQT-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+1.6
+> <PUBCHEM_EXACT_MASS>
+304.0381477
+> <PUBCHEM_MOLECULAR_FORMULA>
+C12H14Cl2N2O3
+> <PUBCHEM_MOLECULAR_WEIGHT>
+305.15
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=C2C(=CC(=C1Cl)Cl)N(C=N2)C(CCO)OCCO
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=C2C(=CC(=C1Cl)Cl)N(C=N2)C(CCO)OCCO
+> <PUBCHEM_CACTVS_TPSA>
+67.5
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+304.0381477
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+10  11  8
+10  14  8
+11  16  8
+14  17  8
+16  18  8
+17  18  8
+6  10  8
+6  12  8
+7  11  8
+7  12  8
+8  9  3
+$$$$

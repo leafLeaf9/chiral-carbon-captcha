@@ -1,0 +1,148 @@
+526642
+  -OEChem-10302200292D
+ 35 35  0     1  0  0  0  0  0999 V2000
+    5.0032   -2.0194    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5032    0.5194    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7431   -0.7593    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0064   -1.4285    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7712    0.5194    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1654   -0.1413    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3122   -1.0684    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5032   -0.4806    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.6942   -1.0684    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.0032   -2.0194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2633   -0.7593    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.4712    0.2188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.4285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6372    1.0194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9575   -1.1195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6372    2.0194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7006   -1.7886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7506   -1.5068    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9508   -0.1991    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2558   -1.5068    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3968   -2.1483    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0680   -2.6360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8530   -0.5678    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0776    0.0899    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6001    0.8253    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8648    0.3477    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5851   -0.9677    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5392   -1.8433    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4149   -1.8892    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2572    2.0194    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6372    2.6394    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0172    2.0194    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2858   -2.2493    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1614   -2.2034    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1155   -1.3278    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5 14  2  0  0  0  0
+  6 15  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 30  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 16 32  1  0  0  0  0
+ 17 33  1  0  0  0  0
+ 17 34  1  0  0  0  0
+ 17 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+526642
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+290
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwOAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAGgAAAAAACBSggAICCAAABAAIAACQCAAAAAAAAAAAAAAAAAABAAIAAAACAAAFAAACAAHAYAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+[2-(1-acetoxyethyl)-4-methoxy-tetrahydrofuran-3-yl] acetate
+> <PUBCHEM_IUPAC_CAS_NAME>
+acetic acid [2-(1-acetyloxyethyl)-4-methoxy-3-oxolanyl] ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+[2-(1-acetyloxyethyl)-4-methoxyoxolan-3-yl] acetate
+> <PUBCHEM_IUPAC_NAME>
+[2-(1-acetyloxyethyl)-4-methoxyoxolan-3-yl] acetate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+[2-(1-acetyloxyethyl)-4-methoxy-oxolan-3-yl] ethanoate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+acetic acid [2-(1-acetoxyethyl)-4-methoxy-tetrahydrofuran-3-yl] ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H18O6/c1-6(16-7(2)12)10-11(17-8(3)13)9(14-4)5-15-10/h6,9-11H,5H2,1-4H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+JEANRGASWOHZTF-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+0.1
+> <PUBCHEM_EXACT_MASS>
+246.11033829
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H18O6
+> <PUBCHEM_MOLECULAR_WEIGHT>
+246.26
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C1C(C(CO1)OC)OC(=O)C)OC(=O)C
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C1C(C(CO1)OC)OC(=O)C)OC(=O)C
+> <PUBCHEM_CACTVS_TPSA>
+71.1
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+246.11033829
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+4
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+7  1  3
+11  12  3
+8  2  3
+9  3  3
+$$$$

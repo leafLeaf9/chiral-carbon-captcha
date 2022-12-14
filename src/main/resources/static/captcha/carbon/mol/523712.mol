@@ -1,0 +1,126 @@
+523712
+  -OEChem-10302200292D
+ 26 25  0     1  0  0  0  0  0999 V2000
+    4.5981    0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.2500    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.0000   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.6000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900    0.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -0.7869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4860    1.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2460    1.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1120   -1.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.8700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3520   -1.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7287    0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9316    0.7249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8862   -0.7869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331   -0.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5062    0.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 26  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+523712
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+108
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAAAAAADRSggAICCAAABAAIAACQCAAAAAAAAAAAAAEAAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,2-dimethylpropyl propanoate
+> <PUBCHEM_IUPAC_CAS_NAME>
+propanoic acid 3-methylbutan-2-yl ester
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+3-methylbutan-2-yl propanoate
+> <PUBCHEM_IUPAC_NAME>
+3-methylbutan-2-yl propanoate
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-methylbutan-2-yl propanoate
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+propionic acid 1,2-dimethylpropyl ester
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H16O2/c1-5-8(9)10-7(4)6(2)3/h6-7H,5H2,1-4H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+RYYMZRUXQWULCT-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+2.4
+> <PUBCHEM_EXACT_MASS>
+144.115029749
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H16O2
+> <PUBCHEM_MOLECULAR_WEIGHT>
+144.21
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCC(=O)OC(C)C(C)C
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCC(=O)OC(C)C(C)C
+> <PUBCHEM_CACTVS_TPSA>
+26.3
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+144.115029749
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+4  12  3
+$$$$

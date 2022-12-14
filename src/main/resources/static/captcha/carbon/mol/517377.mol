@@ -1,0 +1,124 @@
+517377
+  -OEChem-10302200292D
+ 25 24  0     1  0  0  0  0  0999 V2000
+    4.2690   -0.5670    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -1.0670    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -1.5670    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9030   -0.2010    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9030   -1.9330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671   -1.0670    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.5670    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.0010    0.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    0.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -1.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    1.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5380   -0.2570    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7890    1.0156    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3905    0.3254    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7365   -1.5419    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5335   -1.5419    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0791    0.3504    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4776    1.0407    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4040   -0.7570    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671   -1.6870    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4871    1.9330    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671    2.5530    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2471    1.9330    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.2570    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2130    0.3360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3 24  1  0  0  0  0
+  4 25  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 19  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+517377
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+149
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBiMAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAQQCCAACCjFQASCAABAABAAQAAAAIAAAAAAAAAAAIAAAAAAAAIAgAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2-aminopentylsulfanylphosphonic acid
+> <PUBCHEM_IUPAC_CAS_NAME>
+(2-aminopentylthio)phosphonic acid
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2-aminopentylsulfanylphosphonic acid
+> <PUBCHEM_IUPAC_NAME>
+2-aminopentylsulfanylphosphonic acid
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2-azanylpentylsulfanylphosphonic acid
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2-aminopentylthio)phosphonic acid
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C5H14NO3PS/c1-2-3-5(6)4-11-10(7,8)9/h5H,2-4,6H2,1H3,(H2,7,8,9)
+> <PUBCHEM_IUPAC_INCHIKEY>
+WUJFYKPVSSAMDC-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+-3.1
+> <PUBCHEM_EXACT_MASS>
+199.04320148
+> <PUBCHEM_MOLECULAR_FORMULA>
+C5H14NO3PS
+> <PUBCHEM_MOLECULAR_WEIGHT>
+199.21
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCC(CSP(=O)(O)O)N
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCC(CSP(=O)(O)O)N
+> <PUBCHEM_CACTVS_TPSA>
+109
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+199.04320148
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+11
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+7  6  3
+$$$$

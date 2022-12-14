@@ -1,0 +1,150 @@
+500063
+  -OEChem-10302200282D
+ 36 37  0     1  0  0  0  0  0999 V2000
+    3.8611   -0.1690    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4791   -0.1690    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -1.0355    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5878    1.4866    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7524    1.4866    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6701   -0.7568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4791   -1.3445    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.8611   -1.3445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1701   -2.2956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1701   -2.2956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1701    0.7821    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.1701    0.7821    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.5823    1.5911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7579    1.5911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    2.2956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3402    2.2956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5761   -0.7322    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5511   -0.8076    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2947   -1.5967    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1053   -2.9122    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7765   -2.4245    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5636   -2.4245    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2349   -2.9122    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5577    0.6851    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7825    0.6851    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1396    1.8629    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4114    2.1871    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9288    2.1871    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2006    1.8629    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8909   -1.4504    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5016    2.6600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6356    2.7972    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4984    1.9312    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8418    1.9312    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7046    2.7972    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8386    2.6600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 30  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 15 32  1  0  0  0  0
+ 15 33  1  0  0  0  0
+ 16 34  1  0  0  0  0
+ 16 35  1  0  0  0  0
+ 16 36  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+500063
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+218
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+1
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwOAAAAAAAAAAAAAAAAAAAAaIAAAAAAAAAAAAAAAAAAAAAGgAACAAACBSggAICCAAABgAAAAAAAAAAAAAAAAAAAAAAAAAREAIAAAAiQAAFAAAHAADAIAgAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2,3-bis(methoxymethyl)-1,4-dioxaspiro[4.4]nonan-9-ol
+> <PUBCHEM_IUPAC_CAS_NAME>
+2,3-bis(methoxymethyl)-1,4-dioxaspiro[4.4]nonan-9-ol
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2,3-bis(methoxymethyl)-1,4-dioxaspiro[4.4]nonan-9-ol
+> <PUBCHEM_IUPAC_NAME>
+2,3-bis(methoxymethyl)-1,4-dioxaspiro[4.4]nonan-9-ol
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2,3-bis(methoxymethyl)-1,4-dioxaspiro[4.4]nonan-9-ol
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+2,3-bis(methoxymethyl)-1,4-dioxaspiro[4.4]nonan-9-ol
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C11H20O5/c1-13-6-8-9(7-14-2)16-11(15-8)5-3-4-10(11)12/h8-10,12H,3-7H2,1-2H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+XORJXUJDFNUZCK-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+-0.2
+> <PUBCHEM_EXACT_MASS>
+232.13107373
+> <PUBCHEM_MOLECULAR_FORMULA>
+C11H20O5
+> <PUBCHEM_MOLECULAR_WEIGHT>
+232.27
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+COCC1C(OC2(O1)CCCC2O)COC
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+COCC1C(OC2(O1)CCCC2O)COC
+> <PUBCHEM_CACTVS_TPSA>
+57.2
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+232.13107373
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+16
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+3
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+11  13  3
+12  14  3
+7  3  3
+$$$$

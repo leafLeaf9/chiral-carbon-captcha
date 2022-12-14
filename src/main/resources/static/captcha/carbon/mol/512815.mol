@@ -1,0 +1,196 @@
+512815
+  -OEChem-10302200282D
+ 54 57  0     1  0  0  0  0  0999 V2000
+    4.6059    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.6651    3.4903    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    2.5144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5369    4.0144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    2.5144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6651    5.5386    0.0000 N   0  0  3  0  0  0  0  0  0  0  0  0
+    8.2320    7.6086    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0010    4.0144    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2387    5.8765    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.7354    6.7406    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    7.5745    5.1370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7644    6.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2387    5.8804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    6.5144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7354    6.7483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6350    7.3804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6350    7.3804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2320    7.6124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8010    5.0352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    5.5144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0010    5.0144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8950    5.5491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8010    3.9936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    5.0144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8950    3.4798    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8834    6.5490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1350    3.5144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2690    4.0144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4030    3.5144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4923    5.3108    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3684    7.2403    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2658    4.5993    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0767    4.7734    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6960    7.1439    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1444    6.5244    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1334    5.2694    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8221    5.6706    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5361    6.3539    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2118    6.3516    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2088    7.1487    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9200    8.1443    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2176    7.1684    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7427    7.9910    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5274    7.9910    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0524    7.1684    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8138    7.8267    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1220    8.2226    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7320    5.3244    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8878    2.8598    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5034    6.5562    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8762    7.1690    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2635    6.5418    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.7044    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6059    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 54  1  0  0  0  0
+  2 23  1  0  0  0  0
+  3 27  2  0  0  0  0
+  4 29  1  0  0  0  0
+  4 53  1  0  0  0  0
+  5 29  2  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 41  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 25  1  0  0  0  0
+  8 27  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 30  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 31  1  0  0  0  0
+ 11 32  1  0  0  0  0
+ 11 33  1  0  0  0  0
+ 12 34  1  0  0  0  0
+ 12 35  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 36  1  0  0  0  0
+ 13 37  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 14 38  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 39  1  0  0  0  0
+ 15 40  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 42  1  0  0  0  0
+ 16 43  1  0  0  0  0
+ 17 44  1  0  0  0  0
+ 17 45  1  0  0  0  0
+ 18 46  1  0  0  0  0
+ 18 47  1  0  0  0  0
+ 19 22  2  0  0  0  0
+ 19 23  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 24  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 26  1  0  0  0  0
+ 23 25  2  0  0  0  0
+ 24 28  2  0  0  0  0
+ 24 48  1  0  0  0  0
+ 25 49  1  0  0  0  0
+ 26 50  1  0  0  0  0
+ 26 51  1  0  0  0  0
+ 26 52  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 28 29  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+512815
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+897
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+6
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceB7MQAEAAAAAAAAAAAAGAAAAWAAAAAsQIAAAAAAAFiAAAAAHwAQCAAADSjBgAQCCAPAAgCIAiXWWACAAAAgAAAACIEIAEgIRA4IwAAUUAACtgCIkYMQAAAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+8-(1,2,3,4,4a,5,7,7a-octahydropyrrolo[3,4-b]pyridin-6-yl)-1-cyclopropyl-7-fluoro-9-methyl-4-oxo-quinolizine-3-carboxylic acid;hydrochloride
+> <PUBCHEM_IUPAC_CAS_NAME>
+8-(1,2,3,4,4a,5,7,7a-octahydropyrrolo[3,4-b]pyridin-6-yl)-1-cyclopropyl-7-fluoro-9-methyl-4-oxo-3-quinolizinecarboxylic acid;hydrochloride
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+8-(1,2,3,4,4<I>a</I>,5,7,7<I>a</I>-octahydropyrrolo[3,4-b]pyridin-6-yl)-1-cyclopropyl-7-fluoro-9-methyl-4-oxoquinolizine-3-carboxylic acid;hydrochloride
+> <PUBCHEM_IUPAC_NAME>
+8-(1,2,3,4,4a,5,7,7a-octahydropyrrolo[3,4-b]pyridin-6-yl)-1-cyclopropyl-7-fluoro-9-methyl-4-oxoquinolizine-3-carboxylic acid;hydrochloride
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+8-(1,2,3,4,4a,5,7,7a-octahydropyrrolo[3,4-b]pyridin-6-yl)-1-cyclopropyl-7-fluoranyl-9-methyl-4-oxidanylidene-quinolizine-3-carboxylic acid;hydrochloride
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+8-(1,2,3,4,4a,5,7,7a-octahydropyrrolo[3,4-b]pyridin-6-yl)-1-cyclopropyl-7-fluoro-4-keto-9-methyl-quinolizine-3-carboxylic acid;hydrochloride
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C21H24FN3O3.ClH/c1-11-18-14(12-4-5-12)7-15(21(27)28)20(26)25(18)9-16(22)19(11)24-8-13-3-2-6-23-17(13)10-24;/h7,9,12-13,17,23H,2-6,8,10H2,1H3,(H,27,28);1H
+> <PUBCHEM_IUPAC_INCHIKEY>
+UTKJBXOVMQXMOU-UHFFFAOYSA-N
+> <PUBCHEM_EXACT_MASS>
+421.1568475
+> <PUBCHEM_MOLECULAR_FORMULA>
+C21H25ClFN3O3
+> <PUBCHEM_MOLECULAR_WEIGHT>
+421.9
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=C(C(=CN2C1=C(C=C(C2=O)C(=O)O)C3CC3)F)N4CC5CCCNC5C4.Cl
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=C(C(=CN2C1=C(C=C(C2=O)C(=O)O)C3CC3)F)N4CC5CCCNC5C4.Cl
+> <PUBCHEM_CACTVS_TPSA>
+72.9
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+421.1568475
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+29
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+2
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+10  12  3
+19  22  8
+19  23  8
+20  21  8
+20  24  8
+21  22  8
+23  25  8
+24  28  8
+27  28  8
+8  21  8
+8  25  8
+8  27  8
+9  13  3
+$$$$

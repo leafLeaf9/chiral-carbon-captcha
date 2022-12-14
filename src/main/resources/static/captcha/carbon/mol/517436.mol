@@ -1,0 +1,130 @@
+517436
+  -OEChem-10302200292D
+ 29 27  0     1  0  0  0  0  0999 V2000
+    0.0000    2.8925    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.7690    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.2690    3.8100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2690    2.8100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4030    4.3100    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    6.1350    4.3100    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.4030    5.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1350    5.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2690    5.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5369    3.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0010    3.8100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4030    3.6900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1350    3.6900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1909    5.8926    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7924    5.2023    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7456    5.2023    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3471    5.8926    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6675    6.2850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8705    6.2850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2269    4.3469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    3.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8469    3.2731    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6910    3.2731    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5380    3.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3110    4.3469    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7320    2.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8059    2.5000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    2.8925    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7690    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 28  1  0  0  0  0
+  2 29  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4 26  1  0  0  0  0
+  4 27  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+517436
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+82.9
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBjAAAGAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAAAHAAYAAAACCjBAAQCAAICAAAAAAAAAAAAAAAAAAAQIAAIAAAAAAIAgAAEAAAAAACAAAEQgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+2,6-dimethylpiperidin-1-amine;dihydrochloride
+> <PUBCHEM_IUPAC_CAS_NAME>
+2,6-dimethyl-1-piperidinamine;dihydrochloride
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+2,6-dimethylpiperidin-1-amine;dihydrochloride
+> <PUBCHEM_IUPAC_NAME>
+2,6-dimethylpiperidin-1-amine;dihydrochloride
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+2,6-dimethylpiperidin-1-amine;dihydrochloride
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(2,6-dimethylpiperidino)amine;dihydrochloride
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H16N2.2ClH/c1-6-4-3-5-7(2)9(6)8;;/h6-7H,3-5,8H2,1-2H3;2*1H
+> <PUBCHEM_IUPAC_INCHIKEY>
+FEJVUGXYUKMNKO-UHFFFAOYSA-N
+> <PUBCHEM_EXACT_MASS>
+200.0847040
+> <PUBCHEM_MOLECULAR_FORMULA>
+C7H18Cl2N2
+> <PUBCHEM_MOLECULAR_WEIGHT>
+201.13
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1CCCC(N1N)C.Cl.Cl
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1CCCC(N1N)C.Cl.Cl
+> <PUBCHEM_CACTVS_TPSA>
+29.3
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+200.0847040
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+11
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+3
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+5  10  3
+6  11  3
+$$$$

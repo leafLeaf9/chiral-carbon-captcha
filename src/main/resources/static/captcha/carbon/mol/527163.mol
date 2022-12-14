@@ -1,0 +1,149 @@
+527163
+  -OEChem-10302200292D
+ 35 37  0     1  0  0  0  0  0999 V2000
+    4.6840   -2.4324    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0984   -0.7554    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.5984    1.4352    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.1974   -0.3215    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.9916    0.4214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5984    1.4352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9994   -0.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2219    0.6534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9749    0.6534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5124   -1.0418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9624   -1.7401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9842   -1.9168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6732    2.4324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7722    1.9986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.8759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8674    1.9938    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5996   -0.1574    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5838    0.8884    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4215    0.1775    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1374   -0.9260    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6194   -0.3215    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7805    0.3844    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6085    1.1382    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1105   -0.5697    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0006   -1.3918    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4105   -2.1521    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1579   -2.5120    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2914    2.3861    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7195    3.0507    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0549    2.4788    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1214    2.5108    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2599    2.3478    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4229    1.4863    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8172    1.4684    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5783    0.4214    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 20  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 15  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 13 29  1  0  0  0  0
+ 13 30  1  0  0  0  0
+ 14 31  1  0  0  0  0
+ 14 32  1  0  0  0  0
+ 14 33  1  0  0  0  0
+ 15 34  1  0  0  0  0
+ 15 35  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+527163
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+> <PUBCHEM_CACTVS_COMPLEXITY>
+352
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+1
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+0
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBwIAAAAAAAAAAAAAAAAAAAAYMAAAAwAAAABgAAAGDAAAAAGgAAAAAADwSAgAACAAAAAACIAoBSAAAAAAAgAAAAAAEAAAgAABIAAQAAAAAAgAAAAAEIiMCPgAAAAAAAAACAAAQAACAAAQAACAAAAA==
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+7,7-dimethyl-6-methylene-tricyclo[6.2.1.01,5]undecan-2-one
+> <PUBCHEM_IUPAC_CAS_NAME>
+7,7-dimethyl-6-methylene-2-tricyclo[6.2.1.01,5]undecanone
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+7,7-dimethyl-6-methylidenetricyclo[6.2.1.0<SUP>1,5</SUP>]undecan-2-one
+> <PUBCHEM_IUPAC_NAME>
+7,7-dimethyl-6-methylidenetricyclo[6.2.1.01,5]undecan-2-one
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+7,7-dimethyl-6-methylidene-tricyclo[6.2.1.01,5]undecan-2-one
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+7,7-dimethyl-6-methylene-tricyclo[6.2.1.01,5]undecan-2-one
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H20O/c1-9-11-4-5-12(15)14(11)7-6-10(8-14)13(9,2)3/h10-11H,1,4-8H2,2-3H3
+> <PUBCHEM_IUPAC_INCHIKEY>
+BDHSOIIDXCBNPA-UHFFFAOYSA-N
+> <PUBCHEM_XLOGP3_AA>
+2.6
+> <PUBCHEM_EXACT_MASS>
+204.151415257
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H20O
+> <PUBCHEM_MOLECULAR_WEIGHT>
+204.31
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1(C2CCC3(C2)C(C1=C)CCC3=O)C
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1(C2CCC3(C2)C(C1=C)CCC3=O)C
+> <PUBCHEM_CACTVS_TPSA>
+17.1
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+204.151415257
+> <PUBCHEM_TOTAL_CHARGE>
+0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+3
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+> <PUBCHEM_COMPONENT_COUNT>
+1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+> <PUBCHEM_BONDANNOTATIONS>
+2  7  3
+3  8  3
+4  10  3
+$$$$
