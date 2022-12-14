@@ -80,11 +80,11 @@
 			<version>0.93.6</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.jetbrains.skija/skija-linux -->
-		<!--<dependency>
+		<dependency>
 			<groupId>org.jetbrains.skija</groupId>
 			<artifactId>skija-linux</artifactId>
 			<version>0.93.1</version>
-		</dependency>-->
+		</dependency>
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

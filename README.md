@@ -1,4 +1,5 @@
 # chiral-carbon-captcha
+
 chiral-carbon-captcha api.
 手性碳原子验证码API，启动后可以通过http请求获取验证码，具体接口文档可以在swagger页面查看。
 
@@ -6,17 +7,24 @@ chiral-carbon-captcha api.
 
 # Installation and Getting Started
 
->environment requires: JDK8 libstdc++.so.6: version `CXXABI_1.3.8'
+> environment requires: JDK11 libstdc++.so.6: version `CXXABI_1.3.8'
 
-默认用JDK11编译，但语法只用到JDK8。jetbrains skija依赖的动态库在ubuntu一般都有，centos7的gcc版本过低会报错。
+skija相关依赖需要JDK11，使用JDK8运行会导致skija相关类出现编译版本高于运行版本的错误。
+
+jetbrains skija依赖的动态库在ubuntu一般都有，推荐使用ubuntu。centos7的gcc版本过低会报错。
+
+Windows环境如果获取不到静态资源，可以尝试修改获取资源方法。
 
 克隆、编译、运行项目
+
 ```
 git clone https://github.com/woxigousade/chiral-carbon-captcha.git
 mvn clean -DskipTests=true package
 java -Dspring.profiles.active=prod -jar chiral-carbon-captcha-0.0.1.jar
 ```
+
 接口文档
+
 ```
 http://localhost:9999/swagger-ui/index.html#/chiral-carbon-captcha-controller/getChiralCarbonCaptchaUsingPOST
 ```

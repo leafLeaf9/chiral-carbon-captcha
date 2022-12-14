@@ -6,7 +6,7 @@ import com.gousade.captcha.carbon.Molecule;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
-import org.springframework.util.ResourceUtils;
+import org.springframework.core.io.support.ResourcePatternResolver;
 import org.springframework.util.StopWatch;
 
 import java.io.BufferedReader;
@@ -24,24 +24,30 @@ import java.util.Random;
  * @date 2022/12/03
  */
 @Slf4j
+//@Component
 public class MoleculeUtils {
 	private static final List<Molecule> molecules = init();
+
+	/*@Autowired
+	private ResourceLoader resourceLoader;*/
 
 	private MoleculeUtils() {
 	}
 
 	private static List<Molecule> init() {
 		List<Molecule> result = new ArrayList<>();
-		String locationPattern = String.join(File.separator, ResourceUtils.CLASSPATH_URL_PREFIX, "static",
-				"captcha", "carbon", "mol", "*.mol");
+		String locationPattern = ResourcePatternResolver.CLASSPATH_ALL_URL_PREFIX
+				+ String.join(File.separator, "static", "captcha", "carbon", "mol", "*.mol");
+//		ResourcePatternUtils.getResourcePatternResolver(resourceLoader)
 		StopWatch stopWatch = new StopWatch();
 		stopWatch.start();
 		try {
 			Resource[] resources = new PathMatchingResourcePatternResolver().getResources(locationPattern);
+			log.info("分子资源数量为{}个。", resources.length);
 			Arrays.stream(resources).forEach(resource -> {
 				StringBuilder molStr = new StringBuilder();
 				try (InputStreamReader input = new InputStreamReader(resource.getInputStream(), StandardCharsets.UTF_8);
-					 BufferedReader bufferReader = new BufferedReader(input)) {
+				     BufferedReader bufferReader = new BufferedReader(input)) {
 					String line;
 					while ((line = bufferReader.readLine()) != null) {
 						molStr.append(line).append(LineSeparator.LINUX.getValue());
@@ -56,7 +62,7 @@ public class MoleculeUtils {
 			e.printStackTrace();
 		}
 		stopWatch.stop();
-		log.info("初始化碳分子库用时{}毫秒", stopWatch.getTotalTimeMillis());
+		log.info("初始化碳分子库用时{}毫秒,共{}个分子文件。", stopWatch.getTotalTimeMillis(), result.size());
 		return result;
 	}
 
