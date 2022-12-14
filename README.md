@@ -1,7 +1,8 @@
 # chiral-carbon-captcha
 chiral-carbon-captcha api.
 手性碳原子验证码API，启动后可以通过http请求获取验证码，具体接口文档可以在swagger页面查看。
-![手性碳原子验证码示例图.png](img.png)
+
+![手性碳原子验证码示例图片](https://user-images.githubusercontent.com/53334104/207500151-c183e106-31f5-4afc-9276-1ca271477b73.png)
 
 # Installation and Getting Started
 
