@@ -15,7 +15,17 @@ jetbrains skija依赖的动态库在ubuntu一般都有，推荐使用ubuntu。ce
 
 Windows环境如果获取不到静态资源，可以尝试修改获取资源方法。
 
-克隆、编译、运行项目
+运行项目
+
+```
+以ubuntu为例
+1. 从releases页面获取jar包
+2. sudo apt-get install openjdk-11-jdk
+3. java -vsersion查看是否安装成功
+4. nohup java -Dspring.profiles.active=prod -jar chiral-carbon-captcha-0.0.1.jar &
+```
+
+手动构建并运行
 
 ```
 git clone https://github.com/woxigousade/chiral-carbon-captcha.git
@@ -43,3 +53,6 @@ https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/CURRENT-Full/SDF/
 并使用com.gousade.captcha.SdfUtilsTests#splitSDFFile工具进行文件拆分，
 com.gousade.captcha.filterChiralFiles获取包含手性碳原子的文件，
 放入src/main/resources/static/captcha/carbon/mol目录即可。
+
+# Reference
+https://github.com/cinit/NeoAuthBotPlugin
