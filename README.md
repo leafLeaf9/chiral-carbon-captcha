@@ -23,6 +23,12 @@ mvn clean -DskipTests=true package
 java -Dspring.profiles.active=prod -jar chiral-carbon-captcha-0.0.1.jar
 ```
 
+后台运行
+
+```
+nohup java -Dspring.profiles.active=prod -jar chiral-carbon-captcha-0.0.1.jar &
+```
+
 接口文档
 
 ```
