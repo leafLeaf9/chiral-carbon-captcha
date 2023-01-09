@@ -1,7 +1,13 @@
-#FROM ubuntu-latest
-#TODO 将skija依赖的动态库打包进镜像 /tmp/skija_0.93.1/libskija.so: /lib64/libstdc++.so.6: version `CXXABI_1.3.8'
-FROM openjdk:11
+FROM ubuntu:latest
 MAINTAINER woxigousade
-VOLUME /tmp
-ADD target/chiral-carbon-captcha-0.0.1.jar app.jar
+#添加中文字体
+ADD https://raw.githubusercontent.com/SirlyDreamer/Yunzai-Bot/DockerResources/wqy-microhei/wqy-microhei.ttc /usr/share/fonts/wqy-microhei.ttc
+
+#安装jdk11
+RUN apt update && apt-get -y install openjdk-11-jdk
+
+COPY ./chiral-carbon-captcha-0.0.1.jar /app.jar
+
+EXPOSE 9999
+
 ENTRYPOINT ["java","-Dspring.profiles.active=prod","-jar","/app.jar"]
