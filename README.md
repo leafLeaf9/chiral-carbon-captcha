@@ -15,7 +15,19 @@ jetbrains skija依赖的动态库在ubuntu一般都有，推荐使用ubuntu。ce
 
 Windows环境如果获取不到静态资源，可以尝试修改获取资源方法。
 
+`推荐使用docker部署避免环境问题。`
+
 运行项目
+
+#### docker部署
+
+```
+docker pull woxigousade/chiral-carbon-captcha:latest
+docker run -d --name chiral-carbon-captcha -p 9999:9999 chiral-carbon-captcha:latest
+docker logs chiral-carbon-captcha -f
+```
+
+#### 使用编译好的jar包部署
 
 ```
 以ubuntu为例
@@ -25,7 +37,7 @@ Windows环境如果获取不到静态资源，可以尝试修改获取资源方�
 4. nohup java -Dspring.profiles.active=prod -jar chiral-carbon-captcha-0.0.1.jar &
 ```
 
-手动构建并运行
+#### 手动构建并运行
 
 ```
 git clone https://github.com/woxigousade/chiral-carbon-captcha.git
@@ -33,13 +45,13 @@ mvn clean -DskipTests=true package
 java -Dspring.profiles.active=prod -jar chiral-carbon-captcha-0.0.1.jar
 ```
 
-后台运行
+#### 后台运行
 
 ```
 nohup java -Dspring.profiles.active=prod -jar chiral-carbon-captcha-0.0.1.jar &
 ```
 
-接口文档
+#### 接口文档
 
 ```
 http://localhost:9999/swagger-ui/index.html#/chiral-carbon-captcha-controller/getChiralCarbonCaptchaUsingPOST
