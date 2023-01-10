@@ -48,4 +48,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/gousade:latest
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/chiral-carbon-captcha:latest
