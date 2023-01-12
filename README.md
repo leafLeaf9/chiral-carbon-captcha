@@ -7,6 +7,8 @@ chiral-carbon-captcha api.
 
 # Installation and Getting Started
 
+`推荐使用docker部署避免环境问题。`
+
 > environment requires: JDK11 libstdc++.so.6: version `CXXABI_1.3.8'
 
 skija相关依赖需要JDK11，使用JDK8运行会导致skija相关类出现编译版本高于运行版本的错误。
@@ -15,17 +17,26 @@ jetbrains skija依赖的动态库在ubuntu一般都有，推荐使用ubuntu。ce
 
 Windows环境如果获取不到静态资源，可以尝试修改获取资源方法。
 
-`推荐使用docker部署避免环境问题。`
+## docker部署
 
-运行项目
-
-#### docker部署
+拉取镜像
 
 ```
 docker pull woxigousade/chiral-carbon-captcha:latest
+```
+如果官方仓库下载不动可以尝试阿里云仓库
+```
+docker pull registry.cn-beijing.aliyuncs.com/woxigousade/chiral-carbon-captcha:latest
+```
+
+运行容器
+```
 docker run -d --name chiral-carbon-captcha -p 9999:9999 chiral-carbon-captcha:latest
 docker logs chiral-carbon-captcha -f
 ```
+
+<details>
+<summary>手动部署</summary>
 
 #### 使用编译好的jar包部署
 
@@ -36,7 +47,6 @@ docker logs chiral-carbon-captcha -f
 3. java -vsersion查看是否安装成功
 4. nohup java -Dspring.profiles.active=prod -jar chiral-carbon-captcha-0.0.1.jar &
 ```
-
 #### 手动构建并运行
 
 ```
@@ -50,9 +60,9 @@ java -Dspring.profiles.active=prod -jar chiral-carbon-captcha-0.0.1.jar
 ```
 nohup java -Dspring.profiles.active=prod -jar chiral-carbon-captcha-0.0.1.jar &
 ```
+</details>
 
 #### 接口文档
-
 ```
 http://localhost:9999/swagger-ui/index.html#/chiral-carbon-captcha-controller/getChiralCarbonCaptchaUsingPOST
 ```
