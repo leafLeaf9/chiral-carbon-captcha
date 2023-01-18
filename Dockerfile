@@ -16,4 +16,4 @@ COPY target/chiral-carbon-captcha-0.0.1.jar /app.jar
 
 EXPOSE 9999
 
-ENTRYPOINT ["java","-Dspring.profiles.active=prod","-Dfile.encoding=UTF-8","-jar","/app.jar"]
+ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-Dspring.profiles.active=prod","-Dfile.encoding=UTF-8","-jar","/app.jar"]
