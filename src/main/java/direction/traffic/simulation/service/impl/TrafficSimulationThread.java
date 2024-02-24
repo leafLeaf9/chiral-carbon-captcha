@@ -8,14 +8,17 @@ import org.springframework.beans.BeanUtils;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.*;
+import java.util.concurrent.Callable;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.ReentrantLock;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
+import static direction.traffic.simulation.entity.CarFlow.CAR;
+
 @Setter
 @Getter
-public class TrafficSimulationThread implements Runnable {
+public class TrafficSimulationThread implements Callable<List<CarFlow>> {
     private final ReentrantLock lock = new ReentrantLock();
     private TrafficSimulationSceneDTO dto;
     private TrafficSimulationRunDTO run;
@@ -36,7 +39,7 @@ public class TrafficSimulationThread implements Runnable {
     }
 
     @Override
-    public void run() {
+    public List<CarFlow> call() {
         try {
             lock.lock();
             result = carFlows.stream().map(e -> {
@@ -57,8 +60,18 @@ public class TrafficSimulationThread implements Runnable {
                     runOnce();
                     // 一次运行完之后修正变道相关信息
                     getResult().forEach(e -> {
+                        int oldChangeLaneNeedTimes = e.getLocation().getChangeLaneNeedTimes();
+                        if (oldChangeLaneNeedTimes <= 0) {
+                            return;
+                        }
                         e.getLocation().setChangeLaneNeedTimes(Math.max(0, e.getLocation().getChangeLaneNeedTimes() - multipleSpeed));
-                        e.getLocation().setLaneOffset(e.getLocation().getChangeLaneNeedTimes() == 0 ? 0 : e.getLocation().getLaneOffset());
+                        // 变道完成后恢复期望速度
+                        if (e.getLocation().getChangeLaneNeedTimes() == 0) {
+                            e.setRealSpeed(e.getExpectSpeed());
+                            e.getLocation().setLane(e.getLocation().getLane() + e.getLocation().getLaneOffset());
+                            e.getLocation().setLaneOffset(0);
+                            e.getLocation().setWantChaneLane(false);
+                        }
                     });
                 }
                 if (!runFast) {
@@ -69,13 +82,14 @@ public class TrafficSimulationThread implements Runnable {
                     }
                 }
             }
+            return this.result;
         } finally {
             lock.unlock();
         }
     }
 
     private void runOnce() {
-        Map<String, List<CarFlow>> groups = carFlows.stream().collect(Collectors.groupingBy(e -> e.getLocation().getRoadId()));
+        Map<String, List<CarFlow>> groups = result.stream().collect(Collectors.groupingBy(e -> e.getLocation().getRoadId()));
         groups.forEach((k, v) -> {
             Road road = roadMap.get(k);
             v.sort(Comparator.comparing(o -> o.getLocation().getPosition(), Comparator.reverseOrder()));
@@ -110,10 +124,13 @@ public class TrafficSimulationThread implements Runnable {
                 CarFlow lastCar = laneCarList.getLast();
                 boolean safe = exceptLocation.add(buildCarLength(e.getCarType())).add(BigDecimal.valueOf(0.02))
                         .compareTo(lastCar.getLocation().getPosition().subtract(buildCarLength(e.getCarType()))) < 0;
-                if (safe) {
+                if (safe && !e.getLocation().isWantChaneLane()) {
+                    e.getLocation().setPosition(exceptLocation);
                     laneCarList.addLast(e);
                     return;
                 }
+                // 压车且不具备变道条件时设置为true，可以在下次计算时直接尝试变道
+                e.getLocation().setWantChaneLane(true);
                 boolean changeLane = tryChangeLane(originalMap, e);
                 if (changeLane) {
                     // 3秒除以10毫秒
@@ -136,8 +153,8 @@ public class TrafficSimulationThread implements Runnable {
 
     private boolean tryChangeLane(Map<Integer, LinkedList<CarFlow>> originalMap, CarFlow e) {
         int lane = e.getLocation().getLane();
-        LinkedList<CarFlow> list1 = originalMap.getOrDefault(lane - 1, new LinkedList<>());
-        LinkedList<CarFlow> list2 = originalMap.getOrDefault(lane + 1, new LinkedList<>());
+        LinkedList<CarFlow> list1 = originalMap.get(lane - 1);
+        LinkedList<CarFlow> list2 = originalMap.get(lane + 1);
         boolean canChangeLeftLane = checkCanChangeLane(list1, e);
         if (canChangeLeftLane) {
             e.getLocation().setLaneOffset(-1);
@@ -152,6 +169,10 @@ public class TrafficSimulationThread implements Runnable {
     }
 
     private boolean checkCanChangeLane(LinkedList<CarFlow> list, CarFlow e) {
+        // 为null说明根本没有这条车道 直接false
+        if (list == null) {
+            return false;
+        }
         BigDecimal position = e.getLocation().getPosition();
         // 车辆不多直接allMatch 数量多可以改为取前车最后一个和后车第一个比较
         boolean frontMatch = list.stream().filter(o -> o.getLocation().getPosition().compareTo(position) > 0)
@@ -168,7 +189,7 @@ public class TrafficSimulationThread implements Runnable {
     }
 
     private BigDecimal buildCarLength(String carType) {
-        if ("car".equals(carType)) {
+        if (CAR.equals(carType)) {
             return BigDecimal.valueOf(0.0045 / 2);
         } else {
             return BigDecimal.valueOf(0.0072 / 2);
@@ -199,6 +220,6 @@ public class TrafficSimulationThread implements Runnable {
     }
 
     private BigDecimal buildDistance(CarFlow e) {
-        return e.getRealSpeed()/*.multiply(BigDecimal.valueOf(10))*/.divide(BigDecimal.valueOf(360000), 3, RoundingMode.HALF_UP);
+        return e.getRealSpeed()/*.multiply(BigDecimal.valueOf(10))*/.divide(BigDecimal.valueOf(360000), 20, RoundingMode.HALF_UP);
     }
 }
