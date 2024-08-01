@@ -1,10 +1,7 @@
 package direction.traffic.simulation.service;
 
-import direction.traffic.simulation.entity.CarFlow;
 import direction.traffic.simulation.entity.TrafficSimulationRunDTO;
 import direction.traffic.simulation.entity.TrafficSimulationSceneDTO;
-
-import java.util.List;
 
 public interface ITrafficSimulationService {
     String init(TrafficSimulationSceneDTO dto);
@@ -15,8 +12,4 @@ public interface ITrafficSimulationService {
      * @param dto
      */
     void run(TrafficSimulationRunDTO dto);
-
-    List<CarFlow> runFast(TrafficSimulationRunDTO dto);
-
-    List<CarFlow> carFlow(Long id);
 }
