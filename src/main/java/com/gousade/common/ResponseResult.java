@@ -3,6 +3,7 @@ package com.gousade.common;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
+import org.springframework.http.HttpStatus;
 
 import java.io.Serializable;
 import java.util.HashMap;
@@ -48,6 +49,11 @@ public class ResponseResult implements Serializable {
         responseResult.setMessage("操作失败");
         return responseResult;
     }
+
+    public static ResponseResult renderBadRequest() {
+        return renderError().code(HttpStatus.BAD_REQUEST.value());
+    }
+
 
     public static ResponseResult renderBoolean(Boolean b) {
         if (b) {
