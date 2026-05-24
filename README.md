@@ -31,7 +31,7 @@ docker pull registry.cn-beijing.aliyuncs.com/woxigousade/chiral-carbon-captcha:l
 
 运行容器
 ```
-docker run -d --name chiral-carbon-captcha -p 9999:9999 chiral-carbon-captcha:latest
+docker run -d --name chiral-carbon-captcha -p 9999:9999 woxigousade/chiral-carbon-captcha:latest
 docker logs chiral-carbon-captcha -f
 ```
 
